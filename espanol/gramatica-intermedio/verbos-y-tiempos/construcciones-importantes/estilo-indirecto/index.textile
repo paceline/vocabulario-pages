@@ -1,0 +1,62 @@
+---
+layout: default
+title: Estilo indirecto
+---
+
+h1. {{ page.title }}
+
+h2. Información
+
+h3. Forma
+
+|_.Verbo introductor (decir)|_.Estilo directo|_.Estilo indirecto|
+|Presente / Pret. Perfecto|Presente  / Pasado|Presente  / Pasado|
+||Futuro|Futuro|
+|Pret. Perfecto / Pret. Indefinido / Imperfecto / Pluscuamperfecto|Presente|Pret. Imperfecto|
+||Pret. Perfecto|Pret. Pluscuamperfecto / Indefinido|
+||Pret. Indefinido|Pret. Pluscuamperfecto / Indefinido|
+||Pret. Imperfecto|Pret. Imperfecto|
+||Futuro|Condicional|
+
+h3. Uso
+
+h4. Fundamentos
+
+|_.Estilo directo|_.Estilo indirecto|_.Comentario|
+|*Él dice / ha dicho:*|*Él dice / ha dicho que*|No cambia!|
+|Mañana va a llover"|...mañana va llover|No cambia!|
+|He ido al médico"|...ha ido al médico|No cambia!|
+|*Él ha dicho / dijo / había dicho / decía:*|*Él ha dicho / dijo / había dicho / decía que*||
+|Estoy cansado|...estaba cansado|Presente -> Imperfecto|
+|No he terminado el informe|...no había terminado el informe|Perfecto -> Pluscuamperfecto|
+|Estoy estudiando francés|...estaba estudiando francés|Presente (gerundio) -> Imperfecto (gerundio|
+|Voy a ver Elena|...iba a ver a Elena|Presente -> Imperfecto|
+|Te llamé por teléfono|...me había llamado / llamó por telefono|Indefinido -> Pluscuamperfecto / Indefinido|
+|Os ayudaré|...no ayudaría|Futuro -> Condicional|
+
+h4. Pretérito Perfecto
+
+Cuando el verbo introductor está en Pretérito Perfecto (ha dicho) el tiempo de la afirmación in estilo indirecto puede ser el mismo el estilo director o puede cambiar.
+
+h4. Preguntar, responder
+
+Cuando el verbo introductor es preguntar o responder, el estilo indirecto sigue las mismas reglas que con decir: ¿Dónde vive vd?" - El policía le preguntó al detenido que dónde vivía. (Presente -> Imperfecto)
+
+h2. Orden, petición
+
+h3. Forma
+
+|_.Verbo introductor|_.Estilo directo|_.Estilo indirecto|
+|Presente / Pret. Perfecto|Imperativo|Presente de subjuntivo|
+|Pret. Perfecto / Pret. Indefinido / Imperfecto / Pluscuamperfecto|Imperativo|Pretérito de subjuntivo|
+
+h3. Uso
+
+|_.Estilo directo|_.Estilo indirecto|_.Comentario|
+|*Él dice / ha dicho:*|*Él dice / ha dicho que*|Pres. de subjuntivo!|
+|Haz los deberes|...hagas los deberes|Pres. de subjuntivo!|
+|He ido al médico"|...ha ido al médico|No cambia!|
+|*Él ha dicho / dijo / había dicho / decía:*|*Él ha dicho / dijo / había dicho / decía que*||
+|Haz los deberes|...hiciers los deberes|Pres. de subjuntivo!|
+
+En este caso el verbo decir tiene el significado de ordenar, pedir un favor, sugerir y las oraciones subordinales que  dependan de uno de estos verbos llevarán el verbo en subjuntivo.ablando de *lo de Aurora*

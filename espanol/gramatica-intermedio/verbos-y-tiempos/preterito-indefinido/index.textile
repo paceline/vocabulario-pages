@@ -1,0 +1,44 @@
+---
+layout: default
+title: Pretérito indefinido
+---
+
+h1. {{ page.title }}
+
+h2. Uso
+
+# Se usa para hablar de *acciones pasadas y acabadas*, *sin relación con el Presente* (El lunes pasado *vi* a Jaime en el dentista)
+# Normalmente va acompañado de marcadores temporales *que sitúan la acción*. De ahí su utilización en las *biografías* (Recibí tu cata *en abril* - Miguel de Cervantes *murió en 1616*)
+# Otras veces lo acompañan marcadores que *delimitan la acción* (Mio tío vivó en Chile *muchas años / hasta 1969 / bastante tiempo*)
+# Puedo usarse para *acciones que se repiten* (Después la muerte de Ernesto, *fui a visitar* a su madre *varias veces*)
+
+h2. Forma
+
+h3. Regular
+
+|_.|_.habl-ar|_.com-er|_.viv-ir|
+|yo|habl-é|com-í|viv-í|
+|tú|habl-aste|com-íste|viv-íste|
+|él/ella/usted|habl-ó|com-ió|viv-ío|
+|nostros/-as|habl-amos|com-imos|viv-imos|
+|vostros/-as|habl-asteis|com-isteis|viv-isteis|
+|ellos/ellas/ustedes|habl-aron|co-ieron|viv-ieron|
+
+h3. Irregular
+
+h4.  "Más frecuentes":/lists/conjugations-i-really-need-to-know
+
+* conducir: producir, traducir
+* dormir: morir
+* hacer: rehacer
+* leer: caer(se), construir, destruir, huir, oír
+* despedir: pedir, divertirse, vestir(se), sentir
+* proponer: disponer, componer, poner
+* saber: caber
+* tener: detener(se), obtener
+
+h4. Con modificación en la primera persona
+
+* buscar (busqué): acercar, equivocarse, embarcar
+* llegar (llegué): jugar
+* cruzar (crucé): cazar

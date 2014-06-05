@@ -1,0 +1,40 @@
+---
+layout: default
+title: Pretérito pluscuamperfecto
+---
+
+h1. {{ page.title }}
+
+h2. Uso
+
+# Acciones pasadas que son anteriores a otras: Ayer, *cuando volví* a casa, *ya había hecho* la comida.
+# En correlación con el Pretérito Perfecto: *Hoy he visto* un tiburón de verdad. Yo *antes nunca había visto* uno.
+
+h2. Forma
+
+h3. regular
+
+Pretérito imperfecto de *haber* + participio pasado
+
+|yo|había|
+|tú|habías|
+|él/ella/Vd.|había|
+|nostros|habíamos|
+|vosotros|habíais|
+|ellos/Vds.|habían|
+
+Ej.: Yo había cantado
+
+h3. irregular
+
+* abrir -> abierto
+* decir -> dicho
+* escribir -> escrito
+* freír -> frito
+* hacer -> hecho
+* morir -> muerto
+* poner -> puesto
+* resolver -> resuelto
+* romper -> roto
+* volver -> vuelto
+* ver -> visto

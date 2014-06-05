@@ -1,0 +1,106 @@
+---
+layout: default
+title: Preposiciones
+---
+
+h1. {{ page.title }}
+
+h2. a
+
+h3. a + objeto directo (de persona)
+
+*Verbos:* invitar, parecerse, etc.
+
+# Se usa la preposición *a* delante del objeto directo cuando éste es una *persona*: Esta mañana *he visto a Luisa* en la taquilla del teatro (mientras que: Esta mañana *he visto* un accidente)
+# *Nunca* con el verbo *tener*: Gloria tiene tres hijos de us primer marido
+# Con el verbo *buscar*, cuando la persona a la que nos referimos con el Objeto Directo es indeterminada, se moite la preposición: Si *no encuentras  a* nuestro fontanero, *busca* un fontanero cualquiera
+# Cuando el objeto directo se refiere a animales, el uso de la preposición *a* es opcional. En general, se utiliza detrás de verbos que significan actividades propias de seres animados como alimentar, pasear, querer, etc.: ¿Con qué alimentas a tu perro? (mientras que: Anoche vi el gato de los vecinos.
+
+h3. a + infinitivo
+
+*Verbos:* empezar, acostumbrarse, atreverse, obligar, similar etc.
+
+h3. Expresiones fijas
+
+a máquina, a cántaros
+
+h3. Uso
+
+* *Destino:* Este tren va a Sevilla
+* *Hora:* Llegaré a las 10.
+* *Objetivo / finalidad / complemento indirecto:* Voy a ver el partido de tenis. ¿A usted le gusta el tenis?
+* Complemento directo de persona: El embajador no pudo recibir a los invitados
+* *Precio / fecha / distancia / temperatura, con el verbo estrar:* ¿A cuánto están hoy las naranjas? Hoy estamos a 23 de septiembre. 
+
+h2. con
+
+*Verbos:* soñar, conformarse, casarse, etc.
+
+h3. Uso
+
+* *Compañía:* Me quedé en casa con todos los demás
+* *Instrumento / modo*: El ladrón entró con mucho sigilo y nadie lo oyó.
+
+h2. de
+
+*Verbos:* tratar, enamorarse, entender, saber, tener miedo, arrepentirse, abusar, depender, reírse, quejarse, enterarse, lamentarse, ...
+
+*Expresiones fijas:* de memoria, de rodillas
+
+h3. Uso
+
+* *Posesión:* ¿De quién es este libro?
+* *Material:* Se ha comprado un mueble de caoba auténtica.
+* *Origen en el tiempo y el espacio:* Llegué ayer de Cádiz.
+* *Modo:* Haces tu trabajo de mala gana.
+* *Momento del día al decir las horas:* Salimos a las seis de la tarde.
+* *Datos de una descripción:* Es una mujer de ojos claros y (de) pelo rizado
+
+h2. desde
+
+h3. Uso
+
+* *Origen en el tiempo y en el espacio:* Viene el tren desde Zaragoza. Veraneamos en Santander desde 1980.
+
+h2. en
+
+*Verbos:* confiar, insistir, pensar, etc.
+
+h3. Uso
+
+* *Lugar (posición) / tiempo:* Está en el dormitorio, en la mía. Nació en 1980, en primavera.
+* *Meido de transporte:* Siempre vengo en bicicleta, es más sano.
+
+h2. hacia
+
+h3. Uso
+
+* *Dirección / lugar:* Ha habido un incendio en tu barrio y los bomberos ya van hacia allí.
+* *Tiempo (no muy preciso):* No estoy seguro, pero creo que fue hacia 1956.
+
+h2. hasta
+
+h3. Uso
+
+* *Término en el tiempo y en el espacio:* El agua no podrá llegar hasta allí. Te esperaré hasta las 5. Luego me iré.
+
+h2. para
+
+h3. Uso
+
+* *Objetivo / finalidad:* Para ser ingeniero hay que estudiar mucho.
+* *Dirección / lugar:* Ya que vas a la cocina, llévate esto para allá.
+* *Tiempo:* Para el més que viene tengo tres concierto.
+
+h2. por
+
+*Verbos:* preocuparse, brindar, luchar, optar, preguntar, etc.
+
+*Expresiones fijas:* por causalidad, por los codos, por correo, estar por compras
+
+h3. Uso
+
+* *Causa:* Lo han despedido del trabajo por vago.
+* *Lugar:* *Por aquí* no hay salida.
+* *Complemento agente en la voz pasiva:* El concierto ha sido dirigido por Luis Cobos.
+* *Precio:* Me ha traído tres camisas por 10 euros.

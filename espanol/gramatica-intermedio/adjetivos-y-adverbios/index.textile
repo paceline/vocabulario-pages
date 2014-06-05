@@ -1,0 +1,54 @@
+---
+layout: default
+title: Adjetivos y adverbios
+---
+
+h1. {{ page.title }}
+
+h2. Comparativos
+
+h3. De los adjetivos
+
+h4. Regulares
+
+* *más* + adjetivo + *que*
+* *menos* + adjetivo + *que*
+* *tan* + adjetivo + *como*
+
+P.ej.: María no es *tan alta como* su hermana
+
+h4. Irregulares
+
+|bueno, -a, -os, -as|mejor, mejores|
+|malo, -a, -os, -as|peor, peores|
+|grande,-es|mayor, mayores|
+|pequeño, -a, -os, -as|menor, menores|
+
+h3. De los sustantivos
+
+* Verbo + *más* + sustantivo + *que*
+* Verbo + *menos* + sustantivo + *que*
+* Verbo + *tan + sustantivo + *como*
+
+P.ej.: Ellos tienen tanto dinero como nosotros
+
+h3. Adverbial
+
+Funciona como adjetivos...
+
+P.ej.: Mi hijo estudia tanto como el tuyo.
+
+h2. Superlativos
+
+h3. Absoluto
+
+* muy + adjetivo /adverbio
+* raíz del adjetivo / adverbio + *ísimo*
+
+P.ej.: Maribel es *muy guapa* y *simpatiquísima*
+
+h3. Relativo
+
+el / la /los /las + más / menos + adjetivo + de / que
+
+P.ej.: Tu regalo es el más bonito de todos. 

@@ -1,0 +1,36 @@
+yout: default
+title: Imperativo afirmativo y negativo
+---
+
+h1. {{ page.title }}
+
+h2. Forma
+
+h3. Afirmativo
+
+|_.|_.habl-ar|_.com-er|_.viv-ir|
+|tú|habl-a|com-e|viv-e|
+|él/ella/usted|habl-e|com-a|viv-a|
+|nostros/-as|habl-emos|com-amos|viv-amos|
+|vostros/-as|habl-ad|com-ed|viv-id|
+|ellos/ellas/ustedes|habl-en|com-an|viv-an|
+
+h3. Negativo
+
+|_.|_.habl-ar|_.com-er|_.viv-ir|
+|tú|habl-es|com-as|viv-es|
+|él/ella/usted|habl-e|com-a|viv-a|
+|nostros/-as|habl-emos|com-amos|viv-amos|
+|vostros/-as|habl-éis|com-áis|viv-áis|
+|ellos/ellas/ustedes|habl-en|com-an|viv-an|
+
+Irregulares tienen la misma irregularidad que en Presente.
+
+h2. Uso
+
+# Órdenes in situaciones con mucha confianza: Para mañana *haced* todos los ejercicios de la página 30.
+# Para dar instrucciones: *No entren ni salgan* después del toque de silbato
+# Para da consejos, en la publicidad, por ejemplo: *Venga* a vernos y le informaremos.
+# La forma de la primera persona del plural se usa poco y casi siempre en frases hechas: *Vayamos* por partes, primero vamos a hablar de...
+# En forma afirmativa, los pronombres van detrás del verbo y se escriben en una sola palabra: *Quítate* las gafas
+# En la forma negativa, los pronombres van delante del verbo: *No te quites* las gafas.

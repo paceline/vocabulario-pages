@@ -1,0 +1,149 @@
+---
+layout: default
+title: Indicativo vs. Subjuntivo
+---
+
+h1. {{ page.title }}
+
+h2. Oraciones finales: Para / para que / para qué
+
+# para + infinitivo - Cuando el sujeto de los dos verbos es lo mismo: He venido *para verte* (yo - yo)
+# para que + subjuntivo - Cuando el sujeto de los dos verbos es diferente: He venido *para que me cuentes* toda la verdad (yo - tú)
+# para qué + indicativo - En la oraciones interrogativas introducidas por *¿para qué..?* se utiliza siempre el modo Indicativo: ¿Para qué quieres más dinero?, no necesitas más.
+
+h2. Oraciones temporales: Cuando / cuándo
+
+h3. Cuando + indicativo o subjuntivo
+
+# Indicativo - Cuando hablamos del pasado: *Cuando era* pequeño, vivía en Salamanca.
+# Indicativo - Cuando hablamos del presente: Luis siempre me trae bombones *cuando viene* a verme.
+# Subjuntivo - Cuando hablamos del futuro: *Cuando tenga* dinero me compraré otro coche.
+# Subjuntivo - Cuando *cuando* tiene un valor condicional: Cuando apruebes todas las asignaturas te compraré la moto (pero: Si apruebas todas las asignaturas te compraré la moto)
+
+h3. ¿Cuándo + indicativo?
+
+Las oraciones interrogativas introducidas por ¿Cuándo...? siempre llevan el vero en Indicativo:
+
+* ¿Cuándo has venido de tu viaje?
+* No sé cuando volverá mi hermana.
+
+h2. Oraciones temporales: Antes de (que) / después de (que) / hasta (que)
+
+h3. Antes de / antes de que
+
+# *Infinitivo* - Cuando el sujeto de los verbos es el mismo: ¿Terminaremos *antes de comer*? (nostros - nosotros)
+# *Subjuntivo* - Cuando el sujeto de los verbos no es el mismo: Vamos a terminar, antes de que venga el jefe (nosotros - él)
+
+h3. Después de / después de que
+
+# Las oraciones introducidas por *después de* van normalmente en *Infinitivo*: Nos iremos al cine *después de cenar*.
+# Aunque es poco usual, es posible encontrar e verbo en *Subjuntivo* cuando el sujeto de los verbos es diferente: Nos iremos al cine *después de que llegue* la "canguro". (nosotros - ella)
+
+h3. Hasta / hasta que
+
+# *Indicativo* - Cuando hablamos del presente o del pasado: Mi madre no se acuesta *hasta que yo llego*.
+# *Subjuntivo* - Cuando hablamos del futuro: No cenaremos *hasta que venga* papá.
+# Aunque es poco usual, es posible encontrar e verbo en *Infinitivo* cuando el sujeto de los verbos es el mismo: Bailó *hasta caer* rendida.
+
+h2. Espero / quiero / prefiero / necesito + infinitivo (que + subjuntivo)
+
+# *Infinitivo* - cuando el sujeto de los dos verbos es el mismo: Prefiero quedarme en casa (yo - yo)
+# *Subjuntivo* - cuando el sujeto no es el mismo: Prefiero que me leas un cuento (yo - tú)
+
+h2. Es una pena / qué pena / es raro / qué raro + que + presente o perfecto de subjuntivo
+
+# El *Pretérito Perfecto de Subjuntivo* expresa acciones pasadas y acabadas. Se utiliza siempre en todos los casos en que se requiera el modo subjuntivo: *Cuando hayas estudiado* todos los verbos, te los preguntaré
+# Las oraciones que sirven para expresar opiniones y sentimientos (p.ej. es una pena...), llevan el verbo subordinado en Subjuntivo. Si expresan una acción pasada van Pretérito Perfecto de Subjuntivo: *Es una pena que no hayáis venido* al concierto.
+
+h2. (No) está claro, (no) es obvio, (no) es lógico, (no) es necesario,
+
+h3. Está claro, es obvio, es evidente, es cierto, ... que
+
+# Indicativo - Cuando la oración principal es *afirmativa*: *Está* demonstrado que el tabaco perjudica* la salud.
+# Indicativo - Cuando la oración principal es *negativa* e *interrogativa*: ¿*No es verdad que la gasolina ha bajado* de precio?
+# Subjuntivo - Cuando la oración principal es *negativa*: *No está claro que el acusado sea* culpable.
+
+h3. es lógico, es necesario, es posible, ... (que)
+
+# Infinitivo - Cuando la oración no tiene un sujeto personal. Son construcciones impersonales que expresan afirmaciones generales: *Es necesario ahorrar* para el futuro
+# Subjuntivo - Cuando la oración subordinada tiene un sujeto personal: *Es necesario que ahorres* para el futuro.
+
+h2. Oraciones de relativo
+
+Las oraciones adjetivas de relativo están introducidas siempre por un enlace relativo. El más usado es *que*, tanto para personas como para cosas: Las mujeres que están allí hablando son españolas.
+
+Estas oraciones pueden llevar el verbo en Indicativo o Subjuntivo:
+
+# Indicativo - Cuando se dice del antecedente algo seguro, constatado: Ahora tengo un ordenador *que no funciona* bien.
+# Subjuntivo - Cuando se dice del antecedente algo no bien definido o constatado: Estoy buscando un ordenador que funcione bien. - ¿Hay alguien *que haya visto al asesino*?
+# Subjuntivo - Cuando negamos la existencia del antecedente o decimos que es escaso: Aquí *no hay nadie que sepa inglés* - Conozco *poca gente que cocine* como ella.
+
+h2. (No) me gusta / molesta / importa... (que)
+
+Las oraciones subordinadas de verbos que expresan sentimientos como *gustar*, *importar*, *molestar*, *fastidiar* y que funcionan con los pronombres *me / te / le / nos / os / les*, pueden llevar el verbo en Infinitivo o Subjuntivo:
+
+# Infinitivo - Cuando el sujeto lógico de los dos verbos es el mismo: No le gusta ni esquiar ni nadar
+# Subjuntivo - Cuando el sujeto lógico de los verbos no es el mismo: A mi madre no le gusta que yo esquíe
+
+h2. (No) pienso / creo / estoy seguro de... que / (no) sé
+
+Las oraciones subordinadas de verbos llamados de "entendimiento" -creer, pensar, suponer, imaginar, etc.- pueden llevar el verbo en Indicativo o Subjuntivo:
+
+# Indicativo - Cuando el verbo principal está en forma afirmativa: ¿Supongo que te casarás con Marisa, no? / Y María, ¿no viene? - No, creo que tiene que terminar unas cartas.
+# Subjuntivo - Cuando el verbo principal está en forma negativa: Y María, ¿no viene? - No creo que venga. Tiene que terminar unas cartas.
+
+h3. saber
+
+# El verbo *saber* introduce oraciones interrogativas indirectas que llevan el vero en Indicativo: Sólo *ella sabe si Ernesto está trabajando* en la misma empresa.
+# Cuando va en forma negativa, la oración subordinada lleva el verbo en Infinitivo o en Indicativo: No sabe qué hacer con su hijo - No sabemos por dónde vendrá el tren.
+
+h2. Me gustaría (que)
+
+Las oraciones subordinadas de verbos de sentimiento pueden llevar el verbo en Infinitivo o Subjuntivo. En el caso de que el verbo principal vaya en en Condicional, el verbo subordinado puede ir en Infinitivo o en Pretérito Imperfecto de Subjuntivo.
+
+# Infinitivo - Cuando el sujeto de los dos verbos es el mismo: Me gustaría llegar pronto a casa
+# Subjuntivo - Cuando el sujeto de los dos verbos no es diferente: Me gustaría que mis nietos llegasen pronto a casa
+
+h2. Oraciones concesivas
+
+h3. Indicativo
+
+# Cuando hablamos del pasado: Ayer, *aunque no tenía* ganas, fui al cine
+# Cuando hablamos del presente o futuro. Especialmente usamos el Indicativo si el hablante está muy seguro del la "concesión", o si está indica una dificultad real: *Aunque estoy* muy cansada, esta tarde *iré* a la fiesta
+
+h3. Subjuntivo
+
+# Cuando hablamos del futuro. Usamos el Subjuntivo si el hablante no está muy seguro del la "concesión", o si está indica una dificultad condicional: Este verano, *aunque no tenga dinero*, iré a Paris
+# Cuando la concesión es poco probable o imposible que se cumpla, usamos el Pretérito Imperfecto de Subjuntivo en la oración subordinada, y el Condicional en la oración principal. Compare la tres posibilidades:
+
+* Aunque me pagan poco, trabajo ahí
+* Aunque me paguen poco, trabajaré ahí
+* Aunque me pagaran poco, trabajaría ahí
+
+h3. Indicativo o subjuntivo
+
+En algunas ocasiones, es una elección del hablante usar el Indicativo o Subjuntivo. Observe los ejemplos:
+
+* Yo, aunque soy / sea pobre, soy feliz.
+* ¿Vas a salir?, hace un tiempo horrible. - Bueno, no me importa, aunque haga / hace mal tiempo voy a salir a dar una vuelta.
+
+h2. Concordancia de tiempos
+
+|_.Indicativo|_.Subjuntivo|
+|Presente, Pret. Perfecto, Futuro, Imperativo|Presente o Pret. Perfecto|
+|Pret. Imperfecto, Indefinido, Condicional, Pret. pluscuamperfecto|Pret. Imperfecto|
+
+h3. Ejemplos
+
+|_.Oración|_.Indicativo|_.Subjuntivo|
+|Quiero que vengas a la reunión para informarte|Presente|Presente|
+|He querido que vengas a la reunión para informarte|Pret. Perfecto|Presente|
+|Quise que vinieras a la reunión para informarte|Indefinido|Pret. Imperfecto|
+|No creo que esté enfermo|Presente|Presente|
+|No creí que estuviera enfermo|Pret. Indefinido|Pret. Imperfecto|
+|No creo que haya estado enfermo tantos días|Presente|Pret. Perfecto|
+
+No obstante, podemos encontrar otras correlaciones:
+
+* No creo que él estuviera en casa cuando sucedió todo
+* Me sorprende que no te llamara el domingo pasado.

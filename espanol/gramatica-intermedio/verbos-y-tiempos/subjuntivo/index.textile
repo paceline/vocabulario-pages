@@ -1,0 +1,36 @@
+---
+layout: default
+title: Subjuntivo
+---
+
+h1. {{ page.title }}
+
+h2. Presente
+
+h3. Uso
+
+# El Modo Subjuntivo tiene muchos valores; se utiliza para expresar *inseguridad*, *futuro*, *deseo* u otros sentimientos: Cuando tenga tiempo, iré a verte.
+# Con quizás, tal vez + subjuntivo expresamos *posibilidad* e *hipótesis*: Quizás venga por la tarde.
+# Con ojalá + Subjuntivo expresamos *deseo*: ¡Ojalá no sea grave!
+
+h3. Forma
+
+|_.cantar|_.comer|_.vivir|
+|cant-e|com-a|viv-a|
+|cant-es|com-as|viv-as|
+|cant-e|com-a|viv-a|
+|cant-emos|com-amos|viv-amos|
+|cant-éis|com-áis|viv-áis|
+|cant-en|com-an|viv-an|
+
+Si en Presente de Indicativo es irregular sólo la primera persona, en Presente de Subjuntivo son irregulares todas las personas!
+
+h2. Pretérito imperfecto de subjuntivo
+
+|_.cantar|_.comer|_.vivir|
+|cant-ara|com-iera|viv-iera|
+|cant-aras|com-ieras|viv-ieras|
+|cant-ara|com-iera|viv-iera|
+|cant-áramos|com-iéramos|viv-iéramos|
+|cant-arais|com-ieraís|viv-ierais|
+|cant-aran|com-ieran|viv-ieran|

@@ -1,0 +1,16 @@
+---
+layout: default
+title: estuve, estaba, he estado + gerundio
+---
+
+h1. {{ page.title }}
+
+h2. Estaba cantando / estuve cantando
+
+# Estaba cantando se opone a estuve cantando de la misma forma que cantaba se opone a canté: Ayer *estuve esperando* el autobús mucho rato. - Cuando *estaba esperando* el autobús, me robaron el monedero.
+# El valor de habitualidad de Pretérito Imperfecto no puede expresarse con la form perifrástica estar + gerundio: Antes -estaba durmiendo- *dormía* todos los días la siesta, pero ahora no
+# Hay una serie de verbos que admiten la forma perifrástica (estar + gerundio): ir, tener, venir, volver
+
+h2. He estado cantando
+
+Se utiliza con los mismos marcadores temporales que el Pretérito Imperfecto, haciendo hincapié n la duración del acción: Esta mañana la niña *ha estado llorando* un buen rato.

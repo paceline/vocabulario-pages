@@ -1,0 +1,77 @@
+---
+layout: default
+title: Artículos
+---
+
+h1. {{ page.title }}
+
+h2. Nombres de personas / animales
+
+Siempre son masculinos los nombres de personas y animales de sexo masculino y son femininos los nombres de personas y animales de sexo feminino:
+* El: el hombre, el caballo, el gato, el profesor
+* La: la mujer, la yegua, la gata, la profesora
+
+h2. Suelen ser femininos
+
+# Los nombres de cosas terminadas en *-a*, excepto: el planeta, el tema, el idioma, el problema
+# Los nombres terminadas en *-tad* y *-dad*: la amistad, la felicidad
+# Los nombres que terminan en *-ción*, *-sión*, *-zón*: la canción, la pasión, la razón (Excepciones: el corazón, el buzón)
+# Los nombres que terminan en *-tud*: la juventud, la multitud
+
+h2. Suelen ser masculinos
+
+# Los nombres de cosas terminadas en *-o*, excepto: la mano, la radio, la moto, la foto
+# Los días de a semana y los meses del año: El lunes, el agosto
+
+h2. Profesiones
+
+# Profesiones acabados en *-ista* y *-ante* sirven para el masculino y el feminino: el / la taxista, el / la policía, el / la cantante
+# Otras: el medicó / la médica, el jefe / la jefa, el juez / la jueza
+
+h2. Formas distintas
+
+el gallo / la gallina, el rey / la reina, el príncipe / la princesa, el macho / la hembra, el caballo / la yegua, el toro / la vaca, el yerno / la nuera
+
+h2. Significado diferente
+
+En algunas ocasiones, la misma palabra tiene significado diferente según sea su género:
+* el manzano (árbol) / la manzana (fruta)
+* el cólera (enfermedad / la cólera (ira)
+* el pendiente (joya) / la pendiente (desnivel)
+
+h2. Diferencia entre singular y plural
+
+el águila / las águilas, el agua / las aguas, un aula / unas aulas
+
+Pero: Esta agua está muy fría. Doy clase en esta aula.
+
+h2. Artículos determinados
+
+# Algo que conocemos o que queremos concretar: Dame el libro de español.
+# Días de la semana y las horas: Los lunes, a las siete
+# Delante de señor, señora y señorita si se mencionan en tercera persona: Buenas días, ¿está la señorita Romero? (mientras que: ¡Señorita Romero! ¿puede venir, por favor?
+# Cosas únicas: La luna, la tierra, el Presidente, la vida
+# Con gustar (o similar): A mí me encantan los bailes de salón - Pues yo prefiero los bailes regionales.
+# Nombres abstractos: La felicidad total no existe
+# Hablando en general: Nos gusta la música (en general, no alguna música specifica)
+# Todo de algo: Juan, saca *el dinero* del banco (= todo el dinero que tenemos en el banco) - mientras que: Juan, saca *dinero* del banco (= una parte no especificada del dinero)
+# Nombres proprios: La India, La Coruña, La Rioja, El río Manzanares, El Manzanares, Las (islas) Baleares
+
+h2. Artículos indeterminados
+
+# Cuando mencionamos algo por primera vez: he visto unos muebles antiguos muy bonitos
+# Con el verbo haber: Hay una pluma.
+# Con nombre de profesión: Me atendió una enfermera muy amable
+# Cosas conocidas, pero no queremos especificar: El fin de semana fuimos a casa de *unos amigos*
+
+h2. No artículo
+
+# Con nombres de profesiones: Ella es periodista (pero: Ella es una periodista muy famosa)
+# Con nombres que no tienen función de sujeto: ¿Tienes coche? (pero: Tengo un coche muy rápido)
+
+h2. Artículo neuro LO
+
+# Delante un adjetivo: *Lo importante* es que tú seas feliz.
+# Delante un adverbio: No sabes *lo bien* que está mi abuelo.
+# Oraciones de relativo: No se me ha olvidado *lo que dijiste*
+# Referirse a algo conocido por el interlocutor sin nombrarlo exactamente: ¿Qué tal la reunión? - Regular. Nos pasamos el tiempo hablando de *lo de Aurora*

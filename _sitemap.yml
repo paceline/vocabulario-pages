@@ -1,74 +1,113 @@
 ---
-index.textile: index.textile
+espanol:
+  gramatica-intermedio:
+    adjetivos-y-adverbios:
+      index.textile: espanol/gramatica-intermedio/adjetivos-y-adverbios/index.textile
+    articulos-pronombres-y-preposiciones:
+      articulos:
+        index.textile: espanol/gramatica-intermedio/articulos-pronombres-y-preposiciones/articulos/index.textile
+      preposiciones:
+        index.textile: espanol/gramatica-intermedio/articulos-pronombres-y-preposiciones/preposiciones/index.textile
+      pronombres:
+        index.textile: espanol/gramatica-intermedio/articulos-pronombres-y-preposiciones/pronombres/index.textile
+      index.textile: espanol/gramatica-intermedio/articulos-pronombres-y-preposiciones/index.textile
+    verbos-y-tiempos:
+      subjuntivo:
+        index.textile: espanol/gramatica-intermedio/verbos-y-tiempos/subjuntivo/index.textile
+      preterito-indefinido:
+        index.textile: espanol/gramatica-intermedio/verbos-y-tiempos/preterito-indefinido/index.textile
+      preterito-imperfecto:
+        index.textile: espanol/gramatica-intermedio/verbos-y-tiempos/preterito-imperfecto/index.textile
+      construcciones-importantes:
+        estilo-indirecto:
+          index.textile: espanol/gramatica-intermedio/verbos-y-tiempos/construcciones-importantes/estilo-indirecto/index.textile
+        indicativo-vs-subjuntivo:
+          index.textile: espanol/gramatica-intermedio/verbos-y-tiempos/construcciones-importantes/indicativo-vs-subjuntivo/index.textile
+      verbos-especiales:
+        ser-vs-estar:
+          index.textile: espanol/gramatica-intermedio/verbos-y-tiempos/verbos-especiales/ser-vs-estar/index.textile
+        estuve-estaba-he-estado:
+          index.textile: espanol/gramatica-intermedio/verbos-y-tiempos/verbos-especiales/estuve-estaba-he-estado/index.textile
+        index.textile: espanol/gramatica-intermedio/verbos-y-tiempos/verbos-especiales/index.textile
+        conocer-saber-poder:
+          index.textile: espanol/gramatica-intermedio/verbos-y-tiempos/verbos-especiales/conocer-saber-poder/index.textile
+      index.textile: espanol/gramatica-intermedio/verbos-y-tiempos/index.textile
+      preterito-pluscuamperfecto:
+        index.textile: espanol/gramatica-intermedio/verbos-y-tiempos/preterito-pluscuamperfecto/index.textile
+    index.textile: espanol/gramatica-intermedio/index.textile
+    oraciones:
+      index.textile: espanol/gramatica-intermedio/oraciones/index.textile
+  index.textile: espanol/index.textile
 italiano:
-  index.textile: italiano/index.textile
   levatura-a1-a2:
-    index.textile: italiano/levatura-a1-a2/index.textile
+    gesprachssituationen:
+      begrussung:
+        index.textile: italiano/levatura-a1-a2/gesprachssituationen/begrussung/index.textile
+      beim-arzt:
+        index.textile: italiano/levatura-a1-a2/gesprachssituationen/beim-arzt/index.textile
+      telefonieren:
+        index.textile: italiano/levatura-a1-a2/gesprachssituationen/telefonieren/index.textile
+      allgemeines:
+        index.textile: italiano/levatura-a1-a2/gesprachssituationen/allgemeines/index.textile
+      einladungen:
+        index.textile: italiano/levatura-a1-a2/gesprachssituationen/einladungen/index.textile
+      smalltalk:
+        index.textile: italiano/levatura-a1-a2/gesprachssituationen/smalltalk/index.textile
+      restaurant:
+        index.textile: italiano/levatura-a1-a2/gesprachssituationen/restaurant/index.textile
+      orientierung:
+        index.textile: italiano/levatura-a1-a2/gesprachssituationen/orientierung/index.textile
+      einkaufen:
+        index.textile: italiano/levatura-a1-a2/gesprachssituationen/einkaufen/index.textile
+      index.textile: italiano/levatura-a1-a2/gesprachssituationen/index.textile
     grammatik:
-      index.textile: italiano/levatura-a1-a2/grammatik/index.textile
       artikel-pronomen-und-prapositionen:
-        index.textile: italiano/levatura-a1-a2/grammatik/artikel-pronomen-und-prapositionen/index.textile
+        artikel:
+          index.textile: italiano/levatura-a1-a2/grammatik/artikel-pronomen-und-prapositionen/artikel/index.textile
         pronomen:
           index.textile: italiano/levatura-a1-a2/grammatik/artikel-pronomen-und-prapositionen/pronomen/index.textile
         praepositionen:
           index.textile: italiano/levatura-a1-a2/grammatik/artikel-pronomen-und-prapositionen/praepositionen/index.textile
-        artikel:
-          index.textile: italiano/levatura-a1-a2/grammatik/artikel-pronomen-und-prapositionen/artikel/index.textile
         konjunktionen:
           index.textile: italiano/levatura-a1-a2/grammatik/artikel-pronomen-und-prapositionen/konjunktionen/index.textile
-      satzformen-und-bau:
-        index.textile: italiano/levatura-a1-a2/grammatik/satzformen-und-bau/index.textile
+        index.textile: italiano/levatura-a1-a2/grammatik/artikel-pronomen-und-prapositionen/index.textile
       verben-und-zeiten:
         presente:
           index.textile: italiano/levatura-a1-a2/grammatik/verben-und-zeiten/presente/index.textile
-        index.textile: italiano/levatura-a1-a2/grammatik/verben-und-zeiten/index.textile
         presente-verlaufsform:
           index.textile: italiano/levatura-a1-a2/grammatik/verben-und-zeiten/presente-verlaufsform/index.textile
-        condizionale:
-          index.textile: italiano/levatura-a1-a2/grammatik/verben-und-zeiten/condizionale/index.textile
         signalworte:
           index.textile: italiano/levatura-a1-a2/grammatik/verben-und-zeiten/signalworte/index.textile
-        passato-prossimo:
-          index.textile: italiano/levatura-a1-a2/grammatik/verben-und-zeiten/passato-prossimo/index.textile
         futuro:
           index.textile: italiano/levatura-a1-a2/grammatik/verben-und-zeiten/futuro/index.textile
         imperativo:
           index.textile: italiano/levatura-a1-a2/grammatik/verben-und-zeiten/imperativo/index.textile
+        index.textile: italiano/levatura-a1-a2/grammatik/verben-und-zeiten/index.textile
+        passato-prossimo:
+          index.textile: italiano/levatura-a1-a2/grammatik/verben-und-zeiten/passato-prossimo/index.textile
+        condizionale:
+          index.textile: italiano/levatura-a1-a2/grammatik/verben-und-zeiten/condizionale/index.textile
         imperfetto:
           index.textile: italiano/levatura-a1-a2/grammatik/verben-und-zeiten/imperfetto/index.textile
-      besonderheiten-der-faelle:
-        index.textile: italiano/levatura-a1-a2/grammatik/besonderheiten-der-faelle/index.textile
-      substantive:
-        index.textile: italiano/levatura-a1-a2/grammatik/substantive/index.textile
       adjektive-und-adverben:
         index.textile: italiano/levatura-a1-a2/grammatik/adjektive-und-adverben/index.textile
-    gesprachssituationen:
-      allgemeines:
-        index.textile: italiano/levatura-a1-a2/gesprachssituationen/allgemeines/index.textile
-      restaurant:
-        index.textile: italiano/levatura-a1-a2/gesprachssituationen/restaurant/index.textile
-      index.textile: italiano/levatura-a1-a2/gesprachssituationen/index.textile
-      telefonieren:
-        index.textile: italiano/levatura-a1-a2/gesprachssituationen/telefonieren/index.textile
-      beim-arzt:
-        index.textile: italiano/levatura-a1-a2/gesprachssituationen/beim-arzt/index.textile
-      smalltalk:
-        index.textile: italiano/levatura-a1-a2/gesprachssituationen/smalltalk/index.textile
-      einkaufen:
-        index.textile: italiano/levatura-a1-a2/gesprachssituationen/einkaufen/index.textile
-      begrussung:
-        index.textile: italiano/levatura-a1-a2/gesprachssituationen/begrussung/index.textile
-      einladungen:
-        index.textile: italiano/levatura-a1-a2/gesprachssituationen/einladungen/index.textile
-      orientierung:
-        index.textile: italiano/levatura-a1-a2/gesprachssituationen/orientierung/index.textile
+      substantive:
+        index.textile: italiano/levatura-a1-a2/grammatik/substantive/index.textile
+      satzformen-und-bau:
+        index.textile: italiano/levatura-a1-a2/grammatik/satzformen-und-bau/index.textile
+      besonderheiten-der-faelle:
+        index.textile: italiano/levatura-a1-a2/grammatik/besonderheiten-der-faelle/index.textile
+      index.textile: italiano/levatura-a1-a2/grammatik/index.textile
     basiswissen:
-      zeitangaben:
-        index.textile: italiano/levatura-a1-a2/basiswissen/zeitangaben/index.textile
-      index.textile: italiano/levatura-a1-a2/basiswissen/index.textile
-      zahlen:
-        index.textile: italiano/levatura-a1-a2/basiswissen/zahlen/index.textile
       aussprache-und-betonung:
         index.textile: italiano/levatura-a1-a2/basiswissen/aussprache-und-betonung/index.textile
+      zeitangaben:
+        index.textile: italiano/levatura-a1-a2/basiswissen/zeitangaben/index.textile
+      zahlen:
+        index.textile: italiano/levatura-a1-a2/basiswissen/zahlen/index.textile
+      index.textile: italiano/levatura-a1-a2/basiswissen/index.textile
       alphabet:
         index.textile: italiano/levatura-a1-a2/basiswissen/alphabet/index.textile
+    index.textile: italiano/levatura-a1-a2/index.textile
+  index.textile: italiano/index.textile
+index.textile: index.textile

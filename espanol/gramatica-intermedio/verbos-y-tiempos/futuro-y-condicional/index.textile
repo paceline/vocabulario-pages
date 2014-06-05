@@ -1,0 +1,41 @@
+yout: default
+title: Futuro y condicional
+---
+
+h1. {{ page.title }}
+
+h2. Uso
+
+h3. Futuro
+
+Se usa principalmente para hablar de acciones futuras. Marcadores temporales son luego, más tarde, esta noche, el año / la semana / el mes que viene, dentro de un mes / tres años, etc.: ¿Has terminado lo que tenías que hacer? No, lo haré luego.
+
+h3. Condicional
+
+# Se usa para expresar una acción cuya realización depende de una *condición*: Si *tuviera* dinero, me *compraría* un chalé.
+# También se usa para dar *consejos*, *sugerencias* o para *pedir favores de manera formal*, menos directa: Yo, en tu lugar, no me pondría esa falda. ¿Podrías traer el periódico? 
+# Cuando repetimos lo que otra persona dijo anteriormente en Futuro: Mañana llegaré diez minutos más tarde. - Ayer dijo que hoy vendría diez minutos más tarde.
+
+h2. Forma
+
+h3. Regular
+
+|_.|_.Futuro|_.Condicional|
+|yo|hablar-é|hablar-ía|
+|tú|hablar-ás|hablar-ías|
+|él/ella/usted|hablar-á|hablar-ía|
+|nostros/-as|hablar-emos|hablar-íamos|
+|vostros/-as|hablar-éis|hablar-íais|
+|ellos/ellas/ustedes|hablar-án|hablar-ían|
+
+h3. Irregular
+
+|_.|_.Futuro|_.Condicional|
+|decir|diré|diría|
+|hacer|haré|haría|
+|poder|podré|podría|
+|poner|pondré|pondría|
+|saber|sabré|sabría|
+|salir|saldré|saldría|
+|tener|tendré|tendría|
+|venir|vendré|vendría|

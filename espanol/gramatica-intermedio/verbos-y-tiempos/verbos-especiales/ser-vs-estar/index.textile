@@ -1,0 +1,24 @@
+---
+layout: default
+title: ser vs. estar
+---
+
+h1. {{ page.title }}
+
+h2. ser
+
+# Definir e identificar personas y cosas: Felipe es alto, Es el marido de Luisa
+# Informar del lugar y la fecha de una celebración: ¿Sabes dónde es el banquete de la boda?
+# Hablar de tiempo: Hoy es martes, son las siete
+
+h2. estar
+
+# Hablar del estado de ánimo de las personas o del estado de cosas: Ricardo hoy *está de buen humor* - Alfonso, esta chaqueta *está sucia y rota*.
+# Hablando de lugar: ¿Dónde está mi agenda?
+# Hablando de tiempo: Ya *estamos a 25 de mayo*
+# Con bien / mal /fatal / cerca / lejos: eso que haces no *está bien*. 
+
+h2. ser / estar
+
+# En descripciones, con el mismo adjetivo, usamos *estar* para hablar de algo *pasajero* y *ser* para hablar de una cualidad: Carlos *es un chico muy nervioso* (pero: Carlos *está* hoy mu nervioso, no sé por qué.)
+# En otras ocasiones, el adjetivo cambia el significado si se usa con un verbo u otro: Caro es muy listo (= inteligente), ¿Estas listo? (= preparado)

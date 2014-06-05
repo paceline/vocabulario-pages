@@ -1,0 +1,40 @@
+---
+layout: default
+title: Pronombres
+---
+
+h1. {{ page.title }}
+
+h2. Forma
+
+h3. Objecto directo
+
+||_.Singular|_.Plural|
+|_.1|me|nos|
+|_.2|te|os|
+|_.3|lo, (le) / la|los, (les) / la|
+
+h3. Objeto indirecto
+
+||_.Singular|_.Plural|
+|_.1|me|nos|
+|_.2|te|os|
+|_.3|le (se)|les (se)|
+
+h2. Uso
+
+# Los pronombres personales masculinos de *Objeto Directo* para persona y cosa son *lo y *los*: Y Gerardo, ¿dónde está? - No sé, hace un rato *lo* vi en su cuarto. (También con le o les: No sé, hace un rato *le* vi en su cuarto.)
+# Cuando el *Objeto Directo* se nombra antes del verbo, se repite en forma pronominal: Esas naranjas *las* he comprado yo.
+# Los pronombres personales de *Objeto Directo e Indirecto* van a delante del verbo, excepto cuando el verbo va en Impertivo afirmativo, Infinitivo o Gerunde, que van detrás: ¡Devuélveselo! - No estoy haciéndolos.
+# Cuando es necesario utilizar los dos pronombres (Directo e Indirecto), el Indirecto va en primer lugar: No, *me los* darán la semana próxima.
+# Cuando al pronombre *le* (Objeto Indirecto) le sigue uno de los Objetos Directos de 3a persona (lo, la; los, las), el primero se convierte en *se*: ¿Tú le has prestado el coche a mi hermano? - Sí, *se lo* presté ayer.
+# Cuando el Objeto Indirecto aparece antes del verbo, se repite en forma pronominal: A mi padre *le* han pagado el dinero que le debían.
+# Si el Objeto Indirecto se nombra después del verbo, casi siempre está antes repetido en forma pronominal, aunque no es obligatorio: ¿(Le) has pagado *a Pepe* el dinero que le debías?
+
+h3. Verbos con LE
+
+Hay muchos verbos que funcionan con la misma estructura que gustar, es decir, siempre con los pronombres *me, te, le, nos, os, les*:
+
+* A Juan le han tocado cien millones en la lotería.
+* ¿No te importa lo que diga la gente?
+* A nosotros no nos molesta que la vecina toque el piano.ón? - Regular. Nos pasamos el tiempo hablando de *lo de Aurora*

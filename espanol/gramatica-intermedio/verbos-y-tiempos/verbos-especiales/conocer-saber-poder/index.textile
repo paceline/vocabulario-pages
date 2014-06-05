@@ -1,0 +1,51 @@
+---
+layout: default
+title: conocer, saber, poder
+---
+
+h1. {{ page.title }}
+
+h2. Forma
+
+* conocer + sustantivo
+* saber + infinitivo, otra oración
+* poder + infinitivo
+
+h2. Uso
+
+h3. Conocer
+
+# Conocer algo o alguien significa que hemos tenido alguna experiencia de la cosa (o persona) conocida (ej. un libro, una película, un lugar, *a* una persona)
+
+Ejemplos:
+* ¿Conoces *al marido* de Pura?
+* Yo conozco *un sitio* por aquí donde ponen unas tapas buenísimas.
+
+h3. Saber
+
+# Hablar de habilidades aprendidas (ej. ser nadar, dibujar, hablar un idioma)
+# Hablar del conocimiento que se tiene o no se tiene de una información
+
+Ejemplos:
+* ¿Sabes hablar árabe? (1)
+* ¿Sabes que María se ha casado? (2)
+* ¿Sabe usted cómo se va a la Plaza Major? (2)
+
+h3. Poder
+
+# Expresa la posibilidad o capacidad de hacer algo
+# Pedir permiso o dar órdenes e instrucciones
+
+Ejemplos:
+* *Ella puede correr* los 1000 metros sin parar y tú, no (1)
+* ¿ *Puedo sentarme* aquí? (2)
+
+h3. Saber / conocer
+
+# Cuando conocer significa enterarse o estar enterado de un suceso o una notícia
+# Cuando queremos expresar el hecho de tener conocimiento, ideas sobre una meteria o ciencia
+
+Ejemplos:
+* Conozco / Sé las dificultades de este trabajo (1)
+* Ramón conoce / sabe su oficio (2)
+* ¿Conoces / sabes la teoría de la relatividad?

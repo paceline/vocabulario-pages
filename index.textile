@@ -13,4 +13,4 @@ h3. {% link_to "Levatura A1, A2" %}
 
 h2. Spanish
 
-h3. Gramática española (intermedio)
+h3. {% link_to "Gramática española (intermedio)" %}

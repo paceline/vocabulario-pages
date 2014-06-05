@@ -1,0 +1,28 @@
+---
+layout: default
+title: Oraciones
+---
+
+h1. {{ page.title }}
+
+h2. Oraciones de relativo
+
+Los conectores más usados para introducir oraciones de relativo son: *que*, *donde*, *quien/-es*
+
+# La preposición va siempre antes del pronombre: Mira, ésa es la profesora *de quien* te hablé
+# Si el pronombre relativo es que, va precedido del artículo: Mira, ésa es la profesora *de la que* te hablé
+# En el caso de antecedente de persona, se utilizan indistintamente *el / la / los / las que* o *quien/-es* si van con preposición: Los turistas a quienes vendí el coche eran suecos. / Los turistas a los que vendí la coche eran suecos.
+# *Quien* sólo se usa cuando no hay antecedente o cuando va con preposición: *Quien* bien te quiere te hará llorar. / Es una persona *en quien* confio.
+# Si el antecedente no se refiere a una cosa identificable, sino a una situación o idea, entonces se utiliza el artículo neutro *lo* delante de que: ¿*Qué es lo que* me querías decir?
+
+h2. Oraciones condicionales
+
+Las oraciones condicionales *posibles* suelen construirse con el Presente en la oración subordinada (introducida por si) y el Futuro, Presente o Imperativo en la oración principal:
+
+* Si ella viene, le diré la verdad (presente - futuro)
+* Si podemos, vamos a casa de tu hermano (presente - presente)
+* Si ves a Cristina, dale recuerdos de mi parte (presente - imperativo)
+
+Las oraciones condicionales *irreales o poco probables* suelen construirse con el Imperfecto de Subjuntivo en la oración subordinada (introducida por si) y el Condicional en la oración principal:
+
+* Si tuviera tiempo, haría algún deporte.

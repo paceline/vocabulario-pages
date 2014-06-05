@@ -1,0 +1,28 @@
+---
+layout: default
+title: Pretérito imperfecto
+---
+
+h1. {{ page.title }}
+
+h2. Uso
+
+# Se usa para hablar de *acciones habituales y repetidas* en el pasado (Mi abuelo *trabajaba* en una fábrica de zapatos)
+# También lo usamos para describir en el pasado (La casa de mis padres *estaba situada* en el centro del pueblo.)
+# Nos presenta la acción en su desarollo (Mientras todos *charlaban*, Juan *miraba* por la ventana.)
+
+h2. Forma
+
+|_.|_.habl-ar|_.com-er|_.viv-ir|
+|yo|habl-aba|com-ía|viv-ía|
+|tú|habl-abas|com-ías|viv-ías|
+|él/ella/usted|habl-aba|com-ía|viv-ía|
+|nostros/-as|habl-abamos|com-íamos|viv-íamos|
+|vostros/-as|habl-abais|com-íais|viv-íais|
+|ellos/ellas/ustedes|habl-aban|co-ían|viv-ían|
+
+h2. Diferencia entre Indefinido e Imperfecto
+
+Cuando aparecen juntos, el *Préterito Indefinido* nos sirve para expresar la *acción principal*, mientras que el *Préterito Imperfecto*, por su valor descriptivo, *describe la causa o circunstancias* en las que se desarrolla la acción principal:
+* El nino se *comió* todos los bombones que *había* en la caja. 
+* Cuando *tenía* 18 anos se *fue* de la casa de sus padres porque su padre *era* muy autoritario.

@@ -1,0 +1,39 @@
+a, a:visited {
+	color: #333;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+body {
+	color: #666;
+	font-family: Helvetica, Geneva, 'Lucida Grande';
+	font-size: 90%;
+	margin: 0;
+	padding: 0 30px 0 30px;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul { padding: 0; }
+h1 {
+	color: #333;
+  margin: 30px 0 0 0;
+  page-break-before: always;
+}
+body>:first-child { page-break-before: avoid; }
+h2 { margin: 15px 0 0 0; }
+h3 { margin: 10px 0 0 0; }
+h4, h5, h6, p, ul { margin: 5px 0 5px 0; }
+
+p { font-style: italic; }
+
+ul { list-style-type: none; }
+
+.list li { margin-bottom: 5px; }
+
+.list li ul.inline {
+	padding: .7em .55em .9em 0;
+}
+
+.list li ul.inline li {
+	display: inline;
+	margin: 0 1em 0 0;
+}
