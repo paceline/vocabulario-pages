@@ -1,0 +1,18 @@
+---
+layout: default
+title: Alphabet
+---
+
+h1. {{ page.title }}
+
+|_.A|_.B|_.C|_.D|_.E|_.F|_.G|
+|a|bi|ci|di|e|effe|gi|
+|_.H|_.I|_.L|_.M|_.N|_.O|_.P|
+|acca|i|elle|emme|enne|o|pi|
+|_.Q|_.R|_.S|_.T|_.U|_.V|_.Z|
+|qu|erre|esse|ti|u|vu|zeta|
+
+h2. Nur in Fremdwörtern (z.B. taxi, jogurt) zu finden:
+
+|_.J|_.K|_.W|_.X|_.Y|
+|i lunga|cappa|oppia vu|ics|ipsilon|

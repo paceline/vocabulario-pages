@@ -1,0 +1,50 @@
+---
+layout: default
+title: Imperfetto
+---
+
+h1. {{ page.title }}
+
+h2. Verwendung
+
+* *Gewohnheitsmäßige Handlungen* in der Vergangenheit: Quando *era* giovane il sabato *andavo* a ballare.
+* *Eigenschaften* oder *Zustände* in der Vergangenheit: Mia nonna *era* molto bella.
+
+h3. Imperfetto und passato prossimo
+
+h4. Imperfetto
+
+* Wenn die *Handlung von unbestimmter Dauer* sind: I miei genitori *abitavano* in campagna. 
+* Wenn *zwei Handlungen gleichzeitig* ablaufen: *Mangiavo* e *leggevo* il giornale.
+
+h4. Passato prossimo
+
+* Wenn *abgeschlossene Handlungen, die nacheinander stattfinden* wiedergegeben werden: Ieri *ho incontrato* Stefania, *siamo andate* al bar e *abbiamo mangiato* un gelato.
+
+h3. sapere und conoscere
+
+|_.Passato prossimo|_.Imperfetto|
+|Ho conosciuto Franco (Ich habe Franco kennengelernt)|Io lo conoscevo già (Ich kannte ihn schon)|
+|Ho saputo che parti (Ich habe erfahren, dass du fährst)|Non sapevo che ti sposi (Ich wusste nicht, dass du heiratest)|
+
+h2. Bildung
+
+h3. Regelmäßig
+
+|_.lavorare|_.prendere|_.uscire|
+|lavoravo|prendevo|uscivo|
+|lavoravi|prendevi|uscivi|
+|lavorava|prendeva|usciva|
+|lavoravamo|prendevamo|uscivamo|
+|lavoravate|prendevate|uscivate|
+|lavoravano|prendevano|uscivano|
+
+h3. Unregelmäßig
+
+|_.essere|_.fare|_.dire|_.bere|
+|ero|facevo|dicevo|bevevo|
+|eri|facevi|dicevi|bevevi|
+|era|faceva|diceva|beveva|
+|eravamo|facevamo|dicevamo|bevevamo|
+|eravate|facevate|dicevate|bevevate|
+|erano|facevano|dicevano|bevevano|

@@ -1,0 +1,23 @@
+---
+layout: default
+title: Besonderheiten der Fälle
+---
+
+h1. {{ page.title }}
+
+h2. Akkusativ (Wen?) vs. Dativ (Wem?)
+
+h3. Italienisch Akkusativ / Deutsch Dativ
+
+|_.Im Italienischen mit Akkusativ (Wen?)|_.Im Deutschen mit Dativ (Wem?)|
+|aiutare - *La* aiuto|helfen - Ich helfe *Ihnen*|
+|ascoltare - *Lo* ascolto|zuhören - Ich höre *ihm* zu.|
+|ringraziare - *La* ringrazio|danken - Ich danke *Ihnen*|
+|seguire - *Li* seguo|folgen - Ich folge *ihnen*|
+
+h3. Italienisch Dativ / Deutsch Akkusativ
+
+|_.Im Italienischen mit Dativ (Wem?)|_.Im Deutschen mit Akkusativ (Wen?)|
+|chiedere (a) - *Le* chieda se ha fame|fragen - Fragen Sie *sie*, ob sie Hunger hat|
+|domandare (a) - *Gli* domandi se viene.|fragen - Fragen Sie *ihn*, ob er kommt|
+|telefonare (a) - *Le* telefono domani.|anrufen - Ich rufe *Sie* morgen an|

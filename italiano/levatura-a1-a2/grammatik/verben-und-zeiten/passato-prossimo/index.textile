@@ -1,0 +1,51 @@
+---
+layout: default
+title: Passato Prossimo
+---
+
+h1. {{ page.title }}
+
+h2. Das passato prossimo
+
+Das passato prossimo (Perfekt) berichtet über Ereignisse in der Vergangenheit. Die meisten Verben bilden das passato prossimo mit *avere*. Dabei bleibt das paritzip unverändert: Marco *ha mangiato*, noi *abbiamo mangiato*
+
+Einige Verben bilden das passato prossimo mit *essere*. Dabei richtet sich das Partizip nach Zahl und Geschlecht des Subjektes:
+
+|_.Geschlecht|_.Zahl|_.Beispiel|
+|Maskulinum|Singular|Marco è *andato*|
+|Femininum|Singular|Luisa è *andata*|
+|Maskulinum|Plural|Mara e Clara sono *andate*|
+|Femininum|Plural|Franco e Gigi sono *andati* - Luca e Rosa sono *andati*|
+
+h2. Das passato prossiomo der Modalverben
+
+Beim passato prossimo verwendet man avere, wenn das Hauptverb mit avere gebildet wird und essere, wenn das Hauptverb mit essere gebildet wird: z.B. Sono dovuto andare (sono andato) bzw. Ho dovuto mangiare (ho mangiato)
+
+h2. Wie man ausdrückt, dass etwas schon oder noch nicht passiert ist
+
+|_.Italiano|_.Tedesco|
+|Hai *già* mangiato?|Hast du schon gegessen?|
+|No, non ho *ancora* mangiato.|Nein, ich habe noch nicht gegessen|
+|No, non ci sono *ancora* andato|Nein, ich bin noch nicht hingegangen|
+
+h2. Stellung der Pronomen beim Perfekt
+
+Die Personalpronomen stehen vor dem Hilfsverb *avere* oder *essere*:
+
+* *Mi* ha chiamato Luca.
+* *Ti* ha già telefonato Tommaso?
+* *Mi* sono lavato.  
+
+h2. Die Verwendung von essere oder avere
+
+|_.Transitiv|_.Intransitiv|
+|*Ho* cominciato un nuovo libro|*Il film* è cominciato alle 20.00|
+|*Ho* finito la benzina|*L'estate* è finita.|
+
+Folgende Verben werden mit essere gebildet:
+* Reflexive Verben (Ieri Carla si è riposata)
+* piacere (Il film non mi è piaciuto)
+* sembrare (Come ti è sembrato il film?)
+* durare (Il film è durato tre ore)
+
+Aber mit avere werden - anders als im Deutschen - gebildet: viaggare (reisen), sciare (Ski fahren), avere (haben), camminare (wandern) 

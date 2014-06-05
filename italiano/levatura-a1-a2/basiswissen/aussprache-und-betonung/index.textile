@@ -1,0 +1,29 @@
+---
+layout: default
+title: Aussprache und Betonung
+---
+
+h1. {{ page.title }}
+
+h2. Pronuncia
+
+* _c_ wird wie [k] ausgesprochen, wenn es vor *a*, *o* und *u* steht
+* _c_ wird [tsch] ausgesprochen, wenn es vor *e* und *i* steht
+* _c_ wird vor *e* und *i* wie [k] ausgesprochen, wenn dazwischen noch ein *h* steht 
+* _g_ wird wie [g] ausgesprochen, wenn es vor *a*, *o* und *u* steht
+* _g_ wird wie [dsch] ausgesprochen, wenn es vor *e* und *i* steht
+* _g_ wird vor *e* und *i* wie [g] ausgesprochen, wenn dazwischen noch ein *h* steht
+* Das _h_ wird im Italienischen nicht gesprochen
+* Das _u_ bei *qu* ist deutlich als solches zu sprechen
+* Das _r_ wird mit der Zungenspitze gerollt
+* Das _v_ wird wie [w] ausgesprochen
+* Die Buchstabenfolge _gl_ wird wie ll [lj] in Feuilleton ausgesprochen
+* Die Buchstabenfolge _gn_ wird wie gn [nj] in Kognak ausgesprochen
+* _sc_ in den Buchstabenfolgen *sce* *sci* wird wie sch in Scherz ausgesprochen
+* _sc_ in den Buchstabenfolgen *sca* *sco* *scu* wird wie sk in Skala ausgesprochen
+
+h2. Accentuazione
+
+* Betonung auf der vorletzten Silbe
+* Wörter, die auf der letzten Silbe betont werden, tragen einen Akzent (z.B. caffè)
+* Einige Ausnahmen werden auf der vorletzten Silbe betont (z.B. Napoli)

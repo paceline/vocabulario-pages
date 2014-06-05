@@ -1,0 +1,79 @@
+---
+layout: default
+title: Imperativo
+---
+
+h1. {{ page.title }}
+
+Verwendung für Befehle, Aufforderungen
+
+h2. Die Verben auf -are
+
+|.io|_.-|noi|_.-|
+|.tu|_.compra|voi|_.comprate|
+|.lui, lei, Lei|_.compri|loro|_.-|
+
+h2. Die Verben auf -ere/ire
+
+|.io|_.-|noi|_.-|
+|.tu|_.prendi|voi|_.prendete|
+|.lui, lei, Lei|_.prenda|loro|_.-|
+
+h2. Besonderheiten
+
+h3. Unregelmäßig
+
+|_.Infinitiv|_.Persönlich|_.Höflich|
+|andare|vai / va'|vada|
+|avere|abbi|abbia|
+|bere|bevi|beva|
+|dare|dai / da'|dia|
+|dire|di'|dica|
+|essere|sii|sia|
+|fare|fai / fa'|faccia|
+|salire|sali|salga|
+|sapere|sappi|sappia|
+|stare|stai / sta'|stia|
+|uscire|esci|esca|
+|venire|veni|venga|
+
+h3. Verdopplung bei andare, dare, dire, fare, stare
+
+* da' + lo = dallo
+* fa + la = falla
+* di' + lo = dillo
+* da' + mi = dammi
+* fa' + le = falle
+* di + gli = digli (hier keine Verdopplung!)
+
+h2. Verneinung
+
+*Achtung:* Gilt nur für die 2. Person Singular - Plural und Höflichkeitsform wird wie oben beschrieben gebildet!
+
+Bildung mit non + Infinitiv:
+
+* Non mangiare!
+* Non bere alcolici!
+
+h2. Stellung des Pronomen
+
+h3. Persönliche Form
+
+Das Pronomen wird einfach an den Imperativ angehängt:
+
+* Prendetelo!
+* Fermati!
+* Raccontami!
+
+Dabei steht Dativ immer vor Akkusativ:
+* Dammela!
+* Diglielo!
+
+h3. Höfliche Form
+
+Die Pronomen stehen immer vor dem Verb!
+
+* Lo prenda!
+* Glielo dia!
+
+Bei der Verneinung steht das Pronomen zwischen *non* und dem Verb, z.B.: Non, non gli dica niente!

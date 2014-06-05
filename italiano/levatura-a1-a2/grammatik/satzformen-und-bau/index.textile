@@ -1,0 +1,86 @@
+---
+layout: default
+title: Satzformen und -bau
+---
+
+h1. {{ page.title }}
+
+h2. Aussagesatz und Fragesatz
+
+|_.Subjekt|_.Verb|_.Ergänzung|_.Typ|
+|Lei|è|Francesca.|Aussage: Sie ist Francesca.|
+|Lei|è|Francesca?|Frage: Ist Sie Francesca?|
+
+Alternative Stellung bei Frage: È lei Francesca?
+
+In Fragesätzen ist die Stellung meist wie folgt:
+
+|_.Fragewort|_.Verb|_.Subjekt|
+|Chi|è|il signor Verdi?|
+
+h2. Die Verneinung
+
+Negazione con "non" (-> No abbiamo stanze libere, Il telefono non funziona)
+
+h2. Die Stellung der Adjektive
+
+Im Italienischen stehen die Adjektive meist nach dem Substantiv. Einige häufig gebrauchten Adjektive stehen jedoch vor dem Substantiv (z.B. bello, buono, piccolo, brutto)
+
+h2. Bedingungen ausdrücken
+
+*se* + Präsenz: Se piove vado al cinema
+
+h2. Der Vergleich
+
+|La giacca rossa è *più* cara.| Das rote Sakko ist teurer.|
+|La camicia blu è *meno* caro.|Das blaue Hemd ist weniger teuer (billiger).|
+|La gonna lunga mi piace *di più*|Der lange Rock gefällt mir besser.|
+|La camicia marrone mi piace *di meno*|Das braune Hemd gefällt mir weniger gut (schlechter).|
+
+h2. Vergleichssätze
+
+|Valeria è più elegante *di* Francesca|Valeria ist eleganter als Francesca|
+|Lui è meno simpatico *di* lei|Er ist weniger sympatisch als sie|
+
+h2. Verneinte Sätze
+
+Doppelte Verneinung mit niente, nessuno:
+
+|Io *non* prendo *niente*|Ich nehme nichts|
+|Lui *non* ascolta *nessuno*|Er hört niemandem zu|
+
+h2. Die si-Konstruktion
+
+Das unpersönliche Subjekt *man* wird im italienischen durch di si-Konstruktion ausgedrückt:
+
+|_.Italiano|_.Tedesco|
+|In Italia *si beve* molto vino.|In Italien trinkt man viel Wein|
+
+h2. Infinitivsätze
+
+h3. Ohne Präposition
+
+* Modalverben: Puoi venire alle 8.00? (Kannst du um 8 Uhr kommen?)
+* Unpersönliche Verben: La sera bisogna mangiare poco (Abends soll man wenig essen)
+* Unpersönliche Ausdrücke: È importante arrivare presto (Es ist wichtig, pünktlich anuzkommen)
+
+h3. Präposition di
+
+* pensare di (etwas beabsichtigen): Penso di andare a Pisa.
+* cercare di (etwas versuchen): Cerca di dormire!
+* smettere di (mit etwas aufhören): Voglio smettere di fumare.
+* finire di (etwas beenden): Finisci di scrivere la lettera!
+
+h3. Präposition a
+
+* riuscire a (etwas schaffen): Non riesco a chiudere la finestra!
+* imparare a (lernen): Impara a giocare tennis!
+* insegnare a (beibringen): Ti insegno a suonare la chitarra?
+
+h2. Der Ausdruck farcela
+
+Mit dem Ausdruck *farcela a* + Infinitiv oder *farcela con* + Substantiv können wir ausdrücken, ob wir etwas schaffen:
+* Non ce faccio più con questo caldo! (Ich halte diese Hitze nicht mehr aus!
+* Non ce la faccio più a leggere! (Ich kann nicht mehr lesen!)
+
+Achtung: Es wird immer nur fare konjugiert, ce la bleibt erhalten!

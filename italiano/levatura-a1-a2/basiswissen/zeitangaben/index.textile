@@ -1,0 +1,28 @@
+---
+layout: default
+title: Zeitangaben
+---
+
+h1. {{ page.title }}
+
+h2. Uhrzeit (Che ora è? Che ore sono?)
+
+|7.15|Sono le sette e un quarto|
+|9.30|Sono le nove e mezzo/a|
+|10.40|Sono le dieci e quaranta / Sono le undici meno venti|
+|16.45|Sono le sedici e quarantacinque / Sono le cinque menu un quarto|
+|13.00|È l'una|
+|12.00|È mezzogiorno|
+|24.00|È mezzanotte|
+
+h2. Wochentage und Tageszeiten
+
+s. Vokabelliste unten
+
+h2. Monate
+
+s. Vokabelliste unten
+
+h2. Jahreszeiten
+
+s. Vokabelliste unten

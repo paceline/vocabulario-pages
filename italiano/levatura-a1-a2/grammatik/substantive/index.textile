@@ -1,0 +1,50 @@
+---
+layout: default
+title: Substantive
+---
+
+h1. {{ page.title }}
+
+h2. Das Genus der Substantive
+
+* Substantive auf *-o* sind meistens männlich: l'albergo - das Hotel
+* Substantive auf *-a* sind meistens weiblich: la signora - die Frau
+* Substantive auf *-e* sind männlich oder weiblich: il signore - der Herr oder la chiave - der Schlüssel
+
+h3. Aber:
+
+|la foto|das Foto|la mano|die Hand|
+|la radio|das Radio|il cinema|das KIno|
+|il telegramma|das Telegramm|il problema|das Problem|
+
+Insb. bei Berufsbezeichnungen können auch Substantive mit *-a* Endung für beide Geschlechter gelten: il / la farmacista, il / la giornalista, il / la pilota, il / la collega, il / la dentista
+
+h2. Besonderheiten bei der Pluralbildung der Substantive
+
+Generell wird bei den Endungen *-ca*, *-ga*, *-co*, *-go* ein *-h-* eingefügt, damit die Aussprache erhalten bleibt. Ausnahmen sind:
+
+|_.Singular|_.Plural|
+|amico|amici|
+|medico|medici|
+
+Substantive, die im Singular auf *-cia* oder *-gia* enden, verlieren im Plural das *-i* , wenn der Endung ein Konsonant vorangeht:
+
+l'arancia - l'arance
+
+Substantive auf *-io* haben im Plural nur ein einfaches *-i*
+
+il negozio - i negozi
+
+h2. Nessuno / ognuno
+
+|_.*Nessuno* ha voglia di andare a teatro|*Niemand* hat Lust ins Theater zu gehen|
+|_.Non conosco *nessuno* qui|Ich kenne hier *niemanden*|
+|_.*Ognuno* ha un telefono.|*Jeder* hat ein Telefon|
+
+h2. Verkehrsmittel
+
+*in* oder *con*
+
+in (con l') auto / in (con la) macchina, in (con l') aero, in (con il) treno, in (con la) bicicleta, in (con il) traghetto
+
+aber: a carvalho, a piedi

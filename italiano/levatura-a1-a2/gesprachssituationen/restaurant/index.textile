@@ -1,0 +1,29 @@
+---
+layout: default
+title: Restaurant
+---
+
+h1. {{ page.title }}
+
+h2. Etwas bestellen
+
+* Io vorrei uno spumante. - Ich möchte einen Sekt.
+* Io prendo un caffè. - Ich nehme einen Kaffee.
+* Per me una birra. - Für mich ein Bier.
+
+h2. Um etwas bitten
+
+* Un aperitivo, per favore! - Einen Aperitif, bitte!
+* Un caffè, ma macchiato, per cortesia! - Einen Kaffee, aber mit Milch, bitte!
+* Per me un'aranciate, per piacere! - Für mich eine Orangenlimonade, bitte!
+
+h2. Auf sich aufmerksam machen
+
+* Senta, scusi, vorrei ordinare! - Entschuldigen Sie bitte, ich möchte bestellen!
+
+h2. Bestellen im Restaurant
+
+* Come / Di primo risotto alla pescatora. - Als ersten Gang "risotto alla pescatora"
+* Come / Di secondo pollo arrosto - Als zweiten Gang Brathähnchen.
+* Come / Di contorno un'insalata mista - Als Beilage einen gemischten Salat.
+* Da bere una bottiglia di vino rosso - Zum Trinken eine Flasche Rotwein.

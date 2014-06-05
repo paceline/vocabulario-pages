@@ -1,0 +1,19 @@
+---
+layout: default
+title: Beim Arzt
+---
+
+h1. {{ page.title }}
+
+h2. Über Schmerzen bzw. Krankheiten sprechen
+
+mi, ti, gli, le, Le, ci, vi, gli *fa / fanno male* + Körperteil:
+* Mi fa male la testa (Der Kopf tut mir weh)
+* Gli fanno male i denti (Er hat Zahnweh)
+* Ti fa male la gola? (Tut dir der Hals weh?
+
+Alternativ:
+* Ho mal di testa
+* Ho mal di gola
+* Ho mal die pancia
+* Sono raffreddata (Ich bin erkältet)

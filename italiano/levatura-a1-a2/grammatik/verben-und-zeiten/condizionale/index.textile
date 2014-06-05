@@ -1,0 +1,39 @@
+---
+layout: default
+title: Condizionale
+---
+
+h1. {{ page.title }}
+
+h2. Verwendung
+
+* Wünsche: *Vorrei* andare al mare. -> Ich *würde* gerne ans Meer fahren
+* Höfliche Bitte: *Potrei* avare ancora un po' die zucchero? -> *Könnte* ich noch etwas Zucker haben?
+* Um einen Vorschlag zu machen: Io *affitterei* un appartamento.  -> Ich *würde* eine Wohnung mieten.
+
+h2. Bildung
+
+|_.io|_.tu|_.lui/lei/Lei|_.noi|_.voi|_.loro|
+|-ei|-esti|-ebbe|-emmo|-este|-ebbero|
+
+Achtung:
+
+* Verben auf *-are* änder das -a in -e: comprare -> comprerei
+* Verben auf *-care* und *-gare* haben ein -h- vor der Endung: cercare -> cercherei
+* Verben auf *-ciare* und *-giare* verlieren das -i vor der Infinitivendung: mangiare -> mangerei
+
+h2. Ausnahmen
+
+h3. Zusammengezogene Formen
+
+|andare -> andrei|sapere -> saprei|
+|avere -> avrei|tenere -> terrei|
+|bere -> berrei|vedere -> vedrei|
+|dovere -> dovrei|venire -> verrei|
+|potere -> potrei|vivere -> vivrei|
+|rimanere -> rimarrei|volere -> vorrei|
+
+h3. essere
+
+|_.io|_.tu|_.lui/lei/Lei|_.noi|_.voi|_.loro|
+|sarei|saresti|sarebbe|saremmo|sareste|sarebbero|

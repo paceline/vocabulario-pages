@@ -1,0 +1,32 @@
+---
+layout: default
+title: Einkaufen
+---
+
+h1. {{ page.title }}
+
+h2. Nach der Menge fragen
+
+* Vorrei del pane - Ich möchte (etwas) Brot
+* Quanto? - Wie viel?
+* Vorrei delle melanzane - Ich möchte Auberginen
+* Quante? - Wie viele?
+
+h2. Einkaufsgespräche führen
+
+* Desidera? - Sie wünschen?
+* Vorrei un chilo di pomodori. - Ich möchte ein Kilo Tomaten
+* Mi dà un mezzo chilo di funghi, per favore? - Geben Sie mir ein Pfund Pilze, bitte.
+* Vuole altro? - Noch etwas? Außerdem?
+
+h2. Nach dem Preis fragen
+
+* Quanto costa / viene il parmigiano? - Wie viel kostet der Parmesan?
+* Quanto costano / vengono i pomodori? - Wie viel kosten die Tomaten?
+
+h2. Fragen, wie ein Kleidungsstück passt, und eine solche Frage beantworten
+
+* Come ti sta? / Come Le sta? - Wie passt es dir? / Wie passt es Ihnen?
+* Mit sta bene  (la giacca) - Es (das Sakko) passt mir sehr gut.
+* Mi stanno male (i pantaloni). - Sie (die Hose) passt mir nicht (steht mir nicht gut).
+* Mi sta larga (la gonna). - Er (der Rock) is mir zu weit.

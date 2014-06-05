@@ -1,0 +1,57 @@
+---
+layout: default
+title: Artikel
+---
+
+h1. {{ page.title }}
+
+h2. Bestimmt
+
+h3. Der bestimmte Artikel im Singular
+
+|_.Wann?|_.Maskulinum|_.Femininum|
+|_.Normal|il centro|la borsa|
+|_.Vor Vokal|l'ombrello|l'acqua|
+|_.Vor s + Konsonant, z, x, y, gn, ps|lo studente| |
+
+h3. Der bestimmte Artikel vor signor / signora + Name
+
+Der bestimmte Artikel steht normalerweise vor *signor / signora* + Name, entfällt jedoch bei der Anrede!
+
+|_.Io sono *il* signor Gallo|Ich bin Herr Gallo|
+|_.Come sta, signora Martini?|Wie geht es Ihnen, Frau Martini?|
+|_.Buongiorno, signor Frederici!|Guten Tag, Herr Frederici!|
+
+h3. Die Pluralbildung und der bestimmte Artikel im Plural
+
+|_.Singolare|_.Plurale|
+|il cappuccino|i cappuccini|
+|lo spumante|gli spumante|
+|l'aperitivo|gli aperitivo|
+|la cioccolata|le cioccolate|
+|l'aranciata|le aranciate|
+
+Gleiche Formen im Singular wie Plural haben:
+
+* Substantive, die auf -à, -è, -ì, -ò oder -ù enden: z.B. città, caffè
+* Fremdwörter, einsilbige Substantive oder solche, die auf einen Konsonanten enden: toast, film, bar
+
+h3. Possessiva
+
+Im Gegensatz zum deutschen werden die Possessiva meist mit dem bestimmten Artikel verwendet: il mio maglione, la mia giacca
+
+Der bestimmte Artikel fällt bei Verwandtschaftsbezeichnungen im Singular weg: mia figlia, tua cugina
+
+Aber im Plural: i mei sigli, i tuoi cugini
+
+h2. Unbestimmt
+
+h3. Der unbestimmte Artikel
+
+|un cappuccino|un aperitivo|
+|uno spumante|una cioccolata|
+|uno zaino|un'aranciata|
+
+h3. Eine unbestimmte Menge angeben
+
+Vorrei *del* prosciutto - Ich möchte etwas Schinken

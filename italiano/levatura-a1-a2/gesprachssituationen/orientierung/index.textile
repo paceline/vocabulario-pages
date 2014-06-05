@@ -1,0 +1,20 @@
+---
+layout: default
+title: Orientierung
+---
+
+h1. {{ page.title }}
+
+h2. Nach einem bestimmten Ort fragen und ihn bezeichnen
+
+|_.Dov'è la chiesa di S. Agnese?|_.La chiesa di S. Agnese è...|
+|Wo ist / befindet sich die Kirche St. Agnese?|Die Kirche St. Agnese ist / befindet sich...|
+|_.Dov'è via Nazionale?|_.La via Nazionale è...|
+|Wo ist / befindet sich die Via Nazionale?|Die via Nazionale ist...|
+|_.Dove sono i musei Vaticani?|_.I musei Vaticani sono...|
+|Wo sind die Vatikanischen Museen?|Die Vatikanischen Museen sind...|
+
+h2. Nach einem unbestimmtem Ort fragen und ihn bezeichnen
+
+|_.C'è una banca qui vicino?|_.Sì, è...|_.No, non  c'è.|
+|Gibt es hier in der Nähe eine bank?|Ja, sie ist...|Nein, es gibt keine.|

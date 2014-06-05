@@ -1,0 +1,38 @@
+---
+layout: default
+title: Presente
+---
+
+h1. {{ page.title }}
+
+h2. Die Veben auf –are
+
+|.io|_.abit-o|noi|_.abit-iamo|
+|.tu|_.abit-i|voi|_.abit-ate|
+|.lui, lei, Lei|_.abit-a|loro|_.abit-ono|
+
+h2. Die Verben auf -ere
+
+|.io|_.prend-o|noi|_.prend-iamo|
+|.tu|_.prend-i|voi|_.prend-ete|
+|.lui, lei, Lei|_.prend-e|loro|_.prend-ono|
+
+h2. Die Verben auf -ire
+
+|.io|_.offr-o|noi|_.offr-iamo|
+|.tu|_.offr-i|voi|_.offr-ite|
+|.lui, lei, Lei|_.offr-e|loro|_.offr-ono|
+
+|.io|_.prefer-isco|noi|_.prefer-iamo|
+|.tu|_.prefer-isci|voi|_.prefer-ite|
+|.lui, lei, Lei|_.prefer-isce|loro|_.prefer-iscono|
+
+Weitere Konjugationen können der Vokabelsektion entnommen werden
+
+h2. Die reflexiven Verben
+
+riposarsi (sich ausruhen)
+
+|.io|_.mi ripos-o|noi|_.ci ripos-iamo|
+|.tu|_.ti ripos-i|voi|_vi ripos-ate|
+|.lui, lei, Lei|_.si ripos-a|loro|_.si ripos-ono|

@@ -1,0 +1,99 @@
+---
+layout: default
+title: Präpositionen
+---
+
+h1. {{ page.title }}
+
+h2. in, a
+
+* *Città:* Abito *a* Venezia.
+* *Paese:* Sono *in* Italia.
+* *Regione:* Sono *in* Toscana.
+
+h3. Ortsangabe (Wo?)
+
+|_.Italiano|_.Tedesco|
+|Il Duomo è *in* Milano|Der Dom ist in Mailand|
+|Firenze e *in* Toscana|Florenz ist in der Toskana|
+|La chiesa è *a* / *in* piazza Venezia|Die Kirche ist auf der Piazza Venezia|
+|Sono *dal* macellaio|Ich bin beim Metzger|
+|Sono *da* Bruno.|Ich bin bei Bruno|
+
+h3. Richtungsangabe (Wohin?)
+
+|_.Italiano|_.Tedesco|
+|Vado *a* Firenze|Ich gehe nach Florenz|
+|Vado *al* mare, *al* lago|Ich fahre ans Meer, an den See|
+|Vado *a teatro, *all'* opera, *al* ristorante, *alla* stazione, *al* bar, *alla* posta|Ich gehe ins Theater, in die Oper, ins Restaurant, zum Bahnhof, in die Bar, zur Post|
+|Vado *in* Toscana|Ich fahre in die Toscana|
+|Vado *in* campagna, *in* banca, *in* centro, *in* salumeria, *in* macelleria|Ich fahre aufs Land, zur Bank, ins Zentrum, in den Wurstladen, in die Metzgerei|
+|Vado *dal* macellaio|Ich gehe zum Metzger|
+|Vado *da* Bruno|Ich gehe zu Bruno|
+
+h2. da, a, su
+
+|_. +|_. il |_. lo |_. la |_. l' |_. i |_. gli |_. le|
+|_. da|dal|dallo|dalla|dall'|dai|dagli|dalle|
+|_. a|al|allo|alla|all'|ai|agli|alle|
+|_. su|sul|sullo|sulla|sull'|sui|sugli|sulle|
+
+h2. da, fa
+
+|_.Abito a Palermo da due mesi.|Ich wohne seit zwei Monaten in Palermo|
+|_.Sono andato a Lucca due mesi fa|Ich bin vor zwei Monaten nach Lucca gefahren|
+
+h2. di, da
+
+|_.Che cosa avete *di* buono?|Was habt ihr Gutes?|
+|_.Che cosa avete *da* bere?|Was habt ihr zu trinken?|
+
+h2. di, in
+
+|_. +|_. il |_. lo |_. la |_. l' |_. i |_. gli |_. le|
+|_. di|del|dello|della|dell'|dei|degli|delle|
+|_. in|nel|nello|nella|nell'|nei|negli|nelle|
+
+h3. Mengenangaben
+
+|_.Italiano|_.Tedesco|
+|Un etto *di* prosciutto|Hundert Gramm Schinken|
+|Un litro *di* latte|Einen Liter Milch|
+|Un chilo *di* mele|Ein Kilo Äpfel|
+|Un po' *di* carote|Ein paar Karotten|
+
+h2. Ort- und Richtungsangaben
+
+h3. Lei va (sie gehen)...
+
+* dritto (geradeaus)
+* a destra (nach rechts)
+* a sinistra (nach links)
+
+h3. Lei gira (sie biegen ab)...
+
+* a destra (nach rechts)
+* a sinistra (nach links)
+
+h3. Lei attraversa (sie überqueren)...
+
+* la strada (die Straße)
+* l'incrocio (die Kreuzung)
+
+h3. Lei prende (sie nehmen)...
+
+* questa strada (diese Straße)
+* la prima / la seconda/ la terza strada (die erte / die zweite / die dritte Straße)
+* a destra / a sinistra (nach rechts / nach links)
+
+s. auch Vokabelliste unten für Ortsangaben
+
+h2. Etwas lokalisieren
+
+* La sedia sta *davanti al* tavolo (...vor...)
+* La poltrona è *accanto al* divano (...neben...)
+* La lampada è *dietro al* divano (...hinter...)
+* La pianta è *tra* il divano e la sedia (...zwischen...)
+* Il letto sta *di fronte alla* finestra (...gegenüber...)
+* Il vaso sta *sul* tavolo (...auf...)
+* Il gatto sta *sotto* il letto (...unter)

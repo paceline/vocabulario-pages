@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Vocabulario - {{ page.title }}</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="/css/main.css">
+  </head>
+  <body>
+    <div id="header">
+      <div class="navigation"><a href="http://github.com/vocabulario-pages">Contribute</a></div>
+      <div class="navigation"><a href="http://moehring.me/about">About Me</a></div>
+      <div class="navigation"><a href="/">Home</a></div>
+      <div class="navigation no-floater"><a href="/"><img src="/images/logo.png"></a></div>
+    </div>
+    <div id="notice">
+      <div class="bg"><div class="bl"><div class="br"><div class="tl"><div class="tr">
+        <p>{% breadcrumbs %}</p>
+      </div></div></div></div></div>
+    </div>
+    <div id="main">
+      {{ content }}
+    </div>
+    <div id="footer">
+      <ul><li><a href="print.html">Print</a></li></ul>
+      <p>Created by <a href="http://moehring.me">Ulf M&ouml;hring</a>, licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons License</a></p>
+    </div>
+  </body>
+</html>

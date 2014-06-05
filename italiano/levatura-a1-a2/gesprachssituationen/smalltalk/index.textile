@@ -1,0 +1,47 @@
+---
+layout: default
+title: Smalltalk
+---
+
+h1. {{ page.title }}
+
+h2. Nach dem befinden fragen und darauf antworten
+
+* Come stai? - Wie geht es dir?
+* Come sta? - Wie geht es Ihnen?
+* Come va ? - Wie geht es?
+* (Sto) bene. - Mir geht es gut.
+* (Sto) abbastanza bene.  - Mir geht es ganz gut.
+* Non c'è male. - Nicht schlecht.
+* Male. - Schlecht
+
+h2. Nach der Herkunft bzw. der Nationalität fragen
+
+|_.Di dove sei?|_.Sono italiano|
+|Woher kommst du?|Ich bin Italiener.|
+|_.Di dov'è?|_.Sono spagnola.|
+|Woher kommen sie?|Ich bin Spanierin|
+|_.Di dove?|_.Di Genova|
+|Von wo?|Aus Genua|
+
+h2. Nach Beruf oder Studienfach fragen und darauf antworten
+
+|_.Che lavoro fa?|_.Sono architetto.|
+|Was sind Sie von Beruf?|Ich bin Architekt.|
+|_.Che lavoro fai?|_.Faccio il cuoco.|
+|Was bist du von Beruf?|Ich bin Koch|
+|_.Che cosa studi?|_.Studio architettura.|
+|Was studierst du?|Ich studiere Architektur|
+
+h2. Nach dem Alter fragen und das Alter angeben
+
+* Quanti anni ha? - Wie alt sind Sie?
+* Quanti anni hai? - Wie alt bist du?
+* Ho 34 anni .- Ich bin 34 Jahre alt.
+
+h2. Nach dem Grund fragen und darauf antworten
+
+|_.Peché sei in Italia?|_.Sono qui per imparare italiano.|
+|Warum bist du in Italien?|Ich bin hier, um Italienisch zu lernen.|
+|_.Come mai sei in Italia?|_.Sono qui per lavoro|
+|Wie kommt es, dass du in Italien bist?|Ich bin wegen der Arbeit hier.|

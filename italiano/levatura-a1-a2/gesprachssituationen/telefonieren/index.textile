@@ -1,0 +1,19 @@
+---
+layout: default
+title: Telefonieren
+---
+
+h1. {{ page.title }}
+
+|_.Pronto?|_. |
+|Hallo?| |
+|_.C'è Leo, per piacere?|_.Sì, un attimo / Sì, subito.|
+|Ist Leo da, bitte?|Ja, einen Augenblick / Ja, sofort.|
+|_.Ciao, mi passi Mario, per favore?|_.Non può venire, sta dormendo.|
+|Hallo, gibst du mir Mario, bitte?|Er kann nicht kommen, er schläft gerade.|
+|_.Vorrei parlare con ..., per piacere.|_.Chi parla?|
+|Ich möchte bitte mit ... sprechen, bitte.|Wer spricht?|
+|_.Potrei parlare con...?|_.Mi dispiace, ma ... non c'è|
+|Könnte ich mit ... sprechen?|Es tut mir leid, aber ... ist nicht da.|
+|_.Va bene, allora richiamo più tardi.|_. |
+|Gut, dann rufe ich später noch mal an.| |

@@ -1,0 +1,127 @@
+---
+layout: default
+title: Pronomen
+---
+
+h1. {{ page.title }}
+
+h2. Io, tu, usw.
+
+|_.io|ich|
+|_.tu|du|
+|_.lui, lei, Lei|er, sie, Sie|
+
+Die Subjektpronomen werden meistens weggelassen. Sie werden gebraucht, wenn hervorgehoben werden soll, welche Person gemeint ist (z.B. "Lei è la signora Dini?")
+
+h2. chi, che
+
+Um nach einer Person zu fragen, verwendet man das Interrogativpronomen *chi*: Chi è quella donna? Chi sono quei bambini?
+
+Nicht zu verwechseln mit Relativpronomen *che*: L'uomo che porta gli occhiali. La donna che ho incontrato ieri.
+
+h2. cui
+
+Das Relativpronomen *cui* wird nach Präpositionen gebraucht: Roma è la città in *cui* abito (ohne Präposition wird *che* verwendet)
+
+h2. ci
+
+Das Pronominaladverb *ci* kann für eine bereits genannte Ortsangabe stehen und bedeutet dort, dorthin: Andiamo al cinema stasera? – No, ci andiamo domani.
+
+h2. me, te, lui, lei, Lei, noi, voi, loro
+
+Steht vor einem Pronomen eine Präposition, so verwendet man die betonen Formen des Objektpronomens:
+
+|_.1|_.2|_.3|_.4|_.5|_.6|
+|me|te|lui / lei / Lei|noi|voi|loro|
+
+Esempi:
+* Vengo con *te*.
+* Io vado con *lui*.
+
+h2. mi, ti, le, usw. (Was? Wen?)
+
+Diese Pronomen werden in Verbindung mit einem Verb verwendet. Sie stehen in der Regel vor dem konjugiertem Verb:
+
+* Ti aspetto - Ich warte auf dich
+* Mi puoi venire a prendere? - Kannst du mich abholen?
+
+Bei potere, volere, dovere und sapere können sie entweder vor dem konjugierten Verb stehen (Mi puoi aspettare?) oder an den Infinitiv angehängt werden (Puoi aspettarmi?)
+
+h2. Mi, ti, gli, le, Le, ci, vi, loro / gli (Wem?)
+
+|_.mi|mir|_.ci|uns|
+|_.ti|dir|_.vi|euch|
+|_.gli / le / Le|ihm / ihr / Ihnen|_.loro / gli|ihnen|
+
+Diese Pronomen stehen für ein Objekt, das mit der Präposition *a* eingeleitet wird, z.B. regalare a: Gli regalo un libro (ich schenke ihm ein Buch).
+
+h2. questo (dieser), quello (jener)
+
+|_.Gebrauch|_.Mask. Sing.|_.Fem. Sing.|_.Mask. Pl.|_.Fem Pl.|
+|_.Pronominal|questo|questa|questi|queste|
+|_.Pronomina|quello a quadri|quella grassa|quelli a destra|quelle che parlano|
+|_.Adjektivisch|quel cappotto, quell'ombrello|quella giacca|quei pantaloni, quegli stivali|quelle scarpe|
+
+h2. me lo, me la, usw.
+
+|_.+|_.lo|_.la|_.li|_.le|
+|_.mi|me lo|me la|me li|me le|
+|_.ti|te lo|te la|te li|te le|
+|_.gli|gielo|gliela|glieli|gliele|
+|_.le|glielo|gliela|glieli|gliele|
+|_.Le|glielo|gliela|glieli|gliele|
+|_.ci|ce lo|ce la|ce li|ce le|
+|_.vi|ve lo|ve la|ve li|ve le|
+|_.gli|glielo|gliela|glieli|gliele|
+
+Das indirekte Objektpronomen (Dativ) steht im Italienischen vor dem direkten Objektpronomen (Akkusativ)
+
+h2. mia, tua, usw.
+
+|_.Mask. Sing.|_.Fem. Sing.|_.Mask. Pl.|_.Fem Pl.|
+|mio|mia|miei|mie|
+|tuo|tua|tuoi|tue|
+|suo|sua|suoi|sue|
+|nostra|nostra|nostri|nostre|
+|vostro|vostra|vostri|vostre|
+|loro|loro|loro|loro|
+
+Vor Verwandtschaftsbezeichnungen im Plural steht der bestimmte Artikel. Das Possessivpronomen *loro* (ihr) verlangt immer nach einem Artikel.
+
+h2. lo, la, li, le
+
+h3. Basics
+
+Die Objektpronomen ersetzen ein bereits erwähntes direktes Objekt.
+
+|il|lo|Prende il formaggio? - Sì *lo* prendo|
+|la|la|Magni la pizza? - Sì *la* mangio|
+|i|li|Compri i pomodori - Sì *li* compro|
+|le|le|Prende le melanzane? - Sì *le* prendo|
+
+Anche: Non lo so (Ich weiß es nicht)
+
+h3. Mit Partizip
+
+Bei Verwendung eines Partizips werden die Objektpronomen vorangestellt. Dabei werden *la* und *lo* apostrophiert, *le* und *li* nicht ("Sì, l'ho comprato" aber "No, non *le* ho prese")
+
+h3. Hervorhebung
+
+In der gesprochenen Sprache kann das Objekt am Anfang stehen, wenn es betont werden soll, z.B.: I rollini *li* hai presto?
+
+h2. ne
+
+Das Objektpronomen *ne* (davon) steht für einen Teil eines bestimmen Ganzen:
+* Ne prendo mezza porzione - Ich nehme eine halbe Portion (davon)
+* Ne vorrei due bottiglie - Ich möchte gern zwei Flaschen (davon)
+* Ne voglio un chilo - Ich will ein Kilo (davon)
+
+h2. Doppelte Pronomen (indirekte Objektpronomen + ne)
+
+|mi|me ne|Me ne dia un chilo.|
+|ti|te ne|Sì, te ne do subito un bicchiere.|
+|gli/le|gliene|Sì, gliene do n po'|
+|Le|gliene|Sì, quanti gliene do?|
+|ci|ce ne|Portiamocene sei.|
+|vi|ve ne|Ve ne do un pezzo.|
+|gli|gliene|Sì, ma dagliene poca.| 

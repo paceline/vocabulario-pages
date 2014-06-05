@@ -1,0 +1,89 @@
+---
+layout: default
+title: Allgemeines
+---
+
+h1. {{ page.title }}
+
+h2. Verständigungshilfen
+
+|_.Italiano|_.Tedesco|
+|Non ho capito|Ich habe nicht verstanden|
+|Puoi / Può ripetere più lentamente?|Kannst du / Können Sie das langsamer wiederholen?|
+|Come si dice ... in italiano?|Wie sagt man ... auf italienisch?|
+|Che cosa significa ...?|Was bedeutet ...?|
+|Come si pronuncia?|Wie spricht man das aus?|
+|Come si scrive?|Wie schreibt man das?|
+|Come si chiama quella cosa che..?|Wie heißt der Gegenstand, der...?|
+
+h2. Ausdrücke zu jeder Gelegenheit
+
+|_.Italiano|_.Tedesco|
+|Buon compleanno!|Alles Gute zum Geburtstag!|
+|Buon viaggio!|Gute Reise!|
+|Buon divertimento!|Viel Spaß|
+|Auguri!|Gratulation!|
+|Buon appetito!|Guten Appetit!|
+|Alla salute!|Zum Wohl!|
+
+h2. Eigenschaften erfragen bzw. angeben
+
+* Com'è la stanza? - La stanza è tranquilla.
+* Come sono i letti? - I letti sono comodi.
+
+h2. Fragen, ob etwas möglich ist
+
+* È possible pagare con la carta di credito? - Sì, è possibile / No, non è possibile.
+
+h2. C’è und ci sono
+
+Significano lo stesso però c’è è singolare e ci sono è plurale ("Es gibt / es sind vorhanden")
+
+h2. Nach dem Wetter fragen und das Wetter beschreiben
+
+Che tempo fa? Com'è il tempo?
+
+* Il tempo è bello / brutto (schön/schlecht)
+* È variabile. (wechselhaft)
+* È nuvoloso. (bewölkt)
+* C'è il sole. (Sonne scheint)
+* Piove. (regnet)
+* Nevica. (schneit)
+* C'è nebbia. (nebelig)
+* Fa caldo / freddo (kalt / warm)
+
+h2. Gefallen oder Missfallen ausdrücken
+
+* Io amo ballare - Ich tanze gern
+* Io odio il telefono! - Ich hasse das Telefon!
+
+h2. Jemandem zustimmen oder widersprechen
+
+|Anch'io|Ich auch|
+|Io no|ich nicht|
+|Neanche io|Ich auch nicht|
+|Anche a me|Mir auch|
+|A me no|Mir nicht|
+|Neanche a me|Mir auch nicht|
+|A me si|Mir schon|
+
+h2. Fragen, wem etwas gehört und eine solche Frage beantworten
+
+* Di chi è questa bicicleta? - È la mia.
+* Di chi sono questi pantaloni - Sono i miei.
+
+h2. Bedürfnisse
+
+h3. avere bisogno di + Substantiv 
+
+* Ho bisogno di un letto (Ich brauche ein Bett)
+
+h3. mi, ti, gli, le, Le, ci, vi, gli serve/servono + Substantiv
+
+* Ci serve un tavolo (Wir brauchen einen Tisch)
+* Vi servono ancora due sedie? (Braucht ihr noch zwei Stühle?)
+
+h3. ci vuole / ci vogliono + Substantiv
+
+* Ci vuole ancora un tavolo. (Ich brauche/wir brauchen noch einen Tisch)
+* Ci vogliono ancore due sedie. (Ich brauche/wir brauchen noch zwei Stühle)

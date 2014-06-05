@@ -1,0 +1,40 @@
+---
+layout: default
+title: Zahlen
+---
+
+h1. {{ page.title }}
+
+h2.  0 - 100
+
+|_.0|zero|_.11|undici|_.22|ventidue|_.33|trentatré|_.44|quarantaquattro|
+|_.1|uno|_.12|dodici|_.23|ventitré|_.34|trentaquattro|_.45|quarantacinque|
+|_.2|due|_.13|tredici|_.24|ventiquattro|_.35|trentacinque|_.46|quarantasei|
+|_.3|tre|_.14|quattordici|_.25|venticinque|_.36|trentasei|_.47|quarantasette|
+|_.4|quattro|_.15|quindici|_.26|ventisei|_.37|trentasette|_.48|quarantotto|
+|_.5|cinque|_.16|sedici|_.27|ventisette|_.38|trentotto|_.50|cinquanta|
+|_.6|sei|_.17|diciassette|_.28|ventotto|_.39|trentanove|_.60|sessanta|
+|_.7|sette|_.18|diciotto|_.29|ventinove|_.40|quaranta|_.70|settanta|
+|_.8|otto|_.19|diciannove|_.30|trenta|_.41|quarantuno|_.80|ottanta|
+|_.9|nove|_.20|venti|_.31|trentuno|_.42|quarantadue|_.90|novanta|
+|_.10|dieci|_.21|ventuno|_.32|trentadue|_.43|quarantatré|_.100|cento|
+
+h2.  100 - 10.000
+
+|_.100|cento|_.110|centodieci|_.2.000|duemila|
+|_.101|centuno|_.130|centotrenta|_.3.000|tremila|
+|_.102|centodue|_.200|duecento|_.5.000|cinquemila|
+|_.103|centotré|_.300|trecento|_.5.700|cinquemilasettecento|
+|_.104|centoquattro|_.400|quattrocento|_.6.650|seimilaseicentocinquanta|
+|_.105|centocinque|_.500|cinquecento|_.7.038|settemilatrentotto|
+|_.106|centosei|_.1.000|mille|_.8.001|ottomilauno|
+|_.107|centosette|_.1.001|milleuno|_.9.280|movemiladuecentoottanta|
+|_.108|centotto|_.1.002|miledue|_.9.999|novemilnovecentonovantanove|
+|_.109|centonove|_.1.008|milleotto|_.10.000|diecimila|
+
+h2. Ordnungszahlen
+
+* la *prima* strada, il *primo* incrocio (die *erste* Straße, die *erste* Kreuzung)
+* la *seconda* strada, il *secondo* incrocio (die *zweite* Straße, die *zweite* Kreuzung)
+* la *terza* strada, il *terzo* incrocio (die *dritte* Straße, die *dritte* Kreuzung)
+* la *quarta* strada, il *quarto* incrocio (die *vierte* Straße, die *vierte* Kreuzung)

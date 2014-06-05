@@ -1,0 +1,41 @@
+---
+layout: default
+title: Futuro
+---
+
+h1. {{ page.title }}
+
+h2. Unter Nutzung des Präsenz
+
+*andare a* + Infinitiv: Sabato *vado a mangiare* una pizza (Am Samstag gehe ich eine Pizza essen)
+
+*andere* + Präposition: Domenica *andiamo* al mare (Am Sonntag fahren wir ans Meer)
+
+h2. Unter Nutzung des Futuro
+
+h3. Verwendung
+
+* Zukünftige Handlungen ausdrücken: *Partiremo* la prossima settimana
+* Um Absichten auszudrücken: *Credo che andrò* al mare (Ich glaube, ich werde ans Meer fahren), *Penso che non resterò* in casa (Ich glaube, ich werde nicht zu hause bleiben)
+* Vermutungen: Quanti anni avrà Marcella? - Mah, avrà 46 anni.
+
+h3. Bildung
+
+h4. Regelmäßig
+
+|_.mangiare|_.prendere|_.dormire|
+|mangerò|prenderò|dormirò|
+|mangerai|prederai|dormirai|
+|mangerà|prenderà|dormirà|
+|mangeremo|prenderemo|dormiremo|
+|mangerete|prenderete|dormirete|
+|mangeranno|prenderanno|dormiranno|
+
+h4. Unregelmäßig
+
+|_.andare|andrò|_.sapere|saprò|
+|_.avere|avrò|_.vedere|vedrò|
+|_.bere|berro|_.venire|verrò|
+|_.dovere|dovrò|_.vivere|vivrò|
+|_.essere|sarò|_.volere|vorrò|
+|_.potere|potrò|_.||

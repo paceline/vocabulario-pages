@@ -1,0 +1,43 @@
+---
+layout: default
+title: Signalworte
+---
+
+h1. {{ page.title }}
+
+h2. Einen Zeitraum angeben
+
+|_.Italiano|_.Tedesco|
+|per una notte|für eine Nacht|
+|per una settimana|für eine Woche|
+|per quttro gionri|für vier Tage|
+|dal tre al sei agosto|vom 3. bis zum 6. August|
+|dall'otto al sedici luglio|vom 8. bis zum 16. Juli.|
+|dal primo al sette settembre|vom 1. bis zum 7. September|
+
+h2. Einige wichtige Zeitabgaben
+
+|_.Italiano|_.Tedesco|
+|Non lavora *mai* a casa|Ich arbeite *nie* zu Hause|
+|Faccio la spesa *una volta alla* settimana|Ich kaufe *einmal die Woche* ein|
+|Lavoro *tutti i* giorni|Ich arbeiten *jeden Tag*|
+|Luisa esce *spesso*|Luisa geht *oft* aus|
+|Ernesto *di solito* lavora a casa|Ernesto arbeitet *normalerweise* zu Hause*|
+|Carlo *qualche volta* esce con gli amici|Ernesto geht *manchmal* mit Freunden aus|
+|Luigi esce *raramente*|Luigi geht selten aus|
+
+h2. Für bestimmte Zeiten
+
+h3. imperfetto
+
+* *Quando* era giovane...
+* *Una volta* le donne stavano a casa.
+* *Prima* si andava a piedi.
+
+h3. Passato prossimo
+
+Ieri, il atro dia, la settimana passata...
+
+h3. Futuro
+
+domani, dopodomani, la prossima settimana, il prossimo anno, fra / tra un mese, a Natale, a Pasqua 

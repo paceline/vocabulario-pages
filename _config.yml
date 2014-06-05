@@ -1,0 +1,4 @@
+name: Vocabulario
+permalink_style: pretty 
+markdown: redcarpet
+pygments: true

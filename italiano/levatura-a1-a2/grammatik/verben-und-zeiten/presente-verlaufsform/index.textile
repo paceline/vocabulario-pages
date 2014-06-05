@@ -1,0 +1,18 @@
+---
+layout: default
+title: Presente (Verlaufsform)
+---
+
+h1. {{ page.title }}
+
+h2. Die Verlaufsform stare + Gerundium
+
+|_.Italiano|_.Tedesco|
+|Che stai facendo?|Was machst du gerade?|
+|Sto leggendo un libro.|Ich lese gerade ein Buch.|
+
+h2. Die Bildung des Gerundiums
+
+Die Verben auf *-are* bilden das Gerundium auf *-ando*: studiare - studiando
+
+Die Verben auf *-ere* und *-ire* bilden das Grundium auf *-endo*: leggere - leggendo bzw. dormire - dormendo

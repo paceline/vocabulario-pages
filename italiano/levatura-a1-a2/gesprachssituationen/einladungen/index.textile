@@ -1,0 +1,21 @@
+---
+layout: default
+title: Einladungen
+---
+
+h1. {{ page.title }}
+
+h2. Wie man Einladungen ausspricht und darauf reagiert
+
+|_.Hai voglia di giocare a tennis?|_.Sì, volentieri.|
+|Hast du Lust, Tennis zu spielen?|Ja, gerne.|
+|_.Ti va di andare al cinema?|_.Va bene.|
+|Hast du Lust, ins Kino zu gehen?|Ja, ok.|
+|_.Andiamo a mangiare una pizza?|_.Buona idea.|
+|Gehen wir eine Pizza essen?|Ja, gute Idee.|
+|_.Vuoi venire al concerto?|_.D'accordo.|
+|Möchtest du (mit) ins Konzert kommen?|Einverstanden.|
+|_.Vieni a mangiare una pizza|_.Non, mi dispiace, non posso.|
+|Kommst du eine Pizza essen?|Nein, tut mir leid, aber ich kann nicht.|
+|_.Viene al mare domani?|_.Mi dispiace, ma domani ho già un impegno.|
+|Fährst du morgen mit ans Meer?|Es tut mir Leid, aber morgen habe ich schon etwas vor.|

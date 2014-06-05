@@ -1,0 +1,12 @@
+---
+layout: default
+title: Konjunktionen
+---
+
+h1. {{ page.title }}
+
+h2. mentre vs. durante
+
+Auf mentre folgt immer en Verb, auf durante immer ein Substantiv:
+* *Mentre* mangiavo è arrivato Giulio
+* *Durante* la cena è arrivata Laura

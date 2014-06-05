@@ -1,0 +1,37 @@
+---
+layout: default
+title: Begrüßung
+---
+
+h1. {{ page.title }}
+
+h2. Sich begrüßen
+
+s. Vokabelliste unten
+
+h2. Sich verabschieden
+
+s. Vokabelliste unten
+
+h2. Die Höflichkeitsform
+
+*Lei* è la signora Porta? - Sind Sie Frau Porta?
+
+h2. Sich bedanken und auf Dank reagieren
+
+s. Vokabelliste unten
+
+h2. Nach dem Namen fragen und ihn nennen 
+
+|_.Di dove sei?|Woher kommst du?|_.Di dov'è?|Woher kommen Sie?|
+|_.Sono italiano|Ich bin Italiener|_.Di dove?|Von wo?|
+|_.Sono spagnola|Ich bin Spanierin|_.Di Genova.|Aus Genua.|
+
+h2. Jemanden vorstellen und etwas erwidern, wenn man selbst vorgestellt wird
+
+* Le presento la signora Boldi. - Darf ich Ihnen Frau Boldi vorstellen?
+* Ti presento Paolo. - Darf ich dir Paolo vorstellen?
+* Questa è la mia amica Sandra. Das ist meine Freundin Sandra.
+* Molto lieto/a - Es freut mich.
+* Piacere - Angenehm
+* Ciao - Hallo

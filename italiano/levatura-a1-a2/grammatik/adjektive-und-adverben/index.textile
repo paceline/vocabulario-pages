@@ -1,0 +1,104 @@
+---
+layout: default
+title: Adjektive und Adverben
+---
+
+h1. {{ page.title }}
+
+h2. Die Übereinstimmung des Adjektivs
+
+|_.Singular|_.Plural|
+|un cappuccino caldo|due cappuchini caldi|
+|una camera tranquilla|due camere tranquille|
+|una camera grande|due camere grande|
+|un cornetto grande|due cornetti grande|
+
+h2. Besonderheiten bei der Pluralbildung der Adjektive
+
+Wichtig ist, dass die Aussprache bei *-ca* und *-co* erhalten bleibt, daher wird ein *h* eingefügt. Ausnahmen sind:
+
+|_.Singular|_.Plural|
+|simpatico|simpatici|
+|practico|practici|
+|austriaco|austriaci|
+|automatico|automatici|
+
+h3. Sonderfall "bello"
+
+bello passt sich noch "viel stärker" an (wie ein Artikel):
+
+|bel divano|schönes Sofa|
+|bell'orologio|schöne Uhr|
+|bella casa|schönes Haus|
+|bei maglioni|schöne Pullover|
+|begli occhiali|schöne Brillen|
+|belle sedie|schöne Stühle|
+
+h2. Der absolute Superlativ
+
+|_.Italiano|_.Tedesco|
+|L'albergo è bellissimo|Das Hotel ist sehr schön|
+|I pomodori sono buonissimi|Die Tomaten sind sehr gut|
+|La mozzarella è freschissima|Der Mozzarella ist sehr frisch|
+|Le arance sono freschissime|Die Orangen sind sehr frisch|
+
+h2. Die höchste Vergleichsstufe
+
+Bestimmter Artikel (il, lo, la, i, gli, le) + Substantiv + *più* + Adjektiv
+
+Esempio: La regione più bella d'Italia (die schönste Region Italiens)
+
+h2. Bene und buono
+
+|Il risotto alla pescatora è *buono*|Adjektiv - bezieht sich auf Substantiv|
+|In questo ristorante si mangia *bene*|Adverb - bezieht sich auf Verb|
+
+h3. Steigerungsformen
+
+* buono -> migliore -> ottimo
+* cattivo -> peggiore -> pessimo
+* bene -> meglio -> benissimo
+* male -> peggio -> malissimo
+
+h2. Nationalitätsadjektive
+
+# -o (Maskulinum): italiano, tedesco, svizzero
+# -a (Femininum): italiana, tedesca, svizzera
+# -e (beide Geschlechter): inglese, francese, olandese
+
+h2. Farbadjektive
+
+Verhalten sich wie normale Adjektive. Ausnahmen sind die unveränderlichen:
+
+rosa, beige, blu, viola, lilla
+
+h2. Troppo, poco, tanto, molto
+
+Können adjektivisch oder pronominal verwendet werden:
+
+|_.adjektivisch|_. |
+|troppe cipolle|zu viele Zwiebeln|
+|poco pane|wenig Brot|
+
+|_.pronominal|_. |
+|Vuoi la macedonia?|Sì, ma poca|
+|Vuoi i pomodori?|Sì, ma pochi|
+
+h2. Der Gebrauch von Un altro, un’altra, un altro po’ di, atri, altre
+
+h3. Zählbare Dinge
+
+* un altro piatto
+* un'altra bottiglia di vino
+* altri due caffè
+
+h3. Bei nicht zählbaren Dingen:
+
+* un altro po' di pane
+* un po' di sale
+
+h2. Verkleinerungs- bzw. Vergrößerungsformen
+
+Verkleinerungen werden mit *-ino/a* bzw. *etto/a* ausgedrückt: naso -> nasino, piccola -> piccolina, villa -> villetta, giardino -> giardinetto
+
+Vergrößerungen werden mit *-one/-ona* ausgedrückt: ragazzo -> ragazzone, ragazza -> ragazzona
