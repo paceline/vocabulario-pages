@@ -17,3 +17,4 @@ I'd love to hear from you if you found a bug or think I should add something. Or
 
 * Avoid file not found warnings when generating print pages
 * Move to separate repository
+* Find way for proper sorting

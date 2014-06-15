@@ -1,0 +1,34 @@
+---
+layout: default
+title: Lezione 20
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_.Tedesco|
+|l'atmosfera|die Stimmung|
+|il brindisi|der Trinkspruch|
+|il compleanno|der Geburtstag|
+|controllare|kontrollieren|
+|dipende|darauf ankommen|
+|il divertimento|der Spaß|
+|il doloretto|das Wehwehchen|
+|farcela|es schaffen|
+|fare male|weh tun|
+|frizzante|prickelnd|
+|in genere|normalerweise|
+|il mal de la testa|die Kopfschmerzen|
+|il mal di schiena|die Rückenschmerzen|
+|la mandorla|die Mandel|
+|il matrimonio|die Hochzeit|
+|passare|vorbeigehen|
+|produrre|herstellen|
+|pronunciare|aussprechen|
+|raffreddato|erkältet|
+|ripetere|wiederholen|
+|la sagra|das Fest|
+|secco|trocken|
+|significare|bedeuten|
+|solito|üblicher|
+|il tipo|die Art|
+|ultimamente|in letzter Zeit|

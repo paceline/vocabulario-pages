@@ -1,0 +1,44 @@
+---
+layout: default
+title: Lezione 3 (lavoro)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\2.Tedesco|
+|a presto|\2.bis bald|
+|abitare|\2.wohnen|
+|adesso|\2.jetzt|
+|l'amica|\2.die Freundin|
+|l'amico|\2.der Freund|
+|ancora|\2.noch|
+|l'anno|\2.das Jahr|
+|l'architetto|der Architekt|die Architektin|
+|l'attore|\2.der Schauspieler|
+|avere|\2.haben|
+|il bagno|\2.das Bad|
+|la cartolina|\2.die Postkarte|
+|la casa|das Haus|die Wohnung|
+|il cognome|\2.der Nachname|
+|il commesso|\2.der Verkäufer|
+|il corso|\2.der Kurs|
+|il cuoco|\2.der Koch|
+|la data di nascita|\2.das Geburtsdatum|
+|dove|\2.wo|
+|fare|machen|tun|
+|fare il bagno|\2.baden|
+|il fotografo|\2.der Fotograf|
+|frequentare|\2.besuchen|
+|già|\2.schon|
+|giocare|\2.spielen|
+|il campeggio|\2.der Campingplatz|
+|imparare|\2.lernen|
+|l'infermiera|\2.die Krankenschwester|
+|l'ingegnere|der Ingenieur|die Ingenieurin|
+|l'insegnante|der Lehrer|die Lehrerin|
+|insieme a|\2.zusammen mit|
+|lavorare|\2.arbeiten|
+|il lavoro|\2.die Arbeit|
+|la lezione|die Lektion|der Unterricht|
+|il luogo di nascita|\2.der Geburtsort|
+|ma|\2.aber|

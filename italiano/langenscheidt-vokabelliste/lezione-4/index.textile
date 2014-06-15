@@ -1,0 +1,75 @@
+---
+layout: default
+title: Lezione 4 (restaurante)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\2.Tedesco|
+|l'acqua minerale|\2.das Mineralwasser|
+|alcolico|\2.alkoholisch|
+|l'amara|\2.der Magenbitter|
+|analcolico|\2.alkoholfrei|
+|l'aperitivo|\2.der Aperitiv|
+|l'arancia|die Apfelsine|die Orange|
+|l'aranciata|\2.der Orangensaft|
+|bere|\2.trinken|
+|la bevanda|\2.das Getränk|
+|bianco|\2.weiß|
+|la birra|\2.das Bier|
+|la bottiglia|\2.die Flasche|
+|il caffè|\2.der Kaffee|
+|caldo|\2.warm|
+|il cameriere|\2.der Kellner|
+|la camomilla|\2.der Kamillentee|
+|capire|\2.verstehen|
+|chiamare|\2.rufen|
+|la cioccolata|\2.die Schokolade|
+|il cornetto|\2.das Croissant|
+|la cortesia|\2.die Höflichkeit|
+|la crema|\2.die Creme|
+|la fame|\2.der Hunger|
+|il formaggio|\2.der Käse|
+|freddo|\2.kalt|
+|la frutta|\2.die Frucht|
+|la gasata|\2.die Kohlensäure|
+|guardare|anschauen|schauen|
+|ideale|\2.ideal|
+|insomma|also|schließlich|
+|il latte|\2.die Milch|
+|leggere|\2.lesen|
+|il limone|\2.die Zitrone|
+|i liquori|\2.die Spirituosen|
+|lo scontrino|\2.Kassenzettel|
+|il locale|\2.das Lokal|
+|offrire|anbieten|einladen|
+|ordinare|\2.bestellen|
+|il panino|das belegte Brötchen|das Sandwich|
+|per cortesia|\2.bitte|
+|per piacere|\2.bitte|
+|il piacere|\2.der Gefallen|
+|la pizzetta|\2.die kleine Pizza|
+|il pomodoro|\2.die Tomate|
+|il pompelmo|die Grapefruit|die Pampelmuse|
+|il posto|der Ort|der Platz|
+|potere|dürfen|können|
+|preferire|\2.bevorzugen|
+|prendere|abholen|nehmen|
+|il prosciutto|\2.der Schinken|
+|rosso|\2.rot|
+|sentire|fühlen|hören|
+|senza|\2.ohne|
+|il servizio|die Bedienung|der Service|
+|la sete|\2.der Durst|
+|si può|\2.man kann|
+|i soldi|\2.das Geld|
+|i soldi spiccioli|\2.das Kleingeld|
+|la spina|die Gräte|der Zapfhahn|
+|la spremuta|\2.frisch gepresster Saft|
+|lo spumante|\2.der Sekt|
+|lo sputino|\2.der Imbiss|
+|il succo|\2.der Saft|
+|il tavolo|\2.der Tisch|
+|il tè|\2.der Tee|
+|telefonare|\2.telefonieren|
+|il tramezzino|\2.das dreieckige Sandwich|

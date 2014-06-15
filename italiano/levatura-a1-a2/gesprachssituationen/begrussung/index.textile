@@ -7,11 +7,17 @@ h1. {{ page.title }}
 
 h2. Sich begrüßen
 
-s. Vokabelliste unten
+|ciao|Hallo|tschüs|
+|buonasera|\2.Guten Abend|
+|buongiorno|guten Morgen|Guten Tag|
+|Molto lieto!|\2.Sehr erfreut!|
+|Piacere!|\2.Angenehm!|
 
 h2. Sich verabschieden
 
-s. Vokabelliste unten
+|a dopo|bis später|
+|a più tardi|bis später|
+|arrivederci|auf Wiedersehen|
 
 h2. Die Höflichkeitsform
 
@@ -19,7 +25,10 @@ h2. Die Höflichkeitsform
 
 h2. Sich bedanken und auf Dank reagieren
 
-s. Vokabelliste unten
+|grazie|danke|
+|grazie mille|tausend Dank|
+|grazie tante|vielen Dank|
+|di niente|Keine Ursache|
 
 h2. Nach dem Namen fragen und ihn nennen 
 

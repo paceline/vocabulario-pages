@@ -1,0 +1,30 @@
+---
+layout: default
+title: Lezione 2 (presentarsi)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\2.Tedesco|
+|anche|\2.auch|
+|la bambina|\2.das Mädchen|
+|certo|klar|sicher|
+|chi|\2.wer|
+|chiamarsi|\2.heißen|
+|come|\2.wie|
+|con|\2.mit|
+|di dove|\2.woher|
+|ecco|\2.hier|
+|essere|\2.sein|
+|i gemelli|\2.die Zwillinge|
+|giusto|\2.richtig|
+|invece|\2.dagegen übrigens|
+|l'autore|\2.der Autor|
+|il libro|\2.das Buch|
+|no|\2.nein|
+|il nome|der Name|der Vorname|
+|per favore|\2.bitte|
+|pesante|\2.schwer|
+|scusi|\2.entschuldigung|
+|vero|richtig|wahr|
+|lo zaino|\2.der Rucksack|

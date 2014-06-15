@@ -1,0 +1,69 @@
+---
+layout: default
+title: Lezione 11 (hobby)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\3.Tedesco|
+|l'abbraccio|\3.die Umarmung|
+|l'aero|\3.das Flugzeug|
+|amare|\3.lieben|
+|anche|\3.auch|
+|andare in bicicleta|\3.Fahrrad fahren|
+|l'attimo|\3.der Augenblick|
+|attivo|\3.aktiv|
+|avere tempo|\3.Zeit haben|
+|ballare|\3.tanzen|
+|la bicicleta|\3.das Fahrrad|
+|il calzolaio|\3.der Schuster|
+|cantare|\3.singen|
+|cercare|aufsuchen|suchen|versuchen|
+|la chimica|\3.der Chemie|
+|creativo|\3.kreativ|
+|cucinare|\3.kochen|
+|dinamico|\3.dynamisch|
+|dipingere|\3.malen|
+|disturbare|\3.stören|
+|fare sport|\3.Sport treiben|
+|i figli|\3.die Kinder|
+|fotografare|\3.fotografieren|
+|gli occhiali|\3.die Brille|
+|la guida turistica|\3.der Reiseführer|
+|guidare|lenken|\2.steuern|
+|guidare la macchina|\3.Auto fahren|
+|indipendente|\3.unabhängig|
+|inoltre|\3.außerdem|
+|invece|dagegen|\2.übrigens|
+|il meccanico|der Mechaniker|\2.mechanisch|
+|il momento|\3.der Moment|
+|navigare in internet|\3.im Internet surfen|
+|neanche|\3.auch nicht|
+|nessuno|\3.niemand|
+|nuotare|\3.schwimmen|
+|nuovo|\3.neu|
+|odiare|\3.hassen|
+|ognuno|\3.jeder|
+|l'orologio|\3.die Uhr|
+|passare|geben|\2.vorbeigehen|
+|la passione|\3.die Leidenschaft|
+|il pianoforte|\3.das Klavier|
+|pigro|\3.faul|
+|prendere|abholen|\2.nehmen|
+|prendere l'aero|\3.fliegen|
+|presto|\3.früh|
+|puliere|\3.putzen|
+|richiamare|wieder anrufen|\2.zurückrufen|
+|ricordarsi|\3.sich erinnern|
+|riparare|\3.reparieren|
+|riuscire|gelingen|\2.schaffen|
+|romantico|\3.romantisch|
+|sensibile|\3.sensibel|
+|serio|ernst|\3.seriös|
+|solo|\3.allein|
+|subito|gleich|\2.sofort|
+|suonare|\3.spielen|
+|tardi|\3.spät|
+|timido|\3.schüchtern|
+|la tv|\3.das Fernsehen|
+|la vita|\3.das Leben|

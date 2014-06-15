@@ -1,0 +1,75 @@
+---
+layout: default
+title: Lezione 7 (fare la spesa)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\3.Tedesco|
+|anonimo|\3.anonym|
+|la banana|\3.die Banane|
+|il barattolo|\3.das Glas|
+|il basilico|\3.das Basilikum|
+|bastare|\2.genügen|reichen|
+|il biscotto|\3.der Keks|
+|buono|\3.gut|
+|il burro|\3.die Butter|
+|la busta|der Beutel|\2.die Tüte|
+|i carciofini sott'olio|\3.die eingelegten Artischocken|
+|la carne|\3.das Fleisch|
+|la carne macinata|\3.Hackfleisch|
+|il chilo|\3.das Kilo|
+|comprare|\3.kaufen|
+|la conserva|\3.die Konserve|
+|la cosa|das Ding|\2.die Sache|
+|cotto|\3.gekocht|
+|crudo|\3.roh|
+|desiderare|\3.wünschen|
+|dolce|\3.süß|
+|economico|\3.billig|
+|l'etto|\3.die hundert Gramm|
+|fare la spesa|\3.einkaufen|
+|freschissimo|\3.frisch|
+|la frutteria|\3.der Obstladen|
+|il fruttivendolo|\3.der Obsthändler|
+|la frutto|\3.das Obst|
+|il fungo|\3.der Pilz|
+|la gente|\3.die Leute|
+|grattugiato|\3.gerieben|
+|l'insalta|\3.der Salat|
+|la lattina|\3.die Dose|
+|il litro|\3.der Liter|
+|il macellaio|\3.der Metzger|
+|la macelleria|\3.die Metzgerei|
+|la marmellata|\3.die Marmelade|
+|la mela|\3.der Apfel|
+|il miele|\3.der Honig|
+|il negozio di frutta e verdura|\3.das Obst- und Gemüsegeschäft|
+|l'olivia|\3.die Olive|
+|il pacco|\3.das Päckchen|
+|il pane|\3.das Brot|
+|il panettiere|\3.der Bäcker|
+|la pasta|\3.die Nudeln|
+|la pera|\3.die Birne|
+|il pesce|\3.der Fisch|
+|la pescheria|\3.die Fischhalle|
+|il pescivendolo|\3.der Fischverkäufer|
+|piccante|\3.scharf|
+|piccolo|\3.klein|
+|i piselli|\3.die Erbsen|
+|pratico|\3.praktisch|
+|i prodotti animali|\3.die Tierprodukte|
+|quanto|wie|\2.wie viel|
+|il salame|\3.die Salami|
+|la salumeria|\3.der Wurstladen|
+|il salumiere|\3.der Wurstverkäufer|
+|servire|\3.brauchen|
+|gli spinaci|\3.das Spinat|
+|il supermercato|\3.der Supermarkt|
+|i surgelati|\3.die tiefgefrorenen Produkte|
+|troppo|zu sehr|\2.zu viel|
+|tutto|\3.alles|
+|l'uovo|\3.das Ei|
+|veloce|\3.schnell|
+|vendere|anschauen|sehen|verkaufen|
+|la verdura|\3.das Gemüse|

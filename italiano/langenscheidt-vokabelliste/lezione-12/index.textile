@@ -1,0 +1,83 @@
+---
+layout: default
+title: Lezione 12 (altre cose)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\3.Tedesco|
+|a Natale|\3.zu Weihnachten|
+|a proposito|gelegen|passend|übrigens|
+|a volte|\3.manchmal|
+|andare a cavallo|\3.reiten|
+|andare in spiaggia|\3.an den Strand gehen|
+|arrivare|\3.ankommen|
+|l'arrivo|\3.die Ankunft|
+|Auguri!|\3.Glückwunsch!|
+|avere fortuna|\3.Glück haben|
+|l'avventura|\3.das Abenteuer|
+|cambiare|ändern|\2.wechseln|
+|cambiare casa|\3.umziehen|
+|camminare|gehen|\2.wandern|
+|la canoa|\3.das Kanu|
+|il cavallo|\3.das Pferd|
+|chiedere|\3.fragen|
+|il corso di immersione|\3.der Tauchkurs|
+|così|deshalb|\2.so|
+|così poco|\3.so kurz|
+|decidere di|entscheiden|\2.sich entscheiden|
+|dimenticare|\3.vergessen|
+|divertirsi|\3.sich amüsieren|
+|durare|\3.dauern|
+|è da un secolo|\3.es ist schon lange her|
+|l'escursione|\3.der Ausflug|
+|fantastico|\3.phantastisch|
+|fare vela|\3.segeln|
+|faticoso|anstrengend|\2.mühsam|
+|la festa|\3.die Party|
+|la fortuna|\3.das Glück|
+|geniale|\3.genial|
+|i giovani|\3.die Jugendlichen|
+|ieri|\3.gestern|
+|il viaggio|\3.die Reise|
+|l'immersione|\3.das Tauchen|
+|improvvisamente|\3.plötzlich|
+|in fretta|in Eile|\2.schnell|
+|in ritardo|\3.spät|
+|l'isola|\3.die Insel|
+|l'altro ieri|\3.vorgestern|
+|la fretta|\3.die Eile|
+|meraviglioso|\3.wunderschön|
+|il mese|\3.der Monat|
+|la montagna|\3.das Gebirge|
+|nascere|\3.geboren werden|
+|non ancora|\3.noch nicht|
+|nonostante tutto|\3.trotz allem|
+|la partenza|\3.die Abfahrt|
+|la pazienza|\3.die Geduld|
+|prendere il sole|\3.sich sonnen|
+|la prossima volta|\3.das nächste Mal|
+|prossimo|\3.nächster|
+|purtroppo|\3.leider|
+|quindi|also|daher|deshalb|
+|la regione|\3.die Region|
+|restare|\3.bleiben|
+|ricevere|\3.bekommen|
+|rompersi|\3.kaputt gehen|
+|salire|\3.einsteigen|
+|sciare|\3.Ski fahren|
+|scoprire|\3.entdecken|
+|scorso|\3.letzter|
+|il secolo|\3.das Jahrhundert|
+|simpatico|hübsch|nett|sympathisch|
+|sopratutto|\3.vor allem|
+|il sud|\3.der Süden|
+|il traghetto|\3.die Fähre|
+|tutto questo tempo|\3.die ganze Zeit|
+|va be'|\3.na gut|
+|va bene|\3.na gut|
+|la valigia|\3.der Koffer|
+|vedersi|\3.sich treffen|
+|veramente|\3.wirklich|
+|verso il nord|\3.Richtung Norden|
+|i vestiti|\3.die Kleider|

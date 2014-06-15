@@ -1,0 +1,53 @@
+---
+layout: default
+title: Lezione 17 (in casa)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\2.Tedesco|
+|affittare|\2.mieten|
+|al posto vostro|\2.an eurer Stelle|
+|ampio|\2.geräumig|
+|l'appartamento|\2.Wohnung|
+|l'armadio|\2.der Schrank|
+|l'attico|\2.die Dachwohnung|
+|avere bisogno di|\2.brauchen|
+|il bagnetto|\2.das kleine Bad|
+|la camera da letto|\2.das Schlafzimmer|
+|la cameretta|\2.das kleine Zimmer|
+|la cantina|\2.der Keller|
+|centrale|\2.zentral|
+|il comò|\2.die Kommode|
+|il comodino|\2.der Nachttisch|
+|la cucina|\2.die Küche|
+|la lampada|\2.die Lampe|
+|lavare i piatti|\2.Geschirr spülen|
+|la lavastoviglie|\2.der Geschirrspüler|
+|la mansarda|\2.die Mansarde|
+|meglio|\2.besser|
+|migliore|\2.besser|
+|il monolocale|\2.das Einzimmerappartement|
+|ottimo|hervorragend|sehr gut|
+|il palazzo|das Hochaus|der Palast|
+|peggio|\2.schlechter|
+|peggiore|\2.schlechter|
+|la periferia|\2.die Peripherie|
+|la pianta|\2.die Pflanze|
+|la poltrona|\2.der Sessel|
+|il posto auto|\2.der Stellplatz|
+|il quadro|\2.das Bild|
+|la qualità|die Beschaffenheit|die Qualität|
+|quanto|wie|wie viel|
+|il riscaldamento|\2.die Heizung|
+|ristrutturato|\2.renoviert|
+|il salone|\2.das Wohnzimmer|
+|la scrivania|\2.der Schreibtisch|
+|la sedia|\2.der Stuhl|
+|lo specchio|\2.der Spiegel|
+|storico|\2.historisch|
+|lo studio|\2.das Arbeitszimmer|
+|il tappeto|\2.der Teppich|
+|il terrazzino|\2.die kleine Terrasse|
+|il terrazzo|\2.die Terrasse|
+|la villetta|\2.das Einfamilienhäuschen|

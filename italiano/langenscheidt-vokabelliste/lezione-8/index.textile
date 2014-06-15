@@ -1,0 +1,74 @@
+---
+layout: default
+title: Lezione 8 (tempo libero)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\3.Tedesco|
+|a|\3.bis um|
+|alzarsi|\3.aufstehen|
+|andare a teatro|\3.ins Teater gehen|
+|andare al cinema|\3.ins Kino gehen|
+|andare al lavoro|\3.zur Arbeit gehen|
+|ascoltare|hören|lauschen|zuhören|
+|cenare zu|\3.Abend essen|
+|la città|\3.die Stadt|
+|il collega|\3.der Kollege|
+|di mattina|\3.morgens|
+|di sera|\3.abends|
+|di solito|gewöhnlich|\2.normalerweise|
+|dormire|\3.schlafen|
+|elegante|\3.elegant|
+|fare ginnastica|\3.Gymnastik machen|
+|fare jogging|\3.joggen|
+|il farmacista|\3.der Apotheker|
+|il giornalista|\3.der Journalist|
+|il giovedì|\3.der Donnerstag|
+|la giurisprudenza|\3.die Jura|
+|il pomeriggio|der Nachmittag|\2.nachmittags|
+|incontrare|\3.treffen|
+|incontrarsi|\3.sich treffen|
+|infatti|\3.in der Tat|
+|interessante|\3.interessant|
+|lavarsi|\3.sich waschen|
+|il lunedì|\3.der Montag|
+|il martedì|\3.der Dienstag|
+|la mattina|\3.vormittags|
+|il mercoledì|\3.der Mittwoch|
+|mezzo|\3.halb|
+|il mezzogiorno|\3.der Mittag|
+|la moglie|\3.die Ehefrau|
+|la notte|\3.nachts|
+|ogni|\3.jeden|
+|l'ora|\3.die Stunde|
+|il pianista|\3.der Pianist|
+|il piano|langsam|\2.das Stockwerk|
+|la porta|\3.die Tür|
+|pranzare|\3.zu Mittag essen|
+|qualche volta|\3.manchmal|
+|quando|wann|\2.wenn|
+|il quarto|\3.das Viertel|
+|quasi|\3.fast|
+|raramente|\3.selten|
+|riposarsi|\3.sich ausruhen|
+|il sabato|\3.der Samstag|
+|sapere|können|\2.wissen|
+|scrivere|\3.schreiben|
+|separato|\3.getrennt|
+|sicuro|\3.sicher|
+|sotto|\3.unter|
+|spesso|\3.oft|
+|sposato|\3.verheiratet|
+|strano|komisch|\2.merkwürdig|
+|la studentessa|\3.die Studentin|
+|svegliarsi|\3.aufwachen|
+|truccarsi|\3.sich schminken|
+|tutte le sere|\3.jeden Abend|
+|ultimo|\3.letzter|
+|una volta alla settimana|\3.einmal die Woche|
+|l'università|\3.die Universität|
+|uscire|\3.ausgehen|
+|il venerdì|\3.der Freitag|
+|vestirsi|\3.sich schminken|
+|viaggiare|\3.reisen|

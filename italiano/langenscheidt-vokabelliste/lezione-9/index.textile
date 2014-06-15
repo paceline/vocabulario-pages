@@ -1,0 +1,66 @@
+---
+layout: default
+title: Lezione 9 (tempo libero)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\3.Tedesco|
+|altrimenti|ansonsten|\2.sonst|
+|l'anziano|der alte Mensch|\2.der Rentner|
+|aperto|\3.offen|
+|l'appuntamento|\3.die Verabredung|
+|aspettare|\3.warten|
+|il biglietto|\3.die Eintrittskarte|
+|chiuso|\3.geschlossen|
+|ci|dorthin|\2.hin|
+|cominciare|\3.anfangen|
+|il concerto|\3.das Konzert|
+|coperto|\3.bedeckt|
+|d'accordo|\3.Einverstanden|
+|la discussione|\3.die Diskussion|
+|divertente|\3.lustig|
+|la domenica|\3.der Sonntag|
+|dovere|\3.müssen|
+|facciamo...|\3.sagen wir...|
+|il fine settimana|\3.das Wochenende|
+|finire|\3.beenden|
+|forse|\3.vielleicht|
+|la galleria|\3.die Gallerie|
+|gratuito|frei|\2.gratis|
+|l'idea|\3.die Idee|
+|l'impegno|der Termin|\2.die Verpflichtung|
+|in autobus|\3.mit dem Bus|
+|la macchina|\3.das Auto|
+|la mostra|\3.die Ausstellung|
+|la musica|\3.die Musik|
+|la nebbia|\3.der Nebel|
+|nevicare|\3.schneien|
+|nuvoloso|\3.gewölkt|
+|l'opera|\3.das Werk|
+|l'orario|die Öffnungszeit|\2.die Uhrzeit|
+|particolare|besonders|\2.originell|
+|perfetto|\3.perfekt|
+|il piatto|\3.der Teller|
+|piovere|\3.regnen|
+|il pittore|\3.der Maler|
+|potere|dürfen|\2.können|
+|il pranzo|\3.das Mittagessen|
+|il programma|\3.das Programm|
+|proprio|\3.wirklich|
+|il regista|\3.der Regisseur|
+|la ricetta|\3.das Rezept|
+|la riduzione|\3.die Ermäßigung|
+|se|\3.wenn|
+|sereno|\3.heiter|
+|stanco|erschöpft|\2.müde|
+|stasera|\3.heute Abend|
+|la trattoria|\3.das einfache Restaurant|
+|variabile|\3.wechselhaft|
+|vendere|anschauen|sehen|verkaufen|
+|venire|\3.kommen|
+|venire a prendere|\3.mitnehmen|
+|verso|\3.gegen|
+|la visita|\3.der Besuch|
+|la visita guidata|\3.die Führung|
+|volere|\3.wollen|

@@ -1,0 +1,63 @@
+---
+layout: default
+title: Lezione 15 (sport II)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\5.Tedesco|
+|abbassare|\5.senken|
+|alzare|abheben|errichten|heben|lauter|stellen|
+|aprire|\5.öffnen|
+|assolutamente|\5.unbedingt|
+|l'atletica leggera|\5.die Leichtathletik|
+|attento|aufmerksam|\4.vorsichtig|
+|l'attenzione|die Aufmerksamkeit|\4.die Vorsicht|
+|avanti|\5.nach vorne|
+|benvenuto|\5.willkommen|
+|bisogna|\5.man muss|
+|la bocca|\5.der Mund|
+|il braccio|\5.der Arm|
+|Chiaro!|\5.Klar!|
+|il ciclismo|\5.der Radsport|
+|il collo|\5.der Hals|
+|correre|\5.laufen|
+|il costume|der Badeanzug|\4.die Badehose|
+|la danza|\5.der Tanz|
+|il dito|\5.der Finger|
+|il divano|\5.das Sofa|
+|diventare|\5.werden|
+|il esercizio|\5.die Übung|
+|fare sport|\5.Sport treiben|
+|fermarsi|\5.stehen bleiben|
+|il fianco|die Hüfte|\4.die Seite|
+|la finstre|\5.das Fenster|
+|la gamba|\5.das Bein|
+|il ginocchio|\5.das Bein|
+|girare|abbiegen|\4.drehen|
+|il calcio|\5.der Fußball|
+|la testa|\5.der Kopf|
+|il labbro|\5.die Lippe|
+|la mano|\5.die Hand|
+|il muscolo|\5.der Muskel|
+|il naso|\5.die Nase|
+|neppure|\5.Nicht einmal|
+|il nuoto|\5.das Schwimmen|
+|l'orecchio|\5.das Ohr|
+|il pallacanestro|\5.der Basketball|
+|la pallavolo|\5.der Volleyball|
+|la pancia|\5.der Bauch|
+|la patatina|\5.die Pommes|
+|perdere|\5.verlieren|
+|il peso|\5.das Gewicht|
+|il petto|\5.die Brust|
+|il piede|\5.der Fuß|
+|prima di tutto|zuerst|\4.zunächst|
+|profondamente|\5.tief|
+|la regola|\5.die Regel|
+|respirare|\5.atmen|
+|ripetere|\5.wiederholen|
+|sapere|können|\4.wissen|
+|seguire le regole|\5.die Regeln befolgen|
+|la spalla|\5.die Schulter|
+|toccare|\5.berühren|

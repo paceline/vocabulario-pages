@@ -1,0 +1,40 @@
+---
+layout: default
+title: Lezione 18
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\5.Tedesco|
+|Addio!|\5.Lebe wohl!|
+|l'agricoltura|der Ackerbau|\4.die Landwirtschaft|
+|l'allarme|\5.der Alarm|
+|allora|also|damals|\3.dann|
+|l'ambiente|\5.die Umwelt|
+|aumentare|erhöhen|\4.zunehmen|
+|biologico|\5.biologisch|
+|c'era|\5.es gab|
+|la capitale|\5.die Hauptstadt|
+|la chitarra|\5.die Gitarre|
+|d'oggi|\5.von heute|
+|Davvero|Im Ernst|\4.wirklich|
+|diminuire|\5.senken|
+|la disoccupazione|\5.die Arbeitslosigkeit|
+|fare caldo|\5.warm sein|
+|fare freddo|\5.kalt sein|
+|finalmente|\5.endlich|
+|lasciare|aufhören|lassen|loslassen|trennen|verlassen|
+|il migliaio|\5.das Tausend|
+|il milione|\5.die Million|
+|la nascita|\5.die Geburt|
+|l'origine|\5.der Ursprung|
+|presentare|\5.präsentieren|
+|il profugo|\5.der Flüchtling|
+|raccontare|\5.erzählen|
+|il regno|\5.das Königreich|
+|la repubblica|\5.die Republik|
+|ritornare|zurückgehen|\4.zurückkommen|
+|sano|\5.gesund|
+|lo sciopero|\5.der Streik|
+|la storia|\5.die Geschichte|
+|una volta|einmal|\4.früher|

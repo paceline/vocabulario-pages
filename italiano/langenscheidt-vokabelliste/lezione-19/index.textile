@@ -1,0 +1,62 @@
+---
+layout: default
+title: Lezione 19
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\3.Tedesco|
+|a parte|\3.außer|
+|l'abitante|\3.der Einwohner|
+|ammettere|\3.zugeben|
+|andare in giro|\3.herumfahren|
+|antico|\3.alt|
+|il bicchiere di plastica|\3.der Plastikbecher|
+|cercare|aufsuchen|suchen|versuchen|
+|la collina|\3.Hügel|
+|la costa|\3.die Küste|
+|costruire|\3.bauen|
+|credere|\3.glauben|
+|crescere|aufwachsen|wachsen|zunehmen|
+|la cultura|\3.die Kultur|
+|di nuovo|\3.von neuem|
+|dopodomani|\3.übermorgen|
+|esattamente|\3.genau|
+|essere di tutti|\3.allen gehören|
+|finire|\3.beenden|
+|fra|\3.in|
+|il gruppo|\3.die Gruppe|
+|impossibile|\3.unmöglich|
+|in fondo|\3.im Grunde|
+|in mezzo|\3.a mitten in|
+|incredibile|\3.unglaublich|
+|l'industria|\3.die Industrie|
+|insegnare|\3.beibringen|
+|invitare|\3.einladen|
+|l'esperienza|\3.die Erfahrung|
+|il lupo|\3.der Wolf|
+|la natura|\3.die Natur|
+|l'orso|\3.der Bär|
+|osservare|\3.beobachten|
+|il paesaggio|\3.die Landschaft|
+|il parco nazionale|\3.der Nationalpark|
+|la passeggiata|\3.der Spaziergang|
+|primo perché|\3.erstens, weil...|
+|probabilmente|\3.wahrscheinlich|
+|proteggere|\3.schützen|
+|la quantità|\3.die Quantität|
+|il rifiuto|der Abfall|\2.der Müll|
+|rispettare|\3.respektieren|
+|secondo me|\3.meiner Meinung nach|
+|smettere|\3.aufhören|
+|smetterla|\3.damit aufhören|
+|splendido|\3.großartig|
+|stupendo|traumhaft|\2.wunderschön|
+|la tesi di laurea|\3.die Diplomarbeit|
+|il tesoro|\3.der Schatz|
+|la tradizione|\3.die Tradition|
+|il turista|\3.der Tourist|
+|l'uccello|\3.Vogel|
+|unico|einzig|\2.einzigartig|
+|la valle|\3.das Tal|
+|il vulcano|\3.der Vulkan|

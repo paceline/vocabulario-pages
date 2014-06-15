@@ -6,3 +6,5 @@ title: Italiano
 All italian language guides are listed below.
 
 h2. {% link_to "Levatura A1, A2" %}
+
+h2. {% link_to "Langenscheidt Vokabelliste" %}

@@ -1,0 +1,667 @@
+---
+layout: default
+title: DELE vocabulario (intermedio)
+---
+
+h1. {{ page.title }}
+
+|_.Alemán|_\2.Español|
+|die Kanne|\2.la jarra|
+|abäsen|\2.podar|
+|die Abendkasse|\2.la taquilla||
+|der Abfall|la basura|los residuos|
+|die Abfertigung|\2.la facturación|
+|abheilen|\2.curarse|
+|abholzen|\2.talar|
+|die Abholzung|\2.la tala|
+|das Abitur|\2.el bachillerato|
+|abnehmen|\2.adelgazar|
+|das Abo Ticket|\2.el abono de transportes|
+|die Abschlussprüfung|\2.el exámen parcial|
+|abstrakt|\2.abstracto|
+|ackern|\2.currar|
+|der Actionfilm|\2.la película de acción|
+|ähnlich wirken/aussehen|\2.tener un aire|
+|der Akademiker|el licenciado|el universitario|
+|die Akupunktur|\2.la acupunctura|
+|alles aus der Nase ziehen|\2.tirar a alguien de la lengua|
+|die alternative Energie|\2.la energía alternativa|
+|das alternative Fitnessprogramm|\2.la antigimnasia|
+|die alternative Medizin|\2.la medicina alternativa|
+|am Ende des Monats ankommen|\2.llegar al final de mes|
+|die Ambulanz|\2.el ambulatorio|
+|der Amtsinhaber|\2.el cargo|
+|die Anforderung|\2.el requisito|
+|das Angebot|\2.la oferta|
+|die Ankunft|\2.la llegada|
+|der Ansager|el locutor|el presentador|
+|der Anschein|\2.la pinta|
+|anstecken|\2.contagiar|
+|das Antiseptikum|\2.el antiséptico|
+|die Anzeige|el anuncio|la indicación|
+|das Apartment|\2.el piso|
+|die Appetitlosigkeit|\2.la anorexia|
+|die Arbeit|\2.el curro|
+|arbeitslos|\2.en paro parado|
+|die Arbeitslosigkeit|el desempleo|el paro|
+|der Arbeitsplatz|\2.el puesto|
+|der Arbeitstag|\2.la jornada laboral|
+|die Arbeitsunsicherheit|\2.la precariedad laboral|
+|das Arbeitsversäumnis|\2.el absentismo|
+|der Arbeitsvertrag|\2.el contrato de trabajo|
+|auf den Arm nehmen|\2.tomar el pelo|
+|auf der faulen Haut liegen|\2.rascarse la barriga|
+|auf Raten zahlen|\2.pagar a plazos|
+|das Aufbaustudium|\2.los estudios de postgrado|
+|die Aufführung|\2.la función|
+|der Auflauf|\2.la cacerola|
+|die Auflösung|\2.la liquidación|
+|der Aufstieg|\2.el ascenso|
+|aufzeichnen|\2.grabar|
+|aus der Mode sein|\2.estar pasado de moda|
+|aus Zucker sein|\2.estar hecho polvo|
+|ausbreiten|\2.difundir|
+|außen|\2.exterior|
+|außerhalb|\2.en las afueras|
+|ausgehen|salir|salir de marcha|
+|die ausgewogene Ernährung|\2.la alimentación equilibrada|
+|der Ausverkauf|\2.la rebaja|
+|das Auswahlverfahren|\2.la oposición|
+|auswendig lernen|\2.memorizar|
+|die Auszeichnung|\2.la matrícula de honor|
+|der Bach|el arroyo|el riachuelo|
+|das Bachelorstudium|\2.la diplomatura|
+|der Bahnhof|\2.la estación|
+|die Bakterie|\2.la bacteria|
+|der Balkon|\2.el balcón|
+|das Ballet|\2.el ballet|
+|die Bank|\2.el banco|
+|der Beamte|\2.el funcionario|
+|das Beben|\2.el temblor|
+|die Beförderung|\2.el ascenso|
+|befreien|\2.podar|
+|der Befund|\2.el diagnóstico|
+|die Beklemmung|\2.la ansiedad|
+|belästigen|dar la lata|fregar|
+|der Beleg|el comprobante|el resguardo|
+|die Beratung|\2.la consulta|
+|die Berechnung|\2.la facturación|
+|die Berufsausbildung|\2.la formación profesional|
+|das Beruhigungsmittel|\2.el calmante|
+|das Beschneiden|\2.la poda|
+|beschneiden|\2.podar|
+|bessern|\2.mejorar|
+|das Bestanden|\2.el aprobado|
+|bestätigen|\2.confirmar|
+|bestehen|\2.aprobar|
+|der Betrug|\2.el fraude|
+|der Bewerber|\2.el candidato|
+|das Bild|\2.el cuadro|
+|bildhaft|\2.figurativo|
+|die Bildhauerei|\2.la escultura|
+|die Bildung|\2.la formación|
+|biologisch abbaubar|\2.biodegradable|
+|der Blitz|el rayo|el relámpago|
+|die Blume|\2.la flor|
+|die Bodenschätze|\2.los recursos naturales|
+|das Boulevardmagazin|\2.la programa de cotilleos|
+|der Brand|\2.el incendio|
+|die Brise|\2.la brisa|
+|die Broschüre|\2.el folleto|
+|der Bruch|\2.la fractura|
+|die Brücke von|\2.el puente de|
+|die Bühne|\2.el escenario|
+|das Bühnenbild|\2.la escenografía|
+|die Bulimie|\2.la bulimia|
+|das Camping|\2.el camping|
+|der Check|\2.el cheque|
+|die Choreografie|\2.la coreografía|
+|der Container für Verpackungsmüll|\2.el contenedor de envases|
+|der Dampfkochtopf|\2.la olla exprés|
+|das allerneuste tragen|\2.ir a la última|
+|das Ausflugslokal|\2.el merendero|
+|das belegte Brötchen|\2.el bocadillo|
+|das Bier|\2.la cerveza|
+|das Brauhaus|\2.la cervecería|
+|das Café|el café|la cafetería|
+|das Eis brechen|\2.romper el hielo|
+|das Erfrischungsgetränk|\2.el refresco|
+|das Hot Dog|\2.el perrito caliente|
+|das Restaurant|\2.el restaurante|
+|das Sandwich|\2.el sándwich|
+|die Debatte|\2.el debate|
+|dei Abfahrt|\2.la salida|
+|dei Beleuchtung|\2.la iluminación|
+|der Bohneneintopf|\2.la fabada|
+|der Eintopf|\2.el cocido|
+|der Espresso mit Milch|\2.el cortado|
+|der Gemüseeintopf|\2.el potaje|
+|der Hamburger|\2.la hamburguesa|
+|der Kaffee|\2.el café|
+|der Kräutertee|\2.la infusión|
+|der Lachs|\2.el salmón|
+|der Milchkaffee|\2.el café con leche|
+|der Rotwein|\2.el vino tinto|
+|der Seebarsch|\2.la lubina|
+|der Seehecht|\2.la merluza|
+|der Weißwein|\2.el vino blanco|
+|die Bar|\2.el bar|
+|die Besucherterrasse|\2.la terraza|
+|die Bierstube|\2.la cervecería|
+|die Brücke nehmen|\2.hacer puente|
+|die Dorade|\2.la dorada|
+|die grüne Bohne|\2.la judía verde|
+|die Hosen anhaben|cortar el bacalao|llevar los pantalones|
+|die Kichererbse|\2.el garbanzo|
+|die Linse|\2.la lenteja|
+|die Möhre|\2.la zanahoria|
+|die Paprika|\2.el pimiento|
+|die Schokolaterie|\2.la chocolatería|
+|die Snackbar|\2.la cafetería|
+|die Taverne|\2.la taberna|
+|die Terrasse|\2.la terraza|
+|die Tintenfischringe|\2.los calamares|
+|die Tomate|\2.el tomate|
+|die Weinbar|\2.el bar de copas|
+|die Weinkellerei|\2.la bodega|
+|die weiße Bohne|\2.la judía blanca|
+|die Werbetrommel rühren|\2.anunciar a bombo y platillo|
+|die Zucchini|\2.el calabacín|
+|die Zwiebel|\2.la cebolla|
+|der Diplomierte|\2.el diplomado|
+|der Doktor|\2.el doctor|
+|das Doktorat|\2.el doctorado|
+|der Dokumentarfilm|\2.el documental|
+|der Donner|\2.el trueno|
+|die Dosis|\2.la dosis|
+|das Drama|\2.la película de suspense|
+|draußen sein|\2.estar fuera|
+|die Dreharbeiten|\2.el rodaje|
+|das Drehbuch|\2.el guión|
+|das Drehen|\2.el rodaje|
+|ds Waldsterben|\2.la deforestación|
+|durchfallen|\2.suspender|
+|das Durchgefallen|\2.el suspenso|
+|die Dürre|\2.la sequía|
+|die EC-Karte|\2.la tarjeta de debito|
+|egal sein|\2.importar un comino|
+|die Eigentümergemeinschaft|\2.la comunidad de vecinos|
+|ein Auge zudrücken|\2.hacer la vista gorda|
+|ein gesundes Leben führen|\2.llevar una vida sana|
+|ein Großmaul sein|\2.ser un bocazas|
+|ein sesshaftes Leben führen|\2.llevar una vida sedentaria|
+|ein Spaßverderber sein|\2.ser un aguafiestas|
+|ein Vermögen kosten|\2.costar un ojo de la cara|
+|eine Bestellung aufnehmen|\2.aceptar un pedido recibir un pedido|
+|eine Gelegenheit nutzen|\2.scarse muy buen partido|
+|eine gute Note bekommen|\2.sacar buena nota|
+|eine Klasse überspringen|\2.saltarse una clase|
+|eine Runde drehen|\2.dar una vuelta|
+|eine schlechte Note bekommen|\2.sacar mala nota|
+|einen Blackout haben|\2.quedarse en blanco|
+|einen Spickzettel haben|\2.tener una chuleta|
+|einen Tag frei nehmen|\2.coger un día libre|
+|einen Termin vereinbaren|\2.pedir hora|
+|das einfache Ticket|\2.el billete sencillo|
+|der Eingang|\2.el portal|
+|eingipsen|\2.escayolar|
+|das Einkaufszentrum|\2.el centro comercial|
+|die Einrichtung|\2.la decoración|
+|die Einspritzung|\2.la inyección|
+|die Einstellungstest|\2.la prueba de selección|
+|der Eintritt|\2.la entrada|
+|die elektrische Energie|\2.la energía eléctrica|
+|die Empfangsbestätigung|\2.el resguardo|
+|die Energieressourcen|\2.los recursos energéticos|
+|die Entwaldung|\2.la deforestación|
+|das Erdbeben|\2.el terremoto|
+|die Erderwärmung|\2.el calentamiento global|
+|Erfahrung haben|\2.tener tablas|
+|die Erkältung|\2.el catarro el resfriado|
+|die Ersparnis|\2.el ahorro|
+|das Etikett|\2.la etiqueta|
+|etwas griffbereit halten|dejar algo a mano|tener algo a mano|
+|etwas holen gehen|\2.ir por|
+|etwas trinken gehen|\2.ir de copas|
+|etwas zu sich nehmen|\2.tomar algo|
+|die Examenseinberufung|\2.la convocatoria de examen|
+|das Fach|\2.la asignatura|
+|der Fachbereich|\2.la facultad|
+|das Fachhochschulstudium|\2.la diplomatura|
+|die Fakultät|\2.la facultad|
+|fällen|\2.talar|
+|der fehlerhafte Artikel|\2.el artículo defectuoso|
+|das Feld|\2.el campo|
+|die Fernbedienung|\2.el mando a distancia|
+|der Fernsehabhängige|\2.el teleadicto|
+|der Fernsehmüll|\2.la telebasura|
+|die Fernsehserie|\2.el culebrón|
+|Fernsehsüchtig sein|\2.estar pegado a la tele|
+|das Festland|\2.la tierra firme|
+|die Fettleibigkeit|\2.la obesidad|
+|feucht|\2.húmedo|
+|das Fiasko|\2.el fracaso|
+|der Film|\2.la película|
+|der Film mit Überlänge|\2.el largometraje|
+|der Flächenbrand|\2.el incendio|
+|Flausen im Kopf haben|\2.tener pájaros en la cabeza|
+|die Fliege|\2.la pajarita|
+|der Flughafen|\2.el aeropuerto|
+|die Fotografie|\2.la fotografía|
+|die Fraktur|\2.la fractura|
+|frech sein|\2.tener mucha cara|
+|der Freiberufler|\2.el autónomo|
+|der Fremdenführer|\2.la guía|
+|fritiert|\2.frito|
+|Frühstück inbegriffen|\2.desayuno incluido|
+|der Funktionär|\2.el funcionario|
+|die Gabe|\2.la dote|
+|die Galerie|\2.la galería|
+|die Garantie|\2.la garantía|
+|der Gast|\2.el invitado|
+|gebacken|\2.frito|
+|die Gebühr|\2.la tarife|
+|gegenständlich|\2.figurativo|
+|das Gehalt|el salario|el sueldo|
+|gehen auf|\2.ir por|
+|das Gehör|\2.el oído|
+|geht über|\2.va de|
+|die Geisteswissenschaften|\2.las letras|
+|das Geld im Umlauf|\2.el dinero en circulación|
+|Geld waschen|\2.blanquear dinero|
+|der Geldautomat|\2.el cajero automatico|
+|der Geldschein|\2.el billete|
+|die Geldwäsche|\2.el blanqueo de dinero|
+|das Gemälde|\2.el cuadro|
+|genießen|\2.disfrutar|
+|geröstet|\2.a la parrilla|
+|der Geruchssinn|\2.el olfato|
+|die Geschäftseröffnung|\2.la apertura|
+|die Geschäftszeiten|\2.los horarios comerciales|
+|der Geschmackssinn|\2.el gusto|
+|die geschützte Art|\2.la especie protegida|
+|das Geschwür|\2.la úlcera|
+|der Gesichtssinn|\2.la vista|
+|das Gesparte|\2.el ahorro|
+|die Gesprächsrunde|\2.la tertulia|
+|das Gewürz|\2.la especia|
+|giftig|\2.tóxico|
+|der Giftmüll|\2.los vertidos tóxicos|
+|der Gipfel|la cima|el colmo|
+|der Gips|\2.la escayola|
+|der Glascontainer|\2.el contenedor de vidrio|
+|die Glotze|\2.la caja tonta|
+|Glück haben|\2.sonar la flauta|
+|die Grippe|\2.la gripe|
+|der Großmarkt|\2.la gran superficie|
+|der Hafen|\2.el puerto|
+|die Hähnchenbrust|\2.la pechuga de pollo|
+|die Halbpension|\2.la media pensión|
+|Hand in Hand arbeiten|\2.trabajar codo con codo|
+|handeln von|\2.tratar de|
+|das Handelszentrum|\2.el centro comercial|
+|die Handlung|\2.el argumento|
+|das Handtuch|\2.la toalla|
+|hart arbeiten|\2.trabajar como un burro|
+|der Hauptdarsteller|\2.el protagonista|
+|heilen cicatrizar|\2.curar curarse|
+|der Heilpraktiker|\2.el curandero|
+|heiß|\2.caluroso|
+|der herabgesetzte Artikel|\2.el artículo rebajado|
+|die Herberge|\2.el albergue|
+|herumwurschteln|\2.hacer chapuzas|
+|hier weggehen|\2.salir por ahí|
+|die Hilfskraft|\2.el auxiliar|
+|hin un zurück|\2.ida y vuelta|
+|der Hochschulabsolvent|\2.el licenciado|
+|die Hochschulbildung|\2.la educación superior|
+|das Hochschulstudium |\2.la licenciatura|
+|das Hochwasser|\2.la inundación|
+|die hohe See|\2.el alta mar|
+|die Homeopathie|\2.la homeopatía|
+|der Horrorfilm|la película de miedo|la película de terror|
+|das Hotel|\2.el hotel|
+|der Hurricane|\2.el huracán|
+|die Hygiene|\2.la higiene|
+|die Hypothek|\2.la hipoteca|
+|das Idealgewicht|\2.el peso ideal|
+|im Akkord arbeiten|\2.trabajar a destajo|
+|impfen|\2.vacunar|
+|der Impfstoff|\2.la vacuna|
+|in Bar zahlen|pagar al contado|pagar en efectivo|
+|in den Ferien sein|\2.estar de vacaciones|
+|in Mode sein|\2.estar de moda|
+|in seinem Element sein|\2.estar en su salsa|
+|die Inflation|\2.la inflación|
+|innen|\2.interior|
+|instabil sein|\2.estar delicado|
+|das Institut|\2.el instituto|
+|die Jacke|\2.la cazadora|
+|jemanden treten, der schon am Boden liegt|\2.hacer leña del árbol caído|
+|die Jugendherberge|\2.el hostal|
+|das Kalbsfilet|\2.el filete de ternera|
+|die Kameradschaft|\2.el compañerismo|
+|der Kanal|\2.el canal|
+|der Kandidat|\2.el candidato|
+|die Kapsel|\2.la cápsula|
+|die Karriere|\2.la carrera|
+|die Karte|\2.el mapa|
+|die Kasserole|\2.la cacerola|
+|das keimtötende Mittel|\2.el antiséptico|
+|kein Blatt vor den Mund nehmen|\2.no tener pelos en la lengua|
+|keinen Finger rühren|\2.no dar un palo al agua|
+|die Keramik|\2.la cerámica|
+|kerngesund sein|estar como un roble|tener una salud de hierro|
+|klar wie Klosbrühe sein|\2.ser claro como el agua|
+|die Kläranlage|\2.la depuradora|
+|klassisch|\2.clásico|
+|Kleingeld haben|\2.tener suelto|
+|die Klinik|\2.la clínica|
+|klotzen|\2.currar|
+|knapp bestehen|\2.aprobar por los pelos|
+|der Kochtopf|\2.el cazo la olla|
+|die Kollegialität|\2.el compañerismo|
+|das Kolonialwarengeschäft|\2.la tienda de ultramarinos|
+|die Komödie|la comedia|la película de risa|
+|das Konzert|\2.el concierto|
+|die Krankenversicherung|\2.el seguro médico|
+|der Kratzer|\2.el arañazo|
+|die Krawatte|\2.la corbata|
+|die Kreditanstalt|\2.la entidad de crédito|
+|die Kreditkarte|\2.la tarjeta de credito|
+|der Kriegsfilm|\2.la película de guerra|
+|der Krug|\2.la jarra|
+|der Kundenservice|\2.el servicio posventa|
+|die Kurzgeschichte|\2.el relato|
+|der Ladenschluss|\2.el cierre|
+|das Landhaus|la casa rural|el chalé|
+|die Lärmbelästigung|\2.la contaminación acústica|
+|die Lebensweise|\2.el régimen|
+|das Leergut|\2.el envase retornable|
+|die Leinwand|\2.la pantalla|
+|die Leistungspunkte|\2.los créditos|
+|loben|alabar|echar flores a alguien|
+|der Lohn|el salario|el sueldo|
+|die Luftverschmutzung|\2.la contaminación atmosférica|
+|das Magazin|\2.el magacín|
+|die Magersucht|\2.la anorexia|
+|die Makleragentur|\2.la agencia inmobilaria|
+|malochen|\2.currar|
+|der Mantel|\2.la chaqueta|
+|der Markt|\2.el mercado|
+|das Meerbeben|\2.el maremoto|
+|die Mehrwegpackung|\2.el envase retornable|
+|die Melone|\2.el melón|
+|merken|\2.memorizar|
+|die Miete|\2.el alquiler|
+|die Mietergemeinschaft|\2.la comunidad de vecinos|
+|die Mikrowelle|\2.el microondas|
+|mild|\2.templado|
+|mit Blick auf|\2.con vistas a|
+|mit dem falschen Bein aufstehen|\2.levantarse con el pie izquierdo|
+|mit dem Feuer spielen |\2.jugar con fuego|
+|mit einem Wimpernschlag|\2.es un abrir y cerrar de ojos|
+|mit Karte zahlen|\2.pagar con tarjeta|
+|mit Untertiteln|\2.con subtítulos|
+|mit Verspätung|\2.con retraso|
+|der Moderator|\2.el presentador|
+|modern|\2.moderno|
+|der Müll|\2.la basura|
+|der Müllcontainer|\2.el contenedor|
+|die Mülldeponie|\2.el vertedero|
+|die Münze|\2.la moneda|
+|die Münzen|\2.la moneda|
+|das Musical|\2.el musical|
+|die Nachrichten|los informativos|las noticias|
+|der Nationalpark|\2.el parque nacional|
+|die natürlichen Ressourcen|\2.los recursos naturales|
+|der Naturpark|\2.el parque natural|
+|das Naturschutzgebiet|\2.la reserva natural|
+|der Nebel|\2.la niebla|
+|der Nebendarsteller|\2.el secundario|
+|nicht aufmuntern|\2.no levantar cabeza|
+|nicht bei der Sache sein|\2.estar en las nubes|
+|nicht das Format haben|\2.no dar talla|
+|nicht im Haus bleiben|\2.no parar en casa|
+|die Notaufnahme|\2.la sala de urgencias|
+|die Note gut|\2.el notable|
+|die Note sehr gut|\2.el sobresaliente|
+|die Note ungenügend|\2.el suspenso|
+|der Notfall|\2.la urgencia|
+|die Nuklearenergie|\2.la energía nuclear|
+|die Öffnung|la abertura|el huelco|
+|die Ökologie|\2.la ecología|
+|das Ökosystem|\2.el ecosistema|
+|Öl ins Feuer gießen|\2.echar leña al fuego|
+|die Oper|\2.la ópera|
+|die Operette|\2.la zarzuela|
+|das Orchester|\2.la orquesta|
+|die Ozonschicht|\2.la capa de ozono|
+|der Papiercontainer|\2.el contenedor de papel|
+|der Parkettplatz|\2.la butaca|
+|pauken|\2.empollar|
+|das Personal|\2.el personal|
+|die Personalabteilung|\2.los recursos humanos|
+|die personelle Umstrukturierung|\2.la reestructuración de plantilla|
+|die Petersilie|\2.el perejil|
+|der Pfirsich|\2.el melocotón|
+|die Pflanzenwelt|\2.la flora|
+|der Pförtner|\2.el portero|
+|die Photovoltaik|\2.la fotovoltaica|
+|die Piste|\2.la pista|
+|der Platz|\2.la plaza|
+|die Poesie|\2.la poesía|
+|die Pomade|\2.la pomada|
+|das Portal|\2.el portal|
+|der Posten|\2.el cargo|
+|der Preisanstieg|\2.la subida de precios|
+|der Preisnachlass|\2.el descuento|
+|der Preisverfall|\2.la bajada de precios|
+|die Premiere|\2.el estreno|
+|die Primärbildung|\2.la educación primaria|
+|die Privatversicherung|\2.la seguridad privada|
+|die Probe|\2.el ensaya|
+|der Produzent|\2.el productor|
+|die Professionalität|\2.la profesionalidad|
+|das Program|\2.la programación|
+|die Programmgestaltung|\2.la programación|
+|das Publikum|\2.la audiencia|
+|die Qualität|\2.la calidad|
+|die Quelle|la fuente|el manantial|
+|die Quittung|\2.el recibo|
+|der Rabatt|el descuento|la rebaja|
+|die Raubkopie|\2.el disco pirata|
+|die Rechnung|\2.la factura|
+|das Recycling|\2.el reciclaje|
+|das Recyclingprodukt|\2.el producto reciclado|
+|die Reflexologie|\2.la reflexología|
+|der Regisseur|\2.el director|
+|das Reihenhaus|\2.el chalé|
+|das Reisebüro|\2.la agencia de viajes|
+|der Reiseführer|\2.la guía|
+|reservieren|hacer una reserva|reservar|
+|das Rezept|\2.la receta|
+|die Rodung|\2.la tala|
+|der Roman|\2.la novela|
+|ruhig schlafen|\2.dormir a pierna suelta|
+|das Sabbatjahr|\2.el año sabático|
+|die Salbe|\2.la pomada|
+|der Saldo|\2.el saldo|
+|der Sänger|\2.el cantante|
+|der saure Regen|\2.la lluvia ácida|
+|der Schauplatz|\2.el escenario|
+|scheitern|fallar|irse a pique|
+|die Schlaflosigkeit|\2.el insomnio|
+|der Schlafsack|\2.el saco de dormir|
+|schlecht aussehen|\2.tener mala cara|
+|schlecht sein|\2.estar malo|
+|die Schließung|\2.el cierre|
+|der Schlussverkauf|\2.el saldo|
+|schmeicheln|\2.echar flores a alguien|
+|Schnee von gestern sein|\2.ser agua pasada|
+|die Schöpfkelle|\2.el cazo|
+|die Schramme|\2.el arañazo|
+|der Schuldschein für eine Wohnung|\2.la letra del piso|
+|die Schule|\2.el colegio|
+|die Schulmedizin|\2.la medicina convencional|
+|das Schulwesen|\2.la enseñanza|
+|schwänzen|\2.hacer pellas|
+|schwarz arbeiten|\2.cobrar en negro|
+|schwarz verdienen|\2.cobrar en negro|
+|das Schwarzgeld|\2.el dinero negro|
+|das Schweineschnitzel|\2.el escalope de cerdo|
+|sein Geld zum Fenster hinauswerfen|\2.tirar la casa por ventana|
+|seine Schäfchen ins Trockene bringen|\2.hacer el agosto|
+|die Sekundarbildung|\2.la educación secundaria|
+|der Selbstständige|\2.el autónomo|
+|der Sender|\2.la emisora|
+|die Serie|\2.la serie|
+|die Servierte|\2.la servilleta|
+|sich amüsieren|\2.pasarlo bien|
+|sich auf die faule Haut legen|\2.tumbarse a la bartola|
+|sich ausruhen|\2.descansar|
+|sich daneben benehmen|\2.dar el espectáculo|
+|sich den Kopf zerbrechen|\2.romperse la cabeza|
+|sich einquartieren|\2.alojarse|
+|sich entspannen|\2.relajarse|
+|sich halten für|\2.dar por|
+|sich in etwas hineinknien|\2.hincar los codos|
+|sich merkwürdig aufführen|\2.dar el espectáculo|
+|sich taub stellen|\2.hacer oídos sordos|
+|sich vergnügen|\2.divertirse|
+|der Sitz|\2.el asiento|
+|die Sitzung|\2.la sesión|
+|die Skulptur|\2.la escultura|
+|die Solarenergie|\2.la energía solar|
+|der Solist|\2.el solista|
+|das Solokonzert|\2.el recital|
+|die Sozialversicherung|\2.la seguridad social|
+|sparen|\2.ahorrar|
+|spät zurück kommen|\2.volver a las tantas|
+|spielen|\2.jugar|
+|spindeldürr sein|\2.estar en los huesos|
+|Sport ausüben|\2.practicar un deporte|
+|Sport treiben|\2.hacer deporte hacer ejercicio|
+|der Sportplatz|\2.la cancha|
+|die Sprechstunde|\2.la consulta|
+|die Spritze|\2.la inyección|
+|der Stadtteilsupermarkt|\2.la tienda de barrio|
+|die Station|\2.la estación|
+|die Statisten|\2.los extras|
+|die Steigerung|\2.el aumento|
+|die Stelle|\2.el puesto|
+|das Stielglas|\2.la copa|
+|das Stipendium|\2.la beca|
+|stornieren|\2.cancelar|
+|Strahl|\2.el rayo|
+|der Stress|\2.el estrés|
+|die Studien|\2.los estudios|
+|stur sein|\2.ser un pelota|
+|Sturm la tormenta|\2.el vendaval|
+|der Supermarkt|\2.el hipermercado|
+|die Supermarktkette|\2.la cadena de supermercados|
+|die Tablette|\2.la pastilla|
+|der Taifun|\2.el tifón|
+|das Talent|\2.la dote|
+|der Tanz|\2.la danza|
+|der Tänzer|\2.el bailador|
+|der Tarif|\2.la tarife|
+|der Tastsinn|\2.el taco|
+|das Team|\2.el equipo|
+|die Teilprüfung|\2.el exámen parcial|
+|die Terrasse|\2.la terraza|
+|das Theater|\2.el teatro|
+|Theater machen|\2.hacer una escena|
+|das Thema|\2.el tema|
+|die Therapie|\2.la terapia|
+|der Ticketschalter|\2.la taquilla|
+|die Tierwelt|\2.la fauna|
+|der Titel|\2.el titulo|
+|die Töpferkunst|\2.la cerámica|
+|der Tornado|\2.el tornado|
+|der Torwart|\2.el portero|
+|die Transplantation|\2.el transplante|
+|der Treibhauseffekt|\2.el efecto invernadero|
+|der Tsunami|\2.el tsunami|
+|das Übergewicht|\2.el sobrepeso|
+|die Übernutzung|\2.la sobreexplotación|
+|die Überschwemmung|\2.la inundación la riada|
+|Überstunden machen|\2.hacer horas extra|
+|überteuert sein|\2.estar por las nubes|
+|übertragen|\2.difundir|
+|die Überweisung|\2.el giro la transferencia|
+|um den heißen Brei herumreden|\2.andarse por las ramas|
+|um Erlaubnis fragen|\2.pedir permiso|
+|umweltschädlich|\2.contaminante|
+|die Umweltschutzgruppe|\2.el grupo ecologista|
+|umziehen|mudarse|trasladarse|
+|der Umzug|la mudanza|el traslado|
+|die Universität|\2.la universidad|
+|der Universitätsstudent|\2.el graduado escolar|
+|unterbetitelt|\2.subtitulada|
+|unterbrechen|entrecortar|suspender|
+|untergehen|\2.irse a pique|
+|unverschämt sein|\2.tener mucha cara|
+|die Vase|\2.el florero|
+|verbessern|\2.mejorar|
+|verdienen|cobrar|merecer|
+|die Verhandlung|\2.la negociación|
+|verkehrsgünstig|\2.bien comunicado|
+|die Verletzung|\2.la lesion|
+|die Verödung|\2.la desertización|
+|die Verpackung|\2.el embalaje|
+|das Versagen|\2.el fracaso|
+|verschlechtern|\2.empeorar|
+|verschreiben|\2.recetar|
+|die Versicherung|\2.el seguro|
+|die Verspannung|\2.la tensión|
+|die Versteppung|\2.la desertización|
+|der Virus|\2.el virus|
+|die Vollpension|\2.la pensión completa|
+|von früh bis spät arbeiten|\2.trabajar del sol a sol|
+|die vor dem aussterben bedrohte Art|\2.la especie en peligro de extinción|
+|die Voraussetzung|\2.el requisito|
+|der Vorhang|\2.el telón|
+|die Vorschulerziehung|\2.la educación infantil|
+|vorsichtig sein|\2.cuidarse|
+|die Vorstellung|\2.la sesión|
+|das Vorstellungsgespräch|\2.la entrevista de trabajo|
+|der Vulkanausbruch|\2.la erupción volcánica|
+|der Wald|el bosque|la selva|
+|die Wärmeenergie|\2.la energía térmica|
+|die Wasserkraft|\2.la energía hidráulica|
+|die Wassermelone|\2.la sandía|
+|Wechselgeld haben|\2.tener cambio|
+|weit weg sein|\2.estar en el quinto pino|
+|weitergeben|\2.retransmitir|
+|der Werbespot|\2.el anuncio|
+|die Weste|\2.el chaleco|
+|der Western|\2.la película del oeste|
+|die Wettbewerbsfähigkeit|\2.la competitividad|
+|wie aus dem Bilderbuch sein|\2.estar de cine ser de cine|
+|wie Sardinen in der Büchse|\2.como sardines en la lata|
+|das wiederverwertbare Produkt|\2.el producto reciclable|
+|der Wilddieb|\2.el cazador furtivo|
+|die Wildnis|\2.la selva|
+|die Windkraft|\2.la energía eólica|
+|die Wissenschaften|\2.las ciencias|
+|die Wohnung|\2.la vivienda|
+|die Wolke|\2.la nube|
+|die Wunde|\2.la herida|
+|Wurzeln schlagen|\2.echar raíces|
+|die Zeichnung|\2.el dibujo|
+|zeitgenössisch|\2.contemporáneo|
+|das Zelt|\2.la tienda de campaña|
+|zentral|\2.céntrico|
+|zerstören|\2.talar|
+|das Zertifikat|\2.el certificado|
+|das Zeugnis|\2.el certificado|
+|das Ziel|\2.la meta|
+|der Zoll|\2.la aduana|
+|zu dünn angezogen|\2.ir a cuerpo|
+|zu viel Geld ausgeben|\2.ser un manirroto|
+|der Zufall|\2.el azar|
+|der Zuhörer|\2.el oyente|
+|zunehmen|\2.engordar|
+|zusammenhalten|\2.arrimar el hombro|
+|die Zwischenprüfung|\2.el exámen parcial|

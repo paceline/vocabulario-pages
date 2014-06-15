@@ -11,6 +11,10 @@ h2. Italian
 
 h3. {% link_to "Levatura A1, A2" %}
 
+h3. {% link_to "Langenscheidt Vokabelliste" %}
+
 h2. Spanish
 
 h3. {% link_to "Gramática española (intermedio)" %}
+
+h3. {% link_to "DELE vocabulario (intermedio)" %}

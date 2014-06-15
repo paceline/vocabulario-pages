@@ -1,0 +1,41 @@
+---
+layout: default
+title: Lezione 16 (sport II)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\4.Tedesco|
+|l'aceto|\4.das Essig|
+|l'ananas|\4.die Ananas|
+|anzi|besser|noch|sogar|vielmehr|
+|l'autostrada|\4.die Autobahn|
+|buttare|\4.wegwerfen|
+|il casello|\4.die Mautstelle|
+|consigliare|empfehlen|\3.raten|
+|la crema solare|\4.die Sonnencreme|
+|dimenticare|\4.vergessen|
+|Faccia così, ...|\4.Machen Sie so: ...|
+|fare il pieno|\4.voll tanken|
+|fare la fila|\4.in der Schlange stehen|
+|la fila|\4.Schlange|
+|il fiore|\4.die Blumen|
+|gli occhiali da sole|\4.die Sonnenbrille|
+|la guida turistica|\4.der Reiseführer|
+|la macchina fotografica|\4.der Fotoapparat|
+|la mancia|\4.das Trinkgeld|
+|mandare|schicken|\3.senden|
+|la medicina|\4.die Medizin|
+|la notizia|\4.die Nachricht|
+|il piano|langsam|\3.das Stockwerk|
+|il pigiama|\4.der Schlafanzug|
+|preoccuparsi|\4.sich Gedanken machen|
+|la radio|\4.das Radio|
+|ringraziare|\4.danken|
+|il rollino|\4.der Film|
+|lo spazzolino|\4.die Zahnbürste|
+|sperare|\4.hoffen|
+|il tavolo|\4.der Tisch|
+|il traffico|\4.der Verkehr|
+|il vigile|\4.der Verkehrspolizist|
+|volerci|benötigen|\3.brauchen|

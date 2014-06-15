@@ -1,0 +1,66 @@
+---
+layout: default
+title: Lezione 5 (vacanze)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\2.Tedesco|
+|a bis|\2.um|
+|l'agosto|\2.der August|
+|altro|anderer|sonstig|
+|ancora|\2.noch|
+|il aprile|\2.der April|
+|l'assegno|\2.der Scheck|
+|la camera|\2.das Zimmer|
+|la camera matrimoniale|\2.das Zimmer mit Ehebett|
+|la carta di credito|\2.die Kreditkarte|
+|il chilometro|\2.der Kilometer|
+|comodo|\2.bequem|
+|completo|komplett|voll|
+|dare|\2.geben|
+|il dicembre|\2.der Dezember|
+|la doccia|\2.die Dusche|
+|la domanda|\2.die Frage|
+|esserci|da sein|vorhanden sein|
+|fare colazione|\2.frühstücken|
+|la fattoria|\2.der Bauernhof|
+|il febbraio|\2.der Februar|
+|fresco|\2.frisch|
+|il gennaio|\2.der Januar|
+|il giardino|\2.der Garten|
+|il giorno|\2.der Tag|
+|il giugno|\2.der Juni|
+|grande|\2.groß|
+|il lagovder See|
+|il letto|\2.das Bett|
+|libero|\2.frei|
+|il luglio|\2.der Juli|
+|il maggio|\2.der Mai|
+|il mare|\2.das Meer|
+|il marzo|\2.der März|
+|la mezza pensione|\2.die Halbpension|
+|molto|\2.sehr|
+|la notte|\2.die Nacht|
+|il novembre|\2.der November|
+|l'ottobre|\2.der Oktober|
+|il parcheggio|\2.der Parkplatz|
+|la pensione complete|\2.die Vollpension|
+|poi|außerdem|dann|
+|portare|bringen|mitnehmen|
+|possibile|\2.möglich|
+|prenotare|\2.reservieren|
+|privato|\2.privat|
+|il prodotto|\2.das Produkt|
+|quando|wann|wenn|
+|il ristorante|\2.das Restaurant|
+|il settembre|\2.der September|
+|la settimana|\2.die Woche|
+|il sole|\2.die Sonne|
+|la spiaggia|\2.der Strand|
+|su|auf|über|
+|la sveglia|\2.der Wecker|
+|il televisore|\2.der Fernseher|
+|tipico|\2.typisch|
+|tranquillo|\2.ruhig|
+|la vista|\2.der Blick|

@@ -1,0 +1,52 @@
+---
+layout: default
+title: Lezione 6 (orientazione)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\2.Tedesco|
+|a destra|\2.rechts|
+|a sinistra|\2.links|
+|acanto a|\2.neben|
+|l'aeroporto|\2.der Flughafen|
+|l'ambasciata|\2.die Botschaft|
+|andare|fahren|gehen|
+|l'angolo|\2.die Ecke|
+|attraversare|\2.überqueren|
+|l'autobus|\2.der Bus|
+|la cabina de telefonica|\2.die Telefonzelle|
+|la campagna|das Land|die ländliche Gegend|
+|il corso|die Allee|die größere Straße|
+|di als|\2.da von|
+|di fronte|\2.a gegenüber|
+|dietro|\2.a hinter|
+|dire|\2.sagen|
+|dopo|danach|nach|
+|dritto|\2.geradeaus|
+|l'entrata|\2.der Eingang|
+|la farmacia|\2.die Apotheke|
+|la fermata|\2.die Haltestelle|
+|fino a|\2.bis zu|
+|il fiume|\2.der Fluss|
+|la fontana|\2.der Brunnen|
+|girare|abbiegen|drehen|
+|l'indirizzo|die Adresse|die Anschrift|
+|l'ufficio postale|\2.das Postamt|
+|la banca|\2.die Bank|
+|la chiesa|\2.die Kirche|
+|la stazione|\2.der Bahnhof|
+|lì|\2.dort|
+|lontano|\2.weit|
+|il mercato|\2.der Markt|
+|il museo|\2.das Museum|
+|l'opera|\2.die Oper|
+|l'ospedale|\2.das Krankenhaus|
+|questa|\2.diese|
+|seguire|\2.folgen|
+|sempre|\2.immer|
+|lo spettacolo|\2.die Veranstaltung|
+|la strada|\2.die Straße|
+|il teatro|\2.das Theater|
+|tra|\2.zwischen|
+|vicino|in der Nähe|nah|

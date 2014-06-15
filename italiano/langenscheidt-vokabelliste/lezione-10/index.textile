@@ -1,0 +1,64 @@
+---
+layout: default
+title: Lezione 10 (abito)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\4.Tedesco|
+|a fiori|\4.geblümt|
+|a quadri|\4.kariert|
+|a righe|\4.gestreift|
+|a tinta unita|\4.einfarbig|
+|al centro|\4.in der Mitte|
+|arancione|\4.die Orange|
+|bianco|\4.weiß|
+|blu|\4.blau|
+|i calzettoni|die Socken|\3.die Strümpfe|
+|la camicia|die Bluse|\3.das Hemd|
+|il capello|\4.der Hut|
+|il cappotto|\4.der Mantel|
+|carino|hübsch|lieb|nett|reizend|
+|chiaro|\4.hell|
+|la cintura|\4.der Gürtel|
+|classico|\4.klassisch|
+|il cotone|\4.die Baumwolle|
+|la giacca|\4.das Sakko|
+|giallo|\4.gelb|
+|la gonna|\4.der Rock|
+|grigio|\4.grau|
+|in basso|\4.unten|
+|la vetrina|\4.das Schaufenster|
+|la lana|\4.die Wolle|
+|largo|\4.weit|
+|lungo|\4.lang|
+|il maglione|\4.der Pullover|
+|marrone|\4.braun|
+|meno|\4.weniger|
+|nero|\4.schwarz|
+|i pantaloni|\4.die Hose|
+|la pelle|\4.das Leder|
+|per niente|\4.überhaupt nicht|
+|il piacere|\4.der Gefallen|
+|più|\4.mehr|
+|provare|\4.ausprobieren|
+|quale|\4.welche|
+|quello|\4.dort|
+|questo|\4.hier|
+|regalare|\4.schenken|
+|rosso|\4.rot|
+|la scarpa|\4.der Schuh|
+|la sciarpa|\4.der Schal|
+|scuro|\4.dunkel|
+|sembrare|scheinen|\3.wirken|
+|semplice|einfach|\3.schlicht|
+|sportivo|\4.sportlich|
+|stare|passend sein|\3.sich befinden|
+|lo stivale|\4.der Stiefel|
+|stravagante|\4.extravagant|
+|stretto|eng|\3.schmal|
+|la taglia|\4.die Größe|
+|trovare|\4.finden|
+|il velluto|das Kord|\3.der Samt|
+|verde|\4.grün|
+|il vestito|\4.der Anzug|

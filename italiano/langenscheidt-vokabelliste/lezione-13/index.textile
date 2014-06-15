@@ -1,0 +1,52 @@
+---
+layout: default
+title: Lezione 13 (caratteristiche II)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\4.Tedesco|
+|alto|\4.groß|
+|l'amore|\4.die Liebe|
+|antipatico|\4.unsympathisch|
+|attraente|\4.attraktiv|
+|azzurro|azurblau|\3.hellblau|
+|la barba|\4.der Vollbart|
+|basso|\4.klein|
+|biondo|\4.blond|
+|brutto|blöd|hässlich|\2.schlecht|
+|i capelli|\4.die Haare|
+|carino|hübsch|lieb|nett|reizend|
+|castano|\4.braun|
+|che|als|\3.der/die/das|
+|cieco|\4.blind|
+|dentro|\4.drinnen|
+|di|als|da|\2.von|
+|Esatto!|\4.Genau!|
+|l'ex ragazza|\4.die Ex-Freundin|
+|il fisico|die Figur|\3.der Körperbau|
+|il fratello|\4.der Bruder|
+|fuori|\4.draußen|
+|gentile|freundlich|\3.höflich|
+|giovane|\4.jung|
+|gli occhi|\4.die Augen|
+|gli zii|\4.Onkel und Tante|
+|grasso|dick|\3.fett|
+|i baffi|\4.der Schnurrbart|
+|la biondina|\4.die Blondine|
+|liscio|\4.glatt|
+|Magari!|\4.Schön wär's!|
+|magro|dünn|\3.schlank|
+|Molto lieto!|\4.Sehr erfreut!|
+|il municipio|\4.das Rathaus|
+|noioso|\4.langweilig|
+|i nonno|\4.die Großeltern|
+|Piacere!|\4.Angenehm!|
+|il ragazzo|\4.der Junge|
+|riccio|\4.gelockt|
+|la sorella|\4.die Schwester|
+|sposarsi|\4.heiraten|
+|stupido|\4.dumm|
+|la torta|\4.die Torte|
+|vecchio|alt|\3.veraltet|
+|lo zio|\4.der Onkel|

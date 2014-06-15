@@ -17,12 +17,34 @@ h2. Uhrzeit (Che ora è? Che ore sono?)
 
 h2. Wochentage und Tageszeiten
 
-s. Vokabelliste unten
+|il lunedì|\2.der Montag|
+|il martedì|\2.der Dienstag|
+|il mercoledì|\2.der Mittwoch|
+|il giovedì|\2.der Donnerstag|
+|il venerdì|\2.der Freitag|
+|il sabato|\2.der Samstag|
+|la domenica|\2.der Sonntag|
+|la mattina|\2.vormittags|
+|il pomeriggio|der Nachmittag|nachmittags|
 
 h2. Monate
 
-s. Vokabelliste unten
+|il gennaio|der Januar|
+|il febbraio|der Februar|
+|il marzo|der März|
+|il aprile|der April|
+|il maggio|der Mai|
+|il giugno|der Juni|
+|il luglio|der Juli|
+|l'agosto|der August|
+|il settembre|der September|
+|l'ottobre|der Oktober|
+|il novembre|der November|
+|il dicembre|der Dezember|
 
 h2. Jahreszeiten
 
-s. Vokabelliste unten
+|la primavera|der Frühling|
+|l'estate|der Sommer|
+|l'autunno|der Herbst|
+|l'inverno|der Winter|

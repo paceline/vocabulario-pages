@@ -1,0 +1,52 @@
+---
+layout: default
+title: Lezione 1 (conversazione)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\3.Tedesco|
+|a dopo|\3.bis später|
+|a più tardi|\3.bis später|
+|abbastanza|ausreichend|genug|ziemlich|
+|allora|also|damals|dann|
+|arrivederci|\3.auf Wiedersehen|
+|il bacio|\3.der Kuss|
+|bene|\3.gut|
+|la borsa|\3.die Tasche|
+|buonasera|\3.Guten Abend|
+|buongiorno|guten Morgen|\2.Guten Tag|
+|il cane|\3.der Hund|
+|il centro|\3.das Zentrum|
+|ciao|Hallo|\2.tschüs|
+|il cinema|\3.das Kino|
+|di niente|\3.Keine Ursache|
+|domani|\3.morgen|
+|e|\3.und|
+|la foto |\3.as Foto|
+|la giornale|\3.die Zeitung|
+|grazie|\3.danke|
+|grazie mille|\3.tausend Dank|
+|grazie tante|\3.vielen Dank|
+|l'acqua|\3.das Wasser|
+|l'albergo|\3.das Hotel|
+|l'ombrello|\3.der Regenschirm|
+|male|\3.schlecht|
+|la mano|\3.die Hand|
+|no c'è male|\3.nicht schlecht|
+|Non c'è di che|\3.Nichts zu danken|
+|oggi|\3.heute|
+|il papà|\3.der Papa|
+|la posta|\3.die Post|
+|prego|\3.bitte sehr|
+|il problema|\3.das Problem|
+|la radio|\3.das Radio|
+|sì|\3.ja|
+|la signora|\3.die Frau|
+|il signore|\3.der Herr|
+|stare passen|\3.sein sich befinden|
+|lo studente|\3.der Student|
+|il telegramma|\3.das Telegramm|
+|tu|\3.du|
+|il vino|\3.der Wein|
+|lo zucchero|\3.der Zucker|
