@@ -10,7 +10,6 @@ I'd love to hear from you if you found a bug or think I should add something. Or
 
 ### Website
 
-* Add vocabularies where it says "see vocabulary list below"
 * Clean-up CSS formatting
 
 ### Page Extensions Plugin 

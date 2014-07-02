@@ -1,0 +1,78 @@
+---
+layout: default
+title: Lezione 14 (cuocere)
+---
+
+h1. {{ page.title }}
+
+|_.Italiano|_\2.Tedesco|
+|l'antipasto|\2.die Vorspeise|
+|il melone|\2.die Melone|
+|l'insalatadie mare|\2.der Meeresfrüchtesalat|
+|il brodo|\2.die Brühe|
+|la vongola|\2.die Muschel|
+|il contorno|\2.die Beilage|
+|l'insalata mista|\2.der gemischte Salat|
+|la patata|\2.die Kartoffel|
+|al forno|\2.im Ofen gebacken|
+|i fagiolini|\2.die grünen Bohnen|
+|i peperoni|\2.die Paprikaschoten|
+|il secondo|\2.der 2. Gang|
+|la bistecca|\2.das Beefsteak|
+|ai ferri|\2.gegrillt|
+|il pollo|\2.das Huhn|
+|arrosto|\2.gebraten|
+|l'agnello|\2.das Lamm|
+|il coniglio|\2.das Kanninchen|
+|il fegato|\2.die Leber|
+|il pesce spada|\2.der Schwertfisch|
+|le seppie|\2.die Tintenfische|
+|il dolce|\2.die Nachspeise|
+|il gelato|\2.das Eis|
+|la macedonia (di frutta)|\2.der Obstsalat|
+|le fragole|\2.die Erdbeeren|
+|la panna|\2.die Sahne|
+|di primo|\2.als ersten Gang|
+|come primo|\2.als ersten Gang|
+|come secondo|\2.als zweiten Gang|
+|le sigorine|die Mädchen|die jungen Damen|
+|essere a dieta|\2.eine Diät machen|
+|niente|\2.nichts|
+|lo jogurt|\2.der Joghurt|
+|ne|\2.davon|
+|la porzione|\2.die Portion|
+|il sale|\2.das Salz|
+|il pepe|\2.der Pfeffer|
+|l'olio|\2.das Öl|
+|la cipolla|\2.die Zwiebel|
+|l'aglio|\2.der Knoblauch|
+|scherzare|\2.scherzen|
+|tagliare|\2.schneiden|
+|cuocere|\2.kochen|
+|il minuto|\2.die Minute|
+|circa|\2.ungefähr|
+|il pezzetto|\2.das Stück|
+|mettere|legen|stellen|
+|la padella|\2.die Pfanne|
+|mescolare|\2.rühren|
+|aggiungere|\2.hinzufügen|
+|il tovagliolo|\2.die Serviette|
+|il piatto|\2.der Teller|
+|la forchetta|\2.die Gabel|
+|il coltello|\2.das Messer|
+|il cucchuaio|\2.der Löffel|
+|la tavola|\2.der Tisch|
+|le posate|\2.das Besteck|
+|da|\2.für|
+|sopra|auf|über|
+|il bicchiere da vino|\2.das Weinglas|
+|il bicchiere|\2.das Glas|
+|assaggiare|probieren|kosten|
+|stare attento|\2.vorsichtig sein|
+|insipido|fade|geschmacklos|
+|troppo dolce|\2.zu süß|
+|contenere|\2.enthalten|
+|troppe calorie|\2.zu viele Kalorien|
+|la caloria|\2.dei Kalorie|
+|salato|\2.salzig|
+|il conto|\2.die Rechnung|
