@@ -4,5 +4,6 @@
 .rsync_cache
 *.DS_Store
 Capfile
+_plugins/*
 _site/*
 print.*

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lezione 15 (sport II)
+title: Lezione 15 (sport I)
 ---
 
 h1. {{ page.title }}
