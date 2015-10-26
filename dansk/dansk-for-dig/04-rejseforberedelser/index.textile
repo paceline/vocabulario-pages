@@ -1,0 +1,16 @@
+---
+layout: default
+title: 04 Rejseforberedelser
+---
+
+h1. {{ page.title }}
+
+h2. Bestimmter Artikel
+
+* et telt -> teltet
+* en sovepose ->s oveposen
+
+h2. Possivpronomen
+
+* min / din -> *en* bil
+* mit / dit -> *et* telt

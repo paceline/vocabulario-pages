@@ -1,0 +1,70 @@
+---
+layout: default
+title: Adjektive
+---
+
+h1. {{ page.title }}
+
+Bei Adjektiven unterscheidet man die schwache und die stare Form:
+* stark: Hauptwort ohne Artikel oder mit unbestimmtem Artikel
+* schwach: Hauptwort mit bestimmtem Artikel
+
+h2. Singular
+
+h3. Stark
+
+Bei allen geschlechtlichen Hauptwörtern nimmt man die Grundform, bei sächlichen wird ein **t**angehängt
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|Geschlechtlich: En **stor** pige|en stoor pije|ein großes Mädchen|
+|Sächlich: Et **stort** æble|it stoort äble|ein großer Apfel|
+
+h3. Schwach
+
+Die schwache Form kennt für alle Hauptwörter die Endung **-e**
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|Geschlechtlich: Den **store** pige|den stoore pije|das große Mädchen|
+|Sächlich: Det **stoore** æble|de stoore äble|der große Apfel|
+
+h2. Plural
+
+Im Plural wird an alle Eigenschaftswörter ein **-e** angehängt
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|**store** pige|stoore pije|große Mädchen|
+|De **store** pige|di stoore pije|die großen Mädchen|
+|Pigerne er **store**|pijeren är store|die Mädchen sind groß|
+
+h2. Steigern
+
+h3. -isk und mehr als drei Silben
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|interessant|interessänt|interessant|
+|mere interessant|meer interessänt|interessanter|
+|mest interessant|meest interessänt|am interessantesten|
+
+h3. Alle anderen regelmäßigen
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|hurtig|hurti|schnell|
+|hurtigere|hurtijere|schneller|
+|hurtigst|hurtist|am schnellsten|
+
+h2. Vergleichen
+
+h3. Komparativ
+
+Beim Vergleich benutzt man im Komparativ das Bindewort **end**
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|Bilen er hurtigere end cyklen|bilen är hurtijere änd süklen|Das Auto ist schneller als das Fahrrad.|
+
+h3. Superlativ
+
+Zwei gleichartige Dinge/Personen vergleicht man mit dem Superlativ.
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|Den er den hurtigste af de to biler.|den är den hurtiste ä di to biler|Das ist das schnellere von den zwei Autos.|
+

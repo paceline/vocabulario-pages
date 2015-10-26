@@ -1,0 +1,20 @@
+---
+layout: default_voc
+title: Vokabelliste
+---
+
+h1. {{ page.title }}
+
+h2. Zahlen
+
+|_.Dansk|_.Tysk|
+|10|ti|
+|20|tyve|
+|30|tredive|
+|40|fyrre|
+|50|halvtreds|
+|60|tres|
+|70|halvfjerds|
+|80|firs|
+|90|halvfems|
+|100|(et) hundrede|

@@ -7,6 +7,12 @@ This is a small collection of language guides, mostly based on personal study no
 
 I'd love to hear from you if you found a bug or think I should add something. Or even better yet: <a href="https://help.github.com/articles/fork-a-repo">Fork</a> the project on GitHub and make the corrections yourself :-)
 
+h2. Danish
+
+h3. {% link_to "Kauderwelsch" %}
+
+h3. {% link_to "Dansk for dig" %}
+
 h2. Italian
 
 h3. {% link_to "Levatura A1, A2" %}

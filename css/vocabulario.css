@@ -1,0 +1,33 @@
+/* Vocabulario 
+   =========== */
+
+#vocabulario {
+  margin-top: 25px;
+  width: 40%;
+}
+  
+  #vocabulario form input, #vocabulario form button {
+    font-size: .9em;
+  }
+  
+  #vocabulario form label {
+    margin-bottom: 7px;
+  }
+  
+  #vocabulario h1 {
+    color: #fff;
+    font-size: 1.5em;
+  }
+  
+  #vocabulario p {
+    margin-bottom: 15px;
+  }
+  
+  #vocabulario, #vocabulario .counter {
+    color: #fff;
+    float: right;
+  }
+
+  #vocabulario span, #vocabulario form label {
+    font-weight: bold;
+  }

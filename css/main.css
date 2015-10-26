@@ -63,6 +63,8 @@ table { margin-left: -2px; }
 td, th { background-color: #EEE; padding: .3em; }
 th { background-color: #CCC; text-align: left; }
 
+label { display: block }
+
 
 /* "Navigation"
    ============ */
@@ -96,12 +98,11 @@ th { background-color: #CCC; text-align: left; }
 /* "Notice"
    ======== */
 
-#notice .bg { margin: 0 25px 15px 25px; background-color: #C0ED00; }
-#notice .tr { background: url("/images/corner_top_right.png") 100% 0 no-repeat; padding: 9px; }
+#notice .bg, #vocabulario .bg { margin: 0 25px 15px 25px; background-color: #C0ED00; }
+#notice .tr, #vocabulario .tr { background: url("/images/corner_top_right.png") 100% 0 no-repeat; padding: 9px; }
 
-#notice p, #notice a, #notice a.active { color: #FFF; font-size: 1.05em; margin: 0; }
-#notice a { border-bottom: #fff 2px solid; }
-
+#notice p, #notice a, #notice a.active, #vocabulario p, #vocabulario a, #vocabulario a.active { color: #FFF; font-size: 1.05em; margin: 0; }
+#notice a, #vocabulario a { border-bottom: #fff 2px solid; }
 
 /* "Main"
    ====== */

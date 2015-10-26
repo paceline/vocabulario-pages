@@ -1,0 +1,102 @@
+---
+layout: default
+title: Aussprache
+---
+
+h1. {{ page.title }}
+
+h2. Selbstlaute
+
+h3. _a_
+
+* Kurz wie **a** in M[**a**]nn
+* Kurz wie **ä** in M[**ä**]nner
+* Lang wie **a** in w[**ah**]r -> immer vor oder nach **r** (z.B. Bja[**r**]ne)
+* Lang wie **ä** in Kr[**ä**]he
+
+h3. æ
+
+* Kurz wie **ä** in [**Ä**]ste
+* Lang wie **ä** in z[**äh**]len
+
+h3. e
+
+* Kurz wie **e** in h[**e**]ll
+* Lang wie **e** in h[**e**]ben
+* Am Wortende unbetones **e** wie in all[**e**]
+
+h3. i
+
+* Kurz wie **i** in L[**i**]ppe
+* Lang wie **i** in Sch[**ie**]ne
+
+h3. o
+
+* Kurz wie **o** in G[**o**]tt
+* Lang wie **o** in T[**o**]n
+
+h3. _å_
+
+* Kurz wie **o** in d[**o**]ch
+* Lang wie **o** in H[**o**]se
+
+h3. ø
+
+* Kurz wie **ö** in H[**ö**]lle
+* Lang wie **ö** in h[**ö**]ren
+
+h3. u
+
+* Kurz wie **u** in M[**u**]tter
+* Lang wie **u** in R[**u**]der
+
+h3. y
+
+* Kurz wie **ü** in M[**ü**]ll
+* Lang wie **ü** in f[**üh**]len
+
+h2. Doppellaute
+
+|_\3.Dansk|_.Tysk|
+|_eg_|ej|_ig_|wie **ai** in H[**ai**]|
+|øj|\2.øg|wie **oi**|
+|\3.øv|wie **öu** (zusammengezogen gesprochen)|
+|\3.iv|wie **iu** (zusammengezogen gesprochen)|
+|\3.yv|wie **üu** (zusammengezogen gesprochen)|
+|ov|\2._og_|wie **o** in englisch g[**o**]|
+|\3._ag_|vor Mitlaut wie **au** in M[**au**]l; vor Selbstlaut oder am Wortende wie das **a** in engl. m[**a**]n|
+|\3.av|wie **au** in M[**au**]l|
+|\3._af_|als Vorsilbe wie **au** in M[**au**]l|
+
+h2. Mitlaute
+
+h3. _c_
+
+* vor **e**, **i**, **y**, **æ**, **ø** wie **ss** in Wa[**ss**]er
+
+h3. g
+
+* zwischen zwei Selbstlauten: _wie **w**_ nach **o**, **u**, **å**
+* zwischen zwei Selbstlauten: wie **j** nach **a**, **e**, **i**, **y**, **æ**, **ø**
+* vor **i** stumm
+
+h3. h
+
+* am Wortanfang vor **j** und **v** stumm
+
+h3. r
+
+* nach Selbstlaut kaum hörbar wie **r** in seh[**r**]
+
+h3. s
+
+* wie **ss** in Wa[**ss**]er
+
+h3. v
+
+* wie **w** in [**W**]asser
+
+h3. _z_
+
+* wie **ss** in Wa[**ss**]er
+

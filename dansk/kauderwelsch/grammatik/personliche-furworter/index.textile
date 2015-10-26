@@ -1,0 +1,26 @@
+---
+layout: default
+title: Persönliche Fürwörter
+---
+
+h1. Persönliche Fürwörter
+
+h2. Ungebeugt
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|jeg|jai|ich|
+|du|du|du|
+|han, hun, den/det|hann, hunn, denn/de|er, sie, es|
+|vi|wi|wir|
+|i|i|ihr|
+|de|di|sie|
+
+h2. Objektfall
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|mig|mai|mir/mich|
+|dig|dai|dir/dich|
+|ham, hende, den/det|hamm, henne, denn/de|ihm/ihn, ihr/sie, es|
+|os|oss|uns|
+|jer|jär|euch|
+|dem|dämm|sie/ihnen|

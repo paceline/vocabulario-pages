@@ -1,0 +1,10 @@
+---
+layout: default
+title: Dansk
+---
+
+All spanish language guides are listed below.
+
+h2. {% link_to "Kauderwelsch" %}
+
+h2. {% link_to "Dansk for dig" %}

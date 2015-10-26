@@ -1,0 +1,40 @@
+---
+layout: default
+title: Substantive
+---
+
+h1. {{ page.title }}
+
+h2. Unbestimmter Artikel
+
+Mann unterscheidet zwischen **geschlechtlichen** und **sächlichen** Hauptwörtern.
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|Geschlechtlich: en is|en iis|ein Eis|
+|Sächlich: et bjerg|it bjä-u|ein Berg|
+
+Der unbestimmte Artikel muss immer mitgelernt werden, da es keine festen Regeln gibt. Aber: Die meisten Personen- und Berufsbezeichnungen gehören der Gruppe der geschlechtlichen Hauptwörter an.
+
+h2. Bestimmter Artikel
+
+Einfach ein **et** oder **en** anhängen:
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|Geschlechtlich: isen|iisen|das Eis|
+|Sächlich: bjerget|bjä-uet|der Berg|
+
+h2. Mehrzahl
+
+Es gibt zwei Gruppen...
+
+h3. -e
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|en vej|en wei|ein Weg|
+|veje|weie|Wege|
+
+h3. -er
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|en avis|en awiis|eine Zeitung|
+|aviser|awiiser|Zeitungen|

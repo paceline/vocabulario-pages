@@ -1,0 +1,19 @@
+---
+layout: default
+title: Besitzanzeigende Fürwörter
+---
+
+h1. {{ page.title }}
+
+Richten sich in der Einzahl nach dem Artikel...
+
+|_.Einzahl (en)|_.Einzahl (et)|_.Mehrzahl|_.Tysk|
+|min|mit|mine(Aussprache: miine)|mein/e|
+|din|dit|dine|dein/e|
+|hans|hans|hans|sein/e|
+|hendes|hendes|hendes (Aussprache: hennes)|ihr/e|
+|sin (Aussprache: n()|sit|sine|sein/e, ihr/e|
+|dens/dets|dens/dets|dens/dets|dessen|
+|vores|vores|vores (Aussprache: woores)|unser/e|
+|jeres|jeres|jeres|euer/e|
+|deres|deres|deres|ihr/e|

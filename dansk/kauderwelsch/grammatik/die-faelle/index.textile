@@ -1,0 +1,20 @@
+---
+layout: default
+title: Die Fälle
+---
+
+h1. {{ page.title }}
+
+Es gibt nur zwei Fälle...
+
+h2. Nominativ
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|kongen|kongen|der König (König-der)|
+
+h2. Genitiv
+
+Einfach ein **-s** anhängen
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|kongens|kongens|des Königs (König-des)|

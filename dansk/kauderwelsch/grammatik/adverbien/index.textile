@@ -1,0 +1,12 @@
+---
+layout: default
+title: Adverbien
+---
+
+h1. {{ page.title }}
+
+Aus Eigenschaftswörtern kann man ganz leicht Umstandswörter (Adverbien) bilden, indem man ein **-t** an die Grundform anhängt
+
+|_.Dansk|_.Aussprache|_.Tysk|
+|Bilen er hurtig|bilen är hurti|Das Auto ist schnell|
+|Bilen kører hurtig[**t**]|bilen körer hurtit|Das Auto fährt schnell|

@@ -1,4 +1,34 @@
 ---
+dansk:
+  dansk-for-dig:
+    01-det-forste-mode:
+      index.textile: dansk/dansk-for-dig/01-det-forste-mode/index.textile
+      vokabelliste:
+        index.textile: dansk/dansk-for-dig/01-det-forste-mode/vokabelliste/index.textile
+    04-rejseforberedelser:
+      index.textile: dansk/dansk-for-dig/04-rejseforberedelser/index.textile
+      vokabelliste:
+        index.textile: dansk/dansk-for-dig/04-rejseforberedelser/vokabelliste/index.textile
+    index.textile: dansk/dansk-for-dig/index.textile
+  index.textile: dansk/index.textile
+  kauderwelsch:
+    aussprache:
+      index.textile: dansk/kauderwelsch/aussprache/index.textile
+    grammatik:
+      adjektive:
+        index.textile: dansk/kauderwelsch/grammatik/adjektive/index.textile
+      adverbien:
+        index.textile: dansk/kauderwelsch/grammatik/adverbien/index.textile
+      besitzanzeigende-fuerwoerter:
+        index.textile: dansk/kauderwelsch/grammatik/besitzanzeigende-fuerwoerter/index.textile
+      die-faelle:
+        index.textile: dansk/kauderwelsch/grammatik/die-faelle/index.textile
+      index.textile: dansk/kauderwelsch/grammatik/index.textile
+      personliche-furworter:
+        index.textile: dansk/kauderwelsch/grammatik/personliche-furworter/index.textile
+      substantive:
+        index.textile: dansk/kauderwelsch/grammatik/substantive/index.textile
+    index.textile: dansk/kauderwelsch/index.textile
 espanol:
   dele-vocabulario:
     index.textile: espanol/dele-vocabulario/index.textile

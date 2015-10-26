@@ -1,0 +1,57 @@
+---
+layout: default_voc
+title: Vokabelliste
+---
+
+h1. {{ page.title }}
+
+|_.Dansk|_\4.Tysk|
+|det første møde|\4.die erste Begegnung|
+|det|das|\3.es|
+|første|\4.erst|
+|møde|\4.Begegnung|
+|kigge på|\4.anschauen|
+|på|auf|an|\2.in|
+|billede|\4.Bild|
+|og|\4.und|
+|gætte|\4.erraten|
+|sprog|\4.Sprache|
+|italiensk|\4.Italienisch|
+|tysk|\4.Deutsch|
+|engelsk|\4.Englisch|
+|græsk|\4.Griechisch|
+|russisk|\4.Russisch|
+|norsk|\4.Norwegisch|
+|spansk|\4.Spanisch|
+|tyrkisk|\4.Türkisch|
+|dansk|\4.Dänisch|
+|svensk|\4.Schwedisch|
+|fransk|\4.Französisch|
+|hollandsk|\4.Holländisch|
+|finsk|\4.Finnisch|
+|hvilke af sprogene|\4.welche der Sprachen|
+|tale|\4.sprechen|
+|du|\4.du|
+|jeg|\4.ich|
+|hej|hallo|grüß dich|\2.tschüs|
+|Hvad hedder du?|\4.Wie heißt du?|
+|hedde|\4.heißen|
+|hvad|\4.was|
+|lytte|\4.zuhören|
+|flere|\4.mehrere|
+|gang|\4.Mal|
+|hvor|\4.wo|
+|komme|\4.kommen|
+|fra|von|\3.aus|
+|goddag|\4.guten Tag|
+|også|\4.auch|
+|davs|\4.Hallo|
+|bo|\4.wohnen|
+|i|in|zu|vor|seit|
+|godaften|\4.guten Abend|
+|mit navn|\4.mein Name|
+|navn|\4.Name|
+|Er du...?|\4.Bist du ...?|
+|være|\4.sein|
+|her fra|\4.von hier|
+|ja|\4.ja|

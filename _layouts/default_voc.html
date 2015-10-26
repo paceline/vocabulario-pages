@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html ng-app="vocabularioApp">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Vocabulario - {{ page.title }}</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/vocabulario.css">
+  </head>
+  <body>
+    <div id="header">
+      <div class="navigation"><a href="http://github.com/paceline/vocabulario-pages">Contribute</a></div>
+      <div class="navigation"><a href="http://moehring.me/about">About Me</a></div>
+      <div class="navigation"><a href="/">Home</a></div>
+      <div class="navigation no-floater"><a href=""><img src="/images/logo.png"></a></div>
+    </div>
+    <div id="notice">
+      <div class="bg"><div class="bl"><div class="br"><div class="tl"><div class="tr">
+        <p>
+          {% breadcrumbs %}
+        </p>
+      </div></div></div></div></div>
+    </div>
+    <div id="vocabulario">
+      <div class="bg"><div class="bl"><div class="br"><div class="tl"><div class="tr">
+        <form ng-submit="answerQuestion()" ng-controller="VocabularioFormCtrl">
+          <div class="counter">
+            <span ng-bind="counter"></span> / <span ng-bind="total"></span>
+          </div>
+          <h1>Vocabulary trainer</h1>
+          <p ng-bind="message"></p>
+          <p ng-if="completed != ''">[[completed]] <a href="" ng-click="reset()">Start over!</a></p>
+          <label ng-bind="currentVocabulary"></label>
+          <input type="text" ng-focus="hideList()" ng-model="answer" placeholder="Translate and hit enter!">
+          <input type="submit" id="submit" value="Go" />
+          <button ng-click="quit()" ng-disabled="counter == 1">Quit</button>
+        </form>
+      </div></div></div></div></div>
+    </div>
+    <div id="main">
+      {{ content }}
+    </div>
+    <div id="footer">
+      <ul><li><a href="print.html">Print</a></li></ul>
+      <p>Created by <a href="http://moehring.me">Ulf M&ouml;hring</a>, licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons License</a></p>
+    </div>
+    <script src="//code.jquery.com/jquery-latest.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+    <script src="/js/vocabulario.js"></script>
+  </body>
+</html>

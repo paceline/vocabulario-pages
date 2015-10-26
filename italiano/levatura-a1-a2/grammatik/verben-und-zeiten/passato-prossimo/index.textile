@@ -14,8 +14,8 @@ Einige Verben bilden das passato prossimo mit *essere*. Dabei richtet sich das P
 |_.Geschlecht|_.Zahl|_.Beispiel|
 |Maskulinum|Singular|Marco è *andato*|
 |Femininum|Singular|Luisa è *andata*|
-|Maskulinum|Plural|Mara e Clara sono *andate*|
-|Femininum|Plural|Franco e Gigi sono *andati* - Luca e Rosa sono *andati*|
+|Maskulinum|Plural|Franco e Gigi sono *andati* - Luca e Rosa sono *andati*|
+|Femininum|Plural|Mara e Clara sono *andate*|
 
 h2. Das passato prossiomo der Modalverben
 

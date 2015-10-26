@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_voc
 title: Lezione 1 (conversazione)
 ---
 
@@ -23,7 +23,7 @@ h1. {{ page.title }}
 |di niente|\3.Keine Ursache|
 |domani|\3.morgen|
 |e|\3.und|
-|la foto |\3.as Foto|
+|la foto |\3.das Foto|
 |la giornale|\3.die Zeitung|
 |grazie|\3.danke|
 |grazie mille|\3.tausend Dank|
@@ -44,7 +44,7 @@ h1. {{ page.title }}
 |sì|\3.ja|
 |la signora|\3.die Frau|
 |il signore|\3.der Herr|
-|stare passen|\3.sein sich befinden|
+|stare|passend sein|\2.sich befinden|
 |lo studente|\3.der Student|
 |il telegramma|\3.das Telegramm|
 |tu|\3.du|
