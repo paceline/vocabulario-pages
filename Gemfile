@@ -1,8 +1,16 @@
-# A sample Gemfile
 source "https://rubygems.org"
+ruby '2.2.5' 
 
-# Required for Textile
-gem "RedCloth"
+# Base
+gem "jekyll", "3.5.2"
+gem 'rack-jekyll'
+gem 'rake'
+gem 'puma'
 
-# Add page extensions plugin
-gem 'jekyll_page_extensions', :path => "~/Dropbox/Projects/jekyll_page_extensions"
+# If you have any plugins, put them here!
+group :jekyll_plugins do
+  gem 'jekyll-textile-converter'
+  gem 'jekyll-watch'
+  gem 'jekyll-page_extensions'
+end
+
